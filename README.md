@@ -2,7 +2,7 @@
 
 Гайды, библиотеки, CI  скрипты - для проектирования схем в qelectrotech 
 
-- [Гайд по работе с qelectrotech](doc/qguide.md)
+- [гайд по работе с qelectrotech](https://roboticshardwaresolutions.github.io/qguide/)
 - `/qlib` - библиотеки УГО и файлы шаблонов 
 - `/el_cheker` -  скрипт для проверки правильности оформления репозитория и его содержимого
 - `/readme_gen` - скрипт для автоматической генерации README файла в проектах
