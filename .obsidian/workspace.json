@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc/qguide.md",
+                "file": "qguide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/qguide.md",
+                "file": "qguide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doc/qguide.md",
+                "file": "qguide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc/qguide.md"
+                "file": "qguide.md"
               }
             }
           }
@@ -154,20 +154,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "9164a24efb7428aa",
+        "id": "edb847380af01cc1",
         "type": "window",
         "children": [
           {
-            "id": "b1facb7530a6a439",
+            "id": "0333d723ebd90be7",
             "type": "tabs",
             "children": [
               {
-                "id": "c30e0f00c99518a8",
+                "id": "7dc8c110b6d8b100",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "doc/qguide.md",
+                    "file": "qguide.md",
                     "mode": "source",
                     "source": false
                   }
@@ -186,10 +186,11 @@
       }
     ]
   },
-  "active": "c30e0f00c99518a8",
+  "active": "7dc8c110b6d8b100",
   "lastOpenFiles": [
-    "doc/qguide.md",
+    "qguide.md",
     "README.md",
+    "doc/qguide.md",
     "attach/README 2024-05-06 20.46.47.excalidraw.md",
     "el_specgen/main.py",
     "el_specgen/template.py",
