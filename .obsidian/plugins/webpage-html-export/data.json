@@ -4,7 +4,7 @@
   "inlineAssets": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
-  "titleProperty": "title",
+  "titleProperty": "qguide",
   "customHeadContentPath": "",
   "faviconPath": "",
   "makeNamesWebStyle": false,
