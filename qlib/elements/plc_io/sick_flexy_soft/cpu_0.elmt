@@ -1,0 +1,84 @@
+<definition width="100" link_type="simple" version="0.90" hotspot_y="94" type="element" hotspot_x="25" height="210">
+    <uuid uuid="{67d9bb11-bc1f-4d4a-b113-487666041e33}"/>
+    <names>
+        <name lang="ru">FX0-STIO68002</name>
+        <name lang="en">FX0-STIO68002</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1061778</elementInformation>
+        <elementInformation show="1" name="designation">FX0-STIO68002</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">Safe EFI-pro System / Flexi Soft / I/O-модуль</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect width="90.125" x="-20" style="line-style:normal;line-weight:normal;filling:HTMLWhiteMintCream;color:HTMLYellowLightYellow" y="-88" antialias="false" height="196" rx="0" ry="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="47" text="Y5" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="17" text="A2" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="58.2812" text="I4" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-3.42188" text="Y2" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="5.75" text="IY7" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-4" text="I6" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-14" text="I5" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="48.9531" text="I3" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="28.2344" text="I1" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="16.5938" text="IY8" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="38.75" text="I2" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="36.25" text="Y4" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="7" text="A1" rotation="0" y="-77"/>
+        <circle x="58" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="80" rotation="0" y="90" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" text_width="-1" z="15" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="true">
+            <text>FX0-STIO68002</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="30" rotation="0" y="70" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" text_width="-1" z="16" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="27.25" text="Y3" rotation="0" y="101"/>
+        <circle x="48" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="56.8438" text="Y6" rotation="0" y="101"/>
+        <circle x="38" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <text font="Helvetica,9,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="13" text="SICK" rotation="0" y="-20"/>
+        <text font="Helvetica,5,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="11" text="FLEXY Soft&#xa;" rotation="0" y="-9"/>
+        <text font="Helvetica,6,-1,5,25,0,0,0,0,0,Light" color="#000000" x="12" text="FX0-STIO" rotation="0" y="0"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="28" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="58" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="48" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="38" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="28" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-13" text="Y1" rotation="0" y="-77"/>
+        <terminal x="60" y="110" uuid="{87ad36c4-0773-49e9-b163-bdb940b00f61}" orientation="s" name="" type="Generic"/>
+        <terminal x="-10" y="-90" uuid="{5e68ddf4-a7ca-45ee-a272-85856989df5a}" orientation="n" name="" type="Generic"/>
+        <terminal x="30" y="-90" uuid="{dbe80d04-3084-46c3-a05c-43c08b84cab9}" orientation="n" name="" type="Generic"/>
+        <terminal x="50" y="110" uuid="{38c2f58b-1805-4730-a422-9189b481afcd}" orientation="s" name="" type="Generic"/>
+        <terminal x="30" y="110" uuid="{ed2a49f0-6bfa-4bd4-a656-b664f053695d}" orientation="s" name="" type="Generic"/>
+        <terminal x="10" y="110" uuid="{da944c28-23c6-40ea-aada-206ca0655d46}" orientation="s" name="" type="Generic"/>
+        <terminal x="40" y="-90" uuid="{c00a5c80-9752-48ad-9259-57317a93e3ee}" orientation="n" name="" type="Generic"/>
+        <terminal x="10" y="-90" uuid="{177d0c7a-f96e-4e23-b248-8cf34018f1e1}" orientation="n" name="" type="Generic"/>
+        <terminal x="0" y="110" uuid="{3100d671-43ca-4d5c-9c7b-64826076a9d9}" orientation="s" name="" type="Generic"/>
+        <terminal x="-10" y="110" uuid="{c35035cc-e529-4405-a08e-dd57386f56a6}" orientation="s" name="" type="Generic"/>
+        <terminal x="40" y="110" uuid="{03bf1b18-8d71-4868-b8ac-e75d7627db09}" orientation="s" name="" type="Generic"/>
+        <terminal x="60" y="-90" uuid="{ae56cd41-d279-45d6-8091-7624f49b73f3}" orientation="n" name="" type="Generic"/>
+        <terminal x="0" y="-90" uuid="{2fcddd84-0674-4daa-8251-f0810767374c}" orientation="n" name="" type="Generic"/>
+        <terminal x="20" y="-90" uuid="{3ff1ff27-d18a-4871-9072-680bafe0c85b}" orientation="n" name="" type="Generic"/>
+        <terminal x="50" y="-90" uuid="{bc08c4f4-325f-4126-a361-f9e5607d49e7}" orientation="n" name="" type="Generic"/>
+        <terminal x="20" y="110" uuid="{17e43d95-1c88-4d91-a022-10242498aad6}" orientation="s" name="" type="Generic"/>
+    </description>
+</definition>

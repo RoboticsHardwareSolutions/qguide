@@ -1,0 +1,40 @@
+<definition height="50" version="0.90" hotspot_x="25" link_type="master" hotspot_y="24" type="element" width="50">
+    <uuid uuid="{b15b8da5-c69b-46e4-aebb-bee785da1918}"/>
+    <names>
+        <name lang="en">2299223-2 / EVC500</name>
+        <name lang="ru">2299223-2 / EVC500</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Contactor</elementInformation>
+        <elementInformation show="1" name="comment">Alternative Part EVC500</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">TE</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">2299223-2</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect antialias="false" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" ry="0" rx="0" x="-20" width="40"/>
+        <line y2="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" end2="none" length2="1.5" y1="10" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="4" text_width="-1" y="35" uuid="{8a10eed7-4c11-42a7-9027-0e93958df06b}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="5" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>2299223-2</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="5" text_width="-1" y="15.5" uuid="{f20b0c34-6676-46f3-a8b2-83cdde4aeba4}" frame="false" rotation="0" text_from="ElementInfo" keep_visual_rotation="false" x="5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="s" y="20" uuid="{6444d71e-5cc2-4c3f-9a18-0a8d5c1039f8}" name="" type="Generic" x="0"/>
+        <terminal orientation="n" y="-20" uuid="{c3a1e4ab-931a-4767-b067-8a2867d2a7e3}" name="" type="Generic" x="0"/>
+    </description>
+</definition>

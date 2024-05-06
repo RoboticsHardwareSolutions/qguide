@@ -1,0 +1,56 @@
+<definition hotspot_x="75" height="120" hotspot_y="76" version="0.90" width="100" type="element" link_type="simple">
+    <uuid uuid="{8e55b1d6-3ba9-4b01-8fd2-b6da8f9caaae}"/>
+    <names>
+        <name lang="ru">actuator</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" y="21" rotation="0" x="-10" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="21" rotation="0" x="12.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="21" rotation="0" x="-32.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="21" rotation="0" x="-55" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="5" text="ACTUATOR_A&#xa;" rotation="270" x="0" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="30.7627" y2="30.7627" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-17.4346" antialias="false" end2="none" x2="10.5654" length2="1.5"/>
+        <dynamic_text keep_visual_rotation="false" y="-10.5" rotation="0" x="24.25" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="7" Valignment="AlignTop" uuid="{84515850-3f2d-44ac-8a2f-5cd852ce8123}" Halignment="AlignLeft" text_width="-1" text_from="UserText" frame="false">
+            <text>ACTUATOR</text>
+        </dynamic_text>
+        <text y="5" text="ACTUATOR_B" rotation="270" x="-45" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="29.5" y2="38.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="8.5" antialias="false" end2="none" x2="8.5" length2="1.5"/>
+        <line y1="29.5" y2="38.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-14" antialias="false" end2="none" x2="-14" length2="1.5"/>
+        <line y1="29.5" y2="38.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-59" antialias="false" end2="none" x2="-59" length2="1.5"/>
+        <line y1="29.5" y2="38.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-36.5" antialias="false" end2="none" x2="-36.5" length2="1.5"/>
+        <arc y="39.5" height="6" x="-62" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="39.5" height="6" x="5.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="39.5" height="6" x="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="39.5" height="6" x="-39.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="39.5" height="6" x="-62" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="39.5" height="6" x="5.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="39.5" height="6" x="-39.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="39.5" height="6" x="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <rect y="-73.8594" height="110" ry="0" x="-69.7188" style="line-style:normal;line-weight:normal;filling:none;color:black" width="90" antialias="false" rx="0"/>
+        <line y1="31" y2="31" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-61.6045" antialias="false" end2="none" x2="-33.6045" length2="1.5"/>
+        <text y="24" text="16" rotation="0" x="-66" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="24" text="15" rotation="0" x="-44" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="24" text="14" rotation="0" x="-22" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="24" text="13" rotation="0" x="2" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <rect y="11.125" height="25" ry="0" x="-69.7188" style="line-style:normal;line-weight:normal;filling:none;color:black" width="43.7188" antialias="false" rx="0"/>
+        <rect y="11.1074" height="25" ry="0" x="-24.7627" style="line-style:normal;line-weight:normal;filling:none;color:black" width="45" antialias="false" rx="0"/>
+        <terminal y="28.5" x="-36.5" name="" type="Generic" orientation="n" uuid="{07ede503-7934-499b-943b-cc225457f638}"/>
+        <terminal y="28.5" x="-14" name="" type="Generic" orientation="n" uuid="{5eda7198-7619-4950-b3c2-490e2ffd1ed0}"/>
+        <terminal y="28.5" x="8.5" name="" type="Generic" orientation="n" uuid="{1d616653-bf4d-4156-b790-898d7db5e20f}"/>
+        <terminal y="28.5" x="-59" name="" type="Generic" orientation="n" uuid="{5512d6d5-6572-4ff2-a5b4-f80e0ee3920a}"/>
+    </description>
+</definition>

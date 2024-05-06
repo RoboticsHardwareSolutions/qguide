@@ -1,0 +1,35 @@
+<definition height="50" version="0.90" hotspot_x="25" link_type="simple" hotspot_y="25" type="element" width="50">
+    <uuid uuid="{5bbea954-3148-4eb1-be44-209b05a61307}"/>
+    <names>
+        <name lang="en">Pushbutton</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Исполнительный механизм кнопки XB4 "Грибок" красный поворотный с фиксацией без подсветки EKF PROxima</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">EKF PROxima</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">XB4BSF-R</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text Valignment="AlignTop" z="1" text_width="-1" y="-45" uuid="{cb56b327-7dc7-4814-9b5d-2d232170765f}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="-6" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text>XB4BSF-R</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <circle antialias="true" style="line-style:normal;line-weight:normal;filling:red;color:black" diameter="44" y="-22" x="-22"/>
+        <circle antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="28" y="-14" x="-14"/>
+        <circle antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:black" diameter="40" y="-20" x="-20"/>
+        <dynamic_text Valignment="AlignTop" z="5" text_width="-1" y="36.5" uuid="{6c87ed7d-c859-45c2-823e-aff6300dde0e}" frame="false" rotation="0" text_from="ElementInfo" keep_visual_rotation="false" x="-17" font="Sans Serif,6,-1,5,25,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

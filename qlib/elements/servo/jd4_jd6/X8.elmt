@@ -1,0 +1,28 @@
+<definition version="0.90" width="50" type="element" height="100" link_type="slave" hotspot_x="37" hotspot_y="37">
+    <uuid uuid="{caa78c31-7182-4680-b435-1332544b8c9f}"/>
+    <names>
+        <name lang="ru">X10</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="48" antialias="false"/>
+        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-12" antialias="false"/>
+        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="28" antialias="false"/>
+        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="8" antialias="false"/>
+        <text x="-15" text="X8" y="-25" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="720" color="#000000"/>
+        <text x="-21" text="PE" y="53" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <text x="-21" text="W" y="33" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <text x="-20" text="U" y="-6" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <text x="-20" text="V" y="13" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
+        <rect ry="0" x="-28" width="35" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" rx="0" height="80" antialias="false"/>
+        <terminal x="-30" y="50" uuid="{5cdc8cef-d559-478f-ab72-fa923f20aef2}" type="Generic" name="" orientation="w"/>
+        <terminal x="-30" y="10" uuid="{838d05ab-98be-4c00-8a1d-eb4c62cafc1d}" type="Generic" name="" orientation="w"/>
+        <terminal x="-30" y="-10" uuid="{eb58611e-c0a1-4e89-882c-c8ad2abed30a}" type="Generic" name="" orientation="w"/>
+        <terminal x="-30" y="30" uuid="{1f15810d-2075-461d-a490-9ce7a985342e}" type="Generic" name="" orientation="w"/>
+    </description>
+</definition>

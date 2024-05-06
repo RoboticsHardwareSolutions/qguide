@@ -1,0 +1,48 @@
+<definition hotspot_y="5" hotspot_x="19" version="0.90" link_type="simple" height="30" width="40" type="element">
+    <uuid uuid="{e4cff78e-3e25-4896-8f9a-fb18281ae183}"/>
+    <names>
+        <name lang="en">Weipu SA2012/S2B1</name>
+        <name lang="ru">Weipu SA2012/S2B1</name>
+        <name lang="hu">Weipu SA2012/S2B1</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">IP 67 Connector</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Weipu</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">Weipu SA2012/S2B1</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Weipu SA2012/S2B1</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="15" antialias="false" x1="-15" y2="11" y1="11" length2="1.5" end2="none" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="10" antialias="false" x1="10" y2="15" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <text text="2" x="12.5156" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="13" antialias="false" x1="10" y2="-3" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="7" antialias="false" x1="10" y2="-3" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-10" antialias="false" x1="-10" y2="15" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <dynamic_text keep_visual_rotation="true" text_from="ElementInfo" z="19" x="-20" text_width="-1" Valignment="AlignTop" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" rotation="0" y="15" uuid="{dffe6cad-58c7-478b-9e86-5bce11c771f8}" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-7" antialias="false" x1="-10" y2="-3" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-13" antialias="false" x1="-10" y2="-3" y1="0" length2="1.5" end2="none" length1="1.5"/>
+        <text text="1" x="-7" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="20"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="15" antialias="false" x1="-15" y2="7" y1="7" length2="1.5" end2="none" length1="1.5"/>
+        <dynamic_text keep_visual_rotation="false" text_from="CompositeText" z="27" x="23" text_width="-1" Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" rotation="0" y="-5" uuid="{ffc9e59f-e1da-4506-a6c2-fd372b0ebe57}" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" text_from="CompositeText" z="28" x="22" text_width="-1" Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" rotation="0" y="11" uuid="{0a38d111-9b3f-468b-ac1d-d32fb7278071}" Halignment="AlignLeft">
+            <text>Weipu SA2012/S2B1</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <terminal name="" orientation="s" x="10" y="20" uuid="{14f02bc1-6819-438d-8b5b-4ad91968a1ad}" type="Generic"/>
+        <terminal name="" orientation="s" x="-10" y="20" uuid="{5f057df2-99ef-4b04-8009-8591e02439f4}" type="Generic"/>
+    </description>
+</definition>

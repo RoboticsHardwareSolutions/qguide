@@ -1,0 +1,40 @@
+<definition link_type="slave" version="0.90" hotspot_y="55" hotspot_x="19" height="110" width="50" type="element">
+    <uuid uuid="{491ffaba-9603-4480-a446-84b97d0e08a1}"/>
+    <names>
+        <name lang="ru">CN2 Encoder Terminals</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="8" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="-2" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="-22" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="38" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="28" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="-32" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="18" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" y="-12" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="-7" text="CLK+" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="-27" text="PG5V" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="23" text="PS-" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="13" text="PS+" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="33" text="BAT+" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="43" text="BAT-" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="3" text="CLK-" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-1" y="-17" text="PG0V" color="#000000" rotation="0"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-8" rx="0" y="-38" height="86" width="32" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="0" y="-38" text="CN2" color="#000000" rotation="0"/>
+        <terminal x="-10" uuid="{19537a20-b44f-4d1b-b3a9-0af83eaf6c30}" y="-20" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{d68eee23-f468-4976-a2a3-a7228bc362a9}" y="0" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{1e65688b-a54e-4950-b883-8e17c1a8a4a6}" y="-10" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{4ecfa2ce-ba40-4545-a2c8-a601bafc468c}" y="20" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{280ff6b7-0b3a-4977-990f-c57c95d2c259}" y="40" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{a7a7a45d-4010-4a4d-a480-617842d58bea}" y="10" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{d3e5cac1-191d-486a-a397-78389341a009}" y="30" name="" orientation="w" type="Generic"/>
+        <terminal x="-10" uuid="{c61c3e95-25e0-4b7e-a476-a63f7f96c9b3}" y="-30" name="" orientation="w" type="Generic"/>
+    </description>
+</definition>

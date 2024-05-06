@@ -1,0 +1,41 @@
+<definition type="element" height="50" version="0.90" hotspot_y="20" link_type="simple" width="60" hotspot_x="30">
+    <uuid uuid="{8c79cffc-9459-4eb6-8743-fc22158ce04f}"/>
+    <names>
+        <name lang="ru">Actuator 2 wire</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">FUZHOU</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">Actuator 100mm 12V</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">FUZHOU 100mm 12V 5mm/s</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Actuator FUZHOU 100mm 12V 5mm/s</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="41" antialias="false" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-18" width="50" rx="0" x="-25"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="20" x="-13"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="20" x="7"/>
+        <dynamic_text Valignment="AlignTop" uuid="{10ef3f12-4c92-4a32-8f02-901195b370db}" text_from="UserText" z="5" Halignment="AlignLeft" y="10" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="-27" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal">
+            <text>BR</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{b8f166b4-7b85-4a12-a59b-c70e4fc6b7ab}" text_from="UserText" z="6" Halignment="AlignLeft" y="10" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="10" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal">
+            <text>BL</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{5947aeb1-f2d6-4511-9155-50d9d3b6b085}" text_from="CompositeText" z="8" Halignment="AlignLeft" y="-38" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="-64" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>Actuator 100mm 12V</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{51576f7f-0b2c-4d97-9ea2-ef871c5d9358}" text_from="CompositeText" z="9" Halignment="AlignLeft" y="-54" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="-22" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" uuid="{a00dd244-98f3-4aa9-b96d-b82c32f045c8}" y="25" name="" x="-10" orientation="s"/>
+        <terminal type="Generic" uuid="{f61eb1ba-fcb1-4c89-b051-b8bc2c8ec91a}" y="25" name="" x="10" orientation="s"/>
+    </description>
+</definition>

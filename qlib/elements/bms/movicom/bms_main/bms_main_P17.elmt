@@ -1,0 +1,29 @@
+<definition type="element" version="0.90" hotspot_x="25" width="50" link_type="slave" height="40" hotspot_y="20">
+    <uuid uuid="{6000c21a-12c1-4c3f-8ee1-5488bc5f1a4c}"/>
+    <names>
+        <name lang="en">BMS Main 2.1  P17</name>
+        <name lang="ru">BMS Main 2.1  P17</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <polygon y1="-16.035" x2="8.21" y2="-16.035" y4="16.035" x4="-17.9" x3="8.21" y3="16.035" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false" x1="-17.9"/>
+        <polygon y1="-13.945" x2="2.87" y2="-13.945" y4="13.935" x4="-15.21" x3="2.87" y3="13.935" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false" x1="-15.21"/>
+        <polygon y1="-4.295" x2="-10.68" y2="-4.295" y4="4.285" x4="-17.91" x3="-10.68" y3="4.285" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false" x1="-17.91"/>
+        <polygon y1="-11.665" x2="2.87" y2="-11.665" y4="11.665" x4="0.22" x3="2.87" y3="11.665" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x1="0.22"/>
+        <text text="P17" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-6" color="#000000" x="12" rotation="90"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" y="16" text_width="-1" uuid="{eb92de6d-d3fe-48fb-924f-7cdc22441681}" z="6" Halignment="AlignLeft" Valignment="AlignTop" text_from="CompositeText" x="23" rotation="0" frame="false">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" y="-3" text_width="-1" uuid="{740363e1-a94f-4555-bdc2-9451aee9cee1}" z="7" Halignment="AlignLeft" Valignment="AlignTop" text_from="CompositeText" x="23" rotation="0" frame="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" y="0" uuid="{2830c350-afd4-4784-a8bb-dfc4224a6299}" orientation="w" name="" x="-20"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition type="element" width="30" link_type="simple" height="20" version="0.100.0" hotspot_x="13" hotspot_y="6">
+    <uuid uuid="{351c2299-1036-41e6-9d64-14771e43f6e2}"/>
+    <names>
+        <name lang="en">MZ-77E250B/KR</name>
+        <name lang="ru">MZ-77E250B/KR</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Samsung</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1">SATA накопитель Samsung 870 EVO</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">MZ-77E250B/KR</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-7" y="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" width="17" height="13" antialias="false" rx="0" ry="0"/>
+        <text x="-2" y="5" color="#000000" font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" text="SSD"/>
+        <dynamic_text x="13" text_from="CompositeText" y="-10" z="3" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" Halignment="AlignLeft" uuid="{50890b5f-5eaf-44d9-9a66-f2b3233714d7}" keep_visual_rotation="false" rotation="0" text_width="-1">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text x="13" text_from="CompositeText" y="3" z="4" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" Halignment="AlignLeft" uuid="{b68e5002-c575-4faf-b474-9c665b96b4d3}" keep_visual_rotation="false" rotation="0" text_width="-1">
+            <text>MZ-77E250B/KR</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

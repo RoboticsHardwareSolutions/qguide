@@ -1,0 +1,36 @@
+<definition height="50" version="0.100.0" width="60" link_type="simple" hotspot_x="24" hotspot_y="25" type="element">
+    <uuid uuid="{9153ebdc-4bf9-49c1-9f41-5415fcd84f36}"/>
+    <names>
+        <name lang="en">TL740D</name>
+        <name lang="ru">TL740D</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">TL7740D-C2-1</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">IMU TL740D</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Rion Tech</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" width="40" y="-20" antialias="false" rx="4" ry="4"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" x1="25" x2="20" antialias="false"/>
+        <circle diameter="32" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-16" y="-16" antialias="false"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" x="-8" y="4" text="IMU"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" Halignment="AlignLeft" uuid="{ff406053-6859-42f7-96ec-f284f89750aa}" text_width="-1" rotation="0" x="36" y="-28" z="5" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" Halignment="AlignLeft" uuid="{5926b590-7abe-4c30-8c16-fed6ea8d8e0c}" text_width="-1" rotation="0" x="38" y="6" z="6" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text>TL7740D-C2-1</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{b209c866-68ac-493e-a588-4c64a92e17a4}" x="30" y="0" orientation="e" type="Generic"/>
+    </description>
+</definition>

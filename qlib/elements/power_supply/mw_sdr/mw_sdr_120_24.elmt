@@ -1,0 +1,85 @@
+<definition hotspot_x="21" hotspot_y="44" version="0.100.0" width="80" type="element" height="90" link_type="simple">
+    <uuid uuid="{19da2319-cae7-402b-a39e-ee75965a97b0}"/>
+    <names>
+        <name lang="en">SDR-120-24</name>
+        <name lang="ru">SDR-120-24</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation">SDR-120-24</elementInformation>
+        <elementInformation show="1" name="manufacturer">Mean Well</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="description">Блок питания AC-DC на DIN-рейку 120Вт, выход 24В/5A</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="8" y="26" rotation="0" frame="false" Valignment="AlignTop" z="1" Halignment="AlignLeft" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{20f5d538-0029-4b46-9a65-cdfd54885508}" text_width="-1">
+            <text>+</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="-12" y="26" rotation="0" frame="false" Valignment="AlignTop" z="1" Halignment="AlignLeft" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{20f5d538-0029-4b46-9a65-cdfd54885508}" text_width="-1">
+            <text>-</text>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" end1="none" y2="-35" end2="none" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="17" y="-5" rotation="0" frame="false" Valignment="AlignTop" z="1" Halignment="AlignLeft" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{20f5d538-0029-4b46-9a65-cdfd54885508}" text_width="-1">
+            <text>24V</text>
+        </dynamic_text>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="28" y="36" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="48" y="36" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="8" y="36" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="-11.25" y="-27.5" rotation="0" frame="false" Valignment="AlignTop" z="5" Halignment="AlignLeft" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{3199363a-2af4-4c26-87e3-73c537209230}" text_width="-1">
+            <text>85-264V</text>
+        </dynamic_text>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12" y="36" antialias="false"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="4.95" angle="-180" x="2.2" y="-15.5" height="4.8" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" end1="none" y2="8" end2="none" x1="20.75" x2="30.75" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" end1="none" y2="6" end2="none" x1="20.75" x2="30.75" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="8" y="-26" rotation="270" frame="false" Valignment="AlignTop" z="11" Halignment="AlignLeft" font="Sans Serif,6,-1,5,50,0,0,0,0,0" uuid="{674c0c75-469e-48df-adf7-8c25b0272866}" text_width="-1">
+            <text>N</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="-10" y="-24" rotation="270" frame="false" Valignment="AlignTop" z="12" Halignment="AlignLeft" font="Sans Serif,6,-1,5,50,0,0,0,0,0" uuid="{8457a85f-0429-4a90-96a5-cb77a64b5104}" text_width="-1">
+            <text>L1</text>
+        </dynamic_text>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" width="4.95" angle="-180" x="-2.75" y="-15.5" height="4.8" antialias="true"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="64" x="-13" y="-25" height="40" rx="0" antialias="false"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="70" x="-16" y="-38" height="76" rx="0" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-9" end1="none" y2="-9" end2="none" x1="-3.25" x2="6.75" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-25" end1="none" y2="-35" end2="none" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-26" end1="none" y2="-36" end2="none" x1="30" x2="30" length1="1.5" length2="1.5" antialias="false"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" x="9" y="24" height="6" rx="0" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="15" end1="none" y2="28" end2="none" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="35" end1="none" y2="28" end2="none" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="13" end1="none" y2="-25" end2="none" x1="-13" x2="50" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="15" end1="none" y2="-23" end2="none" x1="-12" x2="51" length1="1.5" length2="1.5" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" text_from="UserText" x="-6" y="19" rotation="0" frame="false" Valignment="AlignTop" z="25" Halignment="AlignLeft" font="Sans Serif,4,-1,5,25,0,0,0,0,0" uuid="{59c9471b-0bac-4f21-a0ab-9f1feaf8da6c}" text_width="-1">
+            <text>5A</text>
+        </dynamic_text>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12" y="-40" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="8" y="-40" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="28" y="-40" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="36" end1="none" y2="15" end2="none" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="36" end1="none" y2="30" end2="none" x1="30" x2="30" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" end1="none" y2="30" end2="none" x1="30" x2="36" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" end1="none" y2="24" end2="none" x1="36" x2="43" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="30" end1="none" y2="30" end2="none" x1="44" x2="50" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="36" end1="none" y2="30" end2="none" x1="50" x2="50" length1="1.5" length2="1.5" antialias="false"/>
+        <text color="#000000" text="DC OK" x="28" y="23" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0"/>
+        <line style="line-style:dashdotted;line-weight:thin;filling:none;color:black" y1="26" end1="none" y2="15" end2="none" x1="40" x2="40" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-36" end1="none" y2="-32" end2="none" x1="36" x2="36" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-32" end1="none" y2="-32" end2="none" x1="33" x2="39" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30" end1="none" y2="-30" end2="none" x1="34" x2="38" length1="1.5" length2="1.5" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28" end1="none" y2="-28" end2="none" x1="35" x2="37" length1="1.5" length2="1.5" antialias="false"/>
+        <terminal x="10" y="-40" type="Generic" orientation="n" name="" uuid="{d07225b4-9e3b-46fb-84a2-4a78f601dc13}"/>
+        <terminal x="30" y="40" type="Generic" orientation="s" name="" uuid="{1bf20928-4272-4946-b41f-983b85341a7c}"/>
+        <terminal x="-10" y="40" type="Generic" orientation="s" name="" uuid="{04a48ac2-86f3-477b-aedb-2b721e27257e}"/>
+        <terminal x="10" y="40" type="Generic" orientation="s" name="" uuid="{12de682a-73a9-4528-ab4e-12b6eb546c94}"/>
+        <terminal x="30" y="-40" type="Generic" orientation="n" name="" uuid="{12d3f81c-1fd1-445d-9d6f-262073816055}"/>
+        <terminal x="-10" y="-40" type="Generic" orientation="n" name="" uuid="{171678d6-6157-4775-aa75-055ad17ef929}"/>
+        <terminal x="50" y="40" type="Generic" orientation="s" name="" uuid="{6d744f62-4ddf-43f4-956f-87d9e913807c}"/>
+    </description>
+</definition>

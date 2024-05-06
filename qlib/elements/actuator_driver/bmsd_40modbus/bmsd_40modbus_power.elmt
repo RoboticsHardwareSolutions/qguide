@@ -1,0 +1,66 @@
+<definition hotspot_x="85" height="70" hotspot_y="64" version="0.90" width="170" type="element" link_type="simple">
+    <uuid uuid="{4b7da8af-e3aa-4f05-852f-a051ec6daed0}"/>
+    <names>
+        <name lang="ru">power</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" y="-20" rotation="0" x="26.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18" rotation="0" x="60" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18" rotation="0" x="37.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-19" rotation="0" x="57" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18" rotation="0" x="-14.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-20" rotation="0" x="-48" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18" rotation="0" x="-37" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{2def0499-e52e-4e42-9cb2-5790e0ccacd4}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="-30" text="GND" rotation="0" x="28" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="-9" y2="-9" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="26.9297" antialias="false" end2="none" x2="56.9297" length2="1.5"/>
+        <text y="-14.0956" text="2" rotation="0" x="26.0113" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-15" text="1" rotation="0" x="50" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="-10.5" y2="-1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="53" antialias="false" end2="none" x2="53" length2="1.5"/>
+        <line y1="-10.5" y2="-1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="30.5" antialias="false" end2="none" x2="30.5" length2="1.5"/>
+        <line y1="-10.5" y2="-1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-45" antialias="false" end2="none" x2="-45" length2="1.5"/>
+        <dynamic_text keep_visual_rotation="false" y="-40" rotation="0" x="85" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="9" Valignment="AlignTop" uuid="{d1ed3fe5-d056-4104-b229-2d2da5ec5bf4}" Halignment="AlignLeft" text_width="-1" text_from="UserText" frame="false">
+            <text>POWER</text>
+        </dynamic_text>
+        <line y1="-10.5" y2="-1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-22.5" antialias="false" end2="none" x2="-22.5" length2="1.5"/>
+        <arc y="-0.5" height="6" x="-48" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="-0.5" height="6" x="-25.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="-0.5" height="6" x="27.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="-0.5" height="6" x="50" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="-0.5" height="6" x="27.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="-0.5" height="6" x="-25.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="-0.5" height="6" x="-48" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="-0.5" height="6" x="50" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <rect y="-62" height="56" ry="0" x="-83" style="line-style:normal;line-weight:normal;filling:none;color:black" width="165" antialias="false" rx="0"/>
+        <line y1="-9" y2="-9" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-49.1602" antialias="false" end2="none" x2="-19.1602" length2="1.5"/>
+        <text y="-43" text="    VIN&#xa;12-24VDC" rotation="0" x="-60" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-14.0956" text="4" rotation="0" x="-48.4887" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-15" text="3" rotation="0" x="-26" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <terminal y="-11.5" x="30.5" name="" type="Generic" orientation="n" uuid="{66011b93-fb16-4087-b961-9cfd126e4aaf}"/>
+        <terminal y="-11.5" x="53" name="" type="Generic" orientation="n" uuid="{548d9881-581c-4b99-8981-e866e5cc3405}"/>
+        <terminal y="-11.5" x="-22.5" name="" type="Generic" orientation="n" uuid="{e621e0be-590d-4239-9962-d339eaf68d68}"/>
+        <terminal y="-11.5" x="-45" name="" type="Generic" orientation="n" uuid="{b7636a53-4614-40de-9241-0eba2f940cfd}"/>
+    </description>
+</definition>

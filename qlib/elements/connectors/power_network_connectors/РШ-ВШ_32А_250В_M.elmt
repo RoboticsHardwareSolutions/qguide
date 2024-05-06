@@ -1,0 +1,40 @@
+<definition hotspot_y="21" type="element" height="30" hotspot_x="26" width="60" version="0.90" link_type="slave">
+    <uuid uuid="{2dfba0de-1c59-44a7-881c-af9c4680fc5b}"/>
+    <names>
+        <name lang="en">AS-250-O-03 Fork Slave</name>
+        <name lang="ru">AS-250-O-03 Fork Slave</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" length1="1.5" y1="-11" length2="1.5" end1="none" x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-14" antialias="false" x2="0"/>
+        <line end2="none" length1="1.5" y1="-11" length2="1.5" end1="none" x1="17" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-14" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="-11" length2="1.5" end1="none" x1="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-14" antialias="false" x2="-20"/>
+        <line end2="none" length1="1.5" y1="-14" length2="1.5" end1="none" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-11" antialias="false" x2="23"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-13" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="-14" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-11" antialias="false" x2="-17"/>
+        <line end2="none" length1="1.5" y1="-9" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-9" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="-7" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-7" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="-14" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-11" antialias="false" x2="3"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="22" rotation="0" y="0" text="PE"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-13" antialias="false" x2="0"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-13" antialias="false" x2="-20"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-18" rotation="0" y="0" text="L"/>
+        <dynamic_text text_from="CompositeText" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="30" z="25" rotation="0" uuid="{54146f8c-a958-4788-95da-50831844a381}" y="-8" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>PSN52-016-5</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="2" rotation="0" y="0" text="N"/>
+        <dynamic_text text_from="CompositeText" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="32" z="26" rotation="0" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" y="-28" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal name="" type="Generic" x="0" uuid="{e7ec0533-1864-4de7-a508-db2a6068dd12}" y="0" orientation="s"/>
+        <terminal name="" type="Generic" x="-20" uuid="{702af601-fad3-4fe7-b1d9-032890c5e5b8}" y="0" orientation="s"/>
+        <terminal name="" type="Generic" x="20" uuid="{7d1113bf-5418-4d5c-a193-817d5fb413a4}" y="0" orientation="s"/>
+    </description>
+</definition>

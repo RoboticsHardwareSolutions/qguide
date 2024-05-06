@@ -1,0 +1,33 @@
+<definition height="10" version="0.90" hotspot_x="19" link_type="simple" hotspot_y="-3" type="element" width="40">
+    <uuid uuid="{17acb4a9-1e22-4eaa-9d20-beba8c085029}"/>
+    <names>
+        <name lang="en">Receptacle Housing 2x1</name>
+        <name lang="ru">Receptacle Housing 2x1</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description">Mini-Fit Jr. Receptacle Housing, Dual Row, 2 Circuits, UL 94V-2, Natural</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment">Alternative Part : 39013022 / 39012025</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Molex</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">39012020</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" x2="16" length1="1.5" end2="none" length2="1.5" y1="6" end1="none"/>
+        <line y2="9" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" x2="16" length1="1.5" end2="none" length2="1.5" y1="9" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="19" text_width="-1" y="-15" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" frame="false" rotation="0" text_from="ElementInfo" keep_visual_rotation="true" x="25" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="21" text_width="-1" y="5" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="20" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>39012020</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

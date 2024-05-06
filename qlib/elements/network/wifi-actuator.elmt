@@ -1,0 +1,33 @@
+<definition hotspot_y="15" hotspot_x="20" version="0.90" link_type="simple" height="30" width="40" type="element">
+    <uuid uuid="{a7cb3091-fb3a-4bde-989a-786190b455c6}"/>
+    <names>
+        <name lang="de"> RBwAPR-2nD&amp;R11e-LTE</name>
+        <name lang="en"> RBwAPR-2nD&amp;R11e-LTE</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">MIKROTIK  RBwAPR-2nD&amp;R11e-LTE WapR</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Mikrotik</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">RBwAPR-2nD&amp;R11e-LTE </elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">RBwAPR-2nD&amp;R11e-LTE </elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="2" x="-1" antialias="true" y="-1"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" antialias="true" angle="90" height="6" width="6" start="45" y="-3"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="-5" antialias="true" angle="90" height="10" width="10" start="45" y="-5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="-7" antialias="true" angle="90" height="14" width="14" start="45" y="-7"/>
+        <rect rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" x="-17" antialias="false" height="18" width="34" y="-12"/>
+        <dynamic_text keep_visual_rotation="true" text_from="ElementInfo" z="14" x="-17" text_width="-1" Valignment="AlignTop" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" frame="false" rotation="0" y="-14" uuid="{92478ee8-d8fa-4dd9-858b-e1f3eeaea3ed}" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" orientation="s" x="0" y="10" uuid="{228fd84a-4e24-42f5-b70c-0472086822a1}" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition link_type="simple" hotspot_y="25" width="30" hotspot_x="14" version="0.90" height="30" type="element">
+    <uuid uuid="{06518bea-1174-4ee3-b275-1ea4b3385de1}"/>
+    <names>
+        <name lang="en">Basic  XB4BZ01</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">XB4BZ01</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">База для арматуры управления XB4 металлическая EKF PROxima</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">EKF PROxima</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line end2="none" end1="none" y1="0" x1="-10" length2="1.5" length1="1.5" x2="11" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-10" x1="0" length2="1.5" length1="1.5" x2="0" y2="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-10" x1="0" length2="1.5" length1="1.5" x2="0" y2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="21" uuid="{ec050c78-adec-420a-be1a-7493e7b176d1}" z="4" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="4" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>XB4BZ01</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text x="20" uuid="{36e6562d-578c-42d8-b73d-3923ee09fde4}" z="5" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="-19" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

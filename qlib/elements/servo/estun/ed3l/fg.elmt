@@ -1,0 +1,22 @@
+<definition link_type="slave" version="0.90" hotspot_y="33" hotspot_x="30" height="60" width="60" type="element">
+    <uuid uuid="{633c57b1-55e0-4e94-86eb-8f14d1da979d}"/>
+    <names>
+        <name lang="ru">FG</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2" y="16" antialias="false"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-24" rx="0" y="-13" height="31" width="47" antialias="false"/>
+        <line end1="none" length1="1.5" y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="3" end2="none" y2="10" x1="-3" antialias="false"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-7" y="-16" text="FG" color="#000000" rotation="0"/>
+        <line end1="none" length1="1.5" y1="8" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="5" end2="none" y2="8" x1="-5" antialias="false"/>
+        <line end1="none" length1="1.5" y1="6" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="7" end2="none" y2="6" x1="-7" antialias="false"/>
+        <line end1="none" length1="1.5" y1="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="0" end2="none" y2="6" x1="0" antialias="false"/>
+        <terminal x="0" uuid="{47a10e19-791b-4606-8d5e-3b7bd1a43671}" y="20" name="" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,3 @@
+[templates]
+    template_titul = "/template/spec_titul.docx"
+    template_table = "/template/spec_table.docx"

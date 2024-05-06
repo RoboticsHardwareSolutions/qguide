@@ -1,0 +1,25 @@
+<definition width="200" height="10" version="0.90" type="element" hotspot_x="100" hotspot_y="4" link_type="simple">
+    <uuid uuid="{8060e684-fb62-46c1-bc10-70fe9d74b2aa}"/>
+    <names>
+        <name lang="en">Contact HIROSE 10</name>
+        <name lang="ru">Contact HIROSE 10</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1">DF11-10DS-2C</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">HIROSE</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">DF11-10DS-2C</elementInformation>
+        <elementInformation name="description" show="1">Contcact holder</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="-95" y2="2.5" end1="none" length1="1.5" x2="95" length2="1.5" antialias="false" y1="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <line x1="-95" y2="-2.5" end1="none" length1="1.5" x2="95" length2="1.5" antialias="false" y1="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+    </description>
+</definition>

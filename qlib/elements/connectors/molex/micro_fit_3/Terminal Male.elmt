@@ -1,0 +1,27 @@
+<definition height="30" version="0.100.0" width="20" link_type="simple" hotspot_x="10" hotspot_y="4" type="element">
+    <uuid uuid="{4303053a-4026-4d18-8148-199e1f191fca}"/>
+    <names>
+        <name lang="en">Terminal Male 20-24 AWG</name>
+        <name lang="ru">Terminal Male 20-24 AWG</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430310001</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Crimp Terminal, Male 20-24 </elementInformation>
+        <elementInformation name="comment" show="1">Alternative Part : 430310002  / 430310003 / 430310007 /  430310008</elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" y2="23" x1="-4" x2="0" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="23" y2="19" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="22" y2="5" x1="0" x2="0" antialias="false"/>
+        <terminal name="" uuid="{b4cb628a-630f-438e-9a96-5ea8fff32ae6}" x="0" y="0" orientation="n" type="Generic"/>
+    </description>
+</definition>

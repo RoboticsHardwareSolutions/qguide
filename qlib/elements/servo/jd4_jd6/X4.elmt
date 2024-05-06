@@ -1,0 +1,53 @@
+<definition link_type="slave" type="element" height="80" hotspot_y="46" version="0.90" width="50" hotspot_x="15">
+    <uuid uuid="{7a2daa79-b397-4e84-b0f8-1d044aed2503}"/>
+    <names>
+        <name lang="nl">X4</name>
+        <name lang="de">X4</name>
+        <name lang="ar">X4</name>
+        <name lang="es">X4</name>
+        <name lang="it">X4</name>
+        <name lang="pl">X4</name>
+        <name lang="el">X4</name>
+        <name lang="hu">X4</name>
+        <name lang="cs">X4</name>
+        <name lang="fr">X4</name>
+        <name lang="en">X4</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line length1="1.5" x1="-9" x2="2" y2="-24" y1="-18" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" end2="none"/>
+        <dynamic_text x="-17" keep_visual_rotation="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="2" Halignment="AlignLeft" y="-43.95" text_width="-1" Valignment="AlignTop" rotation="0" frame="false" text_from="ElementInfo" uuid="{6212a4b9-bdd2-49df-b90d-f8609ecb5a4b}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc start="-180" x="-10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20" angle="-32" width="10" antialias="true"/>
+        <arc start="-240" x="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-25" angle="-120" width="10" antialias="true"/>
+        <line length1="1.5" x1="2" x2="-9" y2="19" y1="25" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" end2="none"/>
+        <arc start="-150" x="-10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="11" angle="-30" width="10" antialias="true"/>
+        <arc start="0" x="0" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="16" angle="-120" width="10" antialias="true"/>
+        <line length1="1.5" x1="-10" x2="-10" y2="15" y1="-15" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="10" x2="10" y2="20" y1="-20" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <circle x="3" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="18" antialias="true"/>
+        <circle x="3" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" antialias="true"/>
+        <circle x="3" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2" antialias="true"/>
+        <circle x="-7" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-17" antialias="true"/>
+        <circle x="3" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="8" antialias="true"/>
+        <circle x="3" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-12" antialias="true"/>
+        <circle x="-7" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="3" antialias="true"/>
+        <circle x="-7" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="13" antialias="true"/>
+        <circle x="-7" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-7" antialias="true"/>
+        <line length1="1.5" x1="0" x2="0" y2="-30" y1="-24" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="0" x2="30" y2="-30" y1="-30" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="30" x2="30" y2="30" y1="-30" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="30" x2="0" y2="30" y1="30" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="0" x2="0" y2="26" y1="30" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="0" x2="0" y2="26" y1="24" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <text text="X4" color="#000000" x="12" font="Sans Serif,7,-1,5,50,0,0,0,0,0" y="-34" rotation="0"/>
+    </description>
+</definition>

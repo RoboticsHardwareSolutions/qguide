@@ -1,0 +1,41 @@
+<definition height="60" width="80" link_type="simple" hotspot_x="33" hotspot_y="38" version="0.100.0" type="element">
+    <uuid uuid="{69318d1c-fae8-474e-955f-71454c6caeaf}"/>
+    <names>
+        <name lang="en"> D200YE30K</name>
+        <name lang="ru"> D200YE30K</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">EMAS</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">D200YE30K</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Кнопка аварийная "Грибок" с фиксацией (1НЗ)</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y2="0" y3="10" x1="33" x2="40" x3="40" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" antialias="true" y1="-21"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_width="-1" x="5" y="-60" z="1" uuid="{cb56b327-7dc7-4814-9b5d-2d232170765f}" rotation="0" frame="false" keep_visual_rotation="false" Valignment="AlignTop" Halignment="AlignLeft" text_from="CompositeText">
+            <text>D200YE30K</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <circle diameter="44" x="-27.5391" y="-30.75" style="line-style:normal;line-weight:normal;filling:red;color:black" antialias="true"/>
+        <line y2="-19" end2="none" x1="40" x2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" antialias="false" y1="-29" end1="none"/>
+        <circle diameter="28" x="-19.5391" y="-22.75" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line y2="-9" end2="none" x1="36" x2="16" style="line-style:dashed;line-weight:normal;filling:lightgray;color:lightgray" length1="1.5" length2="1.5" antialias="false" y1="-9" end1="none"/>
+        <circle diameter="40" x="-25.5391" y="-28.75" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <line y2="-19" end2="none" x1="40" x2="32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" antialias="false" y1="-19" end1="none"/>
+        <dynamic_text font="Sans Serif,6,-1,5,25,0,0,0,0,0" text_width="-1" x="0" y="-70" z="5" uuid="{6c87ed7d-c859-45c2-823e-aff6300dde0e}" rotation="0" frame="false" keep_visual_rotation="false" Valignment="AlignTop" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="40" name="" y="12" uuid="{3548a771-acf6-4d4f-843c-d8a62dfb2e6c}" orientation="s" type="Generic"/>
+        <terminal x="40" name="" y="-30" uuid="{19e8a1d4-3e51-48d6-a222-2f6d6297135e}" orientation="n" type="Generic"/>
+    </description>
+</definition>

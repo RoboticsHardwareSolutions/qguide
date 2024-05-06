@@ -1,0 +1,46 @@
+<definition link_type="simple" hotspot_y="94" width="50" hotspot_x="25" version="0.90" height="210" type="element">
+    <uuid uuid="{2fd8f563-b33c-418e-81b6-bd56e92ea44a}"/>
+    <names>
+        <name lang="en">FX0-GMOD00000</name>
+        <name lang="ru">FX0-GMOD00000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">FX0-GMOD00000</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1044073</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Safe EFI-pro System / Flexi Soft / Шлюз / Modbus TCP</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y4="-86.88" y1="-86.88" x4="-15.77" x3="-15.77" x1="16.3" y3="-60.78" x2="16.3" y2="-60.78" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <rect x="-19.875" ry="0" width="40" rx="0" y="-88" height="196" style="line-style:normal;line-weight:normal;filling:HTMLYellowLightYellow;color:lightgray" antialias="false"/>
+        <polygon y4="80.12" y1="80.12" x4="-15.77" x3="-15.77" x1="16.3" y3="106.22" x2="16.3" y2="106.22" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false"/>
+        <polygon y4="-83.635" y1="-83.635" x4="-13.55" x3="-13.55" x1="14.34" y3="-65.575" x2="14.34" y2="-65.575" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false"/>
+        <polygon y4="-86.975" y1="-86.975" x4="-3.96" x3="-3.96" x1="4.62" y3="-79.735" x2="4.62" y2="-79.735" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false"/>
+        <polygon y4="83.365" y1="83.365" x4="-13.55" x3="-13.55" x1="14.34" y3="101.425" x2="14.34" y2="101.425" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false"/>
+        <polygon y4="-69.52" y1="-69.52" x4="-10.93" x3="-10.93" x1="12.42" y3="-66.88" x2="12.42" y2="-66.88" style="line-style:normal;line-weight:thin;filling:hor;color:black" antialias="false"/>
+        <polygon y4="80.025" y1="80.025" x4="-3.96" x3="-3.96" x1="4.62" y3="87.265" x2="4.62" y2="87.265" style="line-style:normal;line-weight:thin;filling:gray;color:none" antialias="false"/>
+        <polygon y4="97.48" y1="97.48" x4="-10.93" x3="-10.93" x1="12.42" y3="100.12" x2="12.42" y2="100.12" style="line-style:normal;line-weight:thin;filling:hor;color:black" antialias="false"/>
+        <text x="-11" color="#000000" font="Helvetica,9,-1,5,75,0,0,0,0,0,Bold" y="-20" text="SICK" rotation="0"/>
+        <text x="-13" color="#000000" font="Helvetica,5,-1,5,75,0,0,0,0,0,Bold" y="-9" text="FLEXY Soft&#xa;" rotation="0"/>
+        <text x="-17" color="#000000" font="Helvetica,6,-1,5,25,0,0,0,0,0,Light" y="0" text="ModBus TCP" rotation="0"/>
+        <dynamic_text x="20" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" z="17" keep_visual_rotation="true" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_width="-1" Halignment="AlignLeft" y="90" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>FX0-GMOD00000</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text x="30" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" z="18" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="70" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal x="0" uuid="{d187b48e-e858-4ace-bb31-45743bc078ce}" orientation="n" y="-90" type="Generic" name=""/>
+        <terminal x="0" uuid="{72ec8643-ad41-4b2d-96a9-a90c74c9aa14}" orientation="s" y="110" type="Generic" name=""/>
+    </description>
+</definition>

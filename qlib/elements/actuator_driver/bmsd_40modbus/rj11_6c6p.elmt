@@ -1,0 +1,44 @@
+<definition hotspot_x="74" hotspot_y="16" version="0.90" type="element" width="150" height="90" link_type="simple">
+    <uuid uuid="{06817006-e831-402a-870e-6af18ddde7eb}"/>
+    <names>
+        <name lang="ru">rj11_6c6p</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:blue" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="-43.7626" length2="1.5" x1="-47.7626"/>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:green" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="12.7122" length2="1.5" x1="8.7122"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:orange" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="-29.6439" length2="1.5" x1="-33.6439"/>
+        <line style="line-style:dashed;line-weight:normal;filling:none;color:orange" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="-15.5252" length2="1.5" x1="-19.5252"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:green" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="-1.4065" length2="1.5" x1="-5.4065"/>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" rotation="0" text_width="-1" keep_visual_rotation="false" z="6" Halignment="AlignLeft" font="Sans Serif,3,-1,5,25,0,0,0,0,0" uuid="{8bb4d56d-f717-4f64-ac2c-37ec4927e54d}" x="24" frame="false" y="5.25">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4.25" antialias="false" end2="none" y2="4.25" end1="none" length1="1.5" x2="24" length2="1.5" x1="-61.7"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0.25" antialias="false" end2="none" y2="8.25" end1="none" length1="1.5" x2="24" length2="1.5" x1="24"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8.25" antialias="false" end2="none" y2="8.25" end1="none" length1="1.5" x2="66" length2="1.5" x1="24"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0.25" antialias="false" end2="none" y2="0.25" end1="none" length1="1.5" x2="62" length2="1.5" x1="24"/>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" rotation="0" text_width="-1" keep_visual_rotation="false" z="11" Halignment="AlignLeft" font="Sans Serif,3,-1,5,25,0,0,0,0,0" uuid="{6669fa69-0145-42bc-b9c6-0d715b8a3030}" x="24" frame="false" y="-2.75">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:dashed;line-weight:thin;filling:none;color:black" y1="0.25" antialias="false" end2="none" y2="8.25" end1="none" length1="1.5" x2="66" length2="1.5" x1="62"/>
+        <dynamic_text text_from="ElementInfo" Valignment="AlignTop" rotation="0" text_width="-1" keep_visual_rotation="false" z="13" Halignment="AlignLeft" font="Sans Serif,3,-1,5,25,0,0,0,0,0" uuid="{8926736e-0fe0-4b5b-9aef-bb7235db7edb}" x="24" frame="false" y="-12.25">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" y1="-8" antialias="false" end2="none" y2="4" end1="none" length1="1.5" x2="-57.8813" length2="1.5" x1="-61.8813"/>
+        <text color="#000000" rotation="270" text="RS485 GND" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="18" y="70"/>
+        <text color="#000000" rotation="270" text="RS485 B" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-12" y="70"/>
+        <text color="#000000" rotation="270" text="RS485 +5V" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="4" y="70"/>
+        <text color="#000000" rotation="270" text="RS485 A" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-26" y="70"/>
+        <text color="#000000" rotation="270" text="FLASH CON" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-56" y="70"/>
+        <terminal name="" orientation="e" type="Generic" uuid="{08bae86c-1e8b-4c70-bd3b-3e0c77cae5f9}" x="68" y="4"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{8c8282f7-d3a4-4a26-b1d6-5bc9e129e0f0}" x="-62" y="-12"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{a2f86340-d3a5-4cac-a1db-16470a95b364}" x="-33.7626" y="-12"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{e979ebf7-001e-44e9-adfb-16f08e6736b8}" x="8.5935" y="-12"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{bff526a4-0c33-424f-b071-d50628c0e781}" x="-19.6439" y="-12"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{f90794b5-cea6-4ec6-8f29-4367fd1b994b}" x="-5.5252" y="-12"/>
+    </description>
+</definition>

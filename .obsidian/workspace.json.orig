@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "373d1878acbea15e",
+    "type": "split",
+    "children": [
+      {
+<<<<<<< HEAD
+        "id": "7367703d132ebd8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf98d1c71422279a",
+=======
+        "id": "1cc169a7eec7a510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef77f80f73e4156",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "doc/spec.md",
+=======
+                "file": "doc/component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5494d27bc41ff451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/create_redme.md",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05c268cfbe76819f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1816af3e33a7227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261a958be6122d1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17ccda29eb9df1f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28b4c7e6157fadea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0766120022418249",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a3aba5d22cea05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02352c4d2a1ad55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< HEAD
+                "file": "doc/spec.md",
+=======
+                "file": "doc/component.md",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c43620d90ce0fa5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< HEAD
+                "file": "doc/spec.md",
+=======
+                "file": "doc/component.md",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "001244996aa9130b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f383a29c55d1fe60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+<<<<<<< HEAD
+                "file": "doc/spec.md"
+=======
+                "file": "doc/component.md"
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+<<<<<<< HEAD
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf98d1c71422279a",
+  "lastOpenFiles": [
+    "README.md",
+    "doc/nomenclature.md",
+    "doc/create_pdf.md",
+    "doc/assembly.md",
+    "doc/common.md",
+    "doc/create_redme.md",
+    "doc/spec.md",
+    "doc/component.md",
+    "doc/Setup_and_install.md",
+    "doc/documents.md",
+    "doc/project_structure.md",
+=======
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fef77f80f73e4156",
+  "lastOpenFiles": [
+    "README.md",
+    "doc/Setup_and_install.md",
+    "doc/create_redme.md",
+    "doc/component.md",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+    "image/tb_example3.png",
+    "image/tb_example2.png",
+    "image/tb_example.png",
+    "image/cable_info.png",
+    "image/element_info.png",
+<<<<<<< HEAD
+    "doc/numbering.md",
+    "doc/terminal_block.md",
+=======
+    "doc/nomenclature.md",
+    "doc/numbering.md",
+    "doc/project_structure.md",
+    "doc/terminal_block.md",
+    "doc/documents.md",
+    "doc/common.md",
+    "doc/spec.md",
+>>>>>>> e448f9b25265df4f442dc6020268d55555e1b5d4
+    "image/partlist1.png",
+    "image/partlist.png",
+    "image/nomencl_export_2.png",
+    "image/nomencl_export_1.png",
+    "image/connectors_name_2.png"
+  ]
+}

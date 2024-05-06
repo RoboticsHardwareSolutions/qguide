@@ -1,0 +1,35 @@
+<definition width="40" height="30" version="0.90" type="element" hotspot_x="10" hotspot_y="10" link_type="simple">
+    <uuid uuid="{a0b6ca55-1953-48b4-bf65-4d53715242ef}"/>
+    <names>
+        <name lang="fr">DEMSM-64GM41SCADB</name>
+        <name lang="nl">DEMSM-64GM41SCADB</name>
+        <name lang="cs">DEMSM-64GM41SCADB</name>
+        <name lang="ar">DEMSM-64GM41SCADB</name>
+        <name lang="en">DEMSM-64GM41SCADB</name>
+        <name lang="de">DEMSM-64GM41SCADB</name>
+        <name lang="hu">DEMSM-64GM41SCADB</name>
+        <name lang="el">DEMSM-64GM41SCADB</name>
+        <name lang="pl">DEMSM-64GM41SCADB</name>
+        <name lang="es">DEMSM-64GM41SCADB</name>
+        <name lang="it">DEMSM-64GM41SCADB</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="designation" show="1">DEMSM-64GM41SCADB</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">INNODISK</elementInformation>
+        <elementInformation name="description" show="1">msata PCIe half size</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">DEMSM-64GM41SCADB</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect width="30" height="20" ry="0" x="-5" y="-5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0"/>
+        <text color="#000000" rotation="0" x="0" y="10" text="SSD" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+    </description>
+</definition>

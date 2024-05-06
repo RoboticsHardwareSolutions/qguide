@@ -1,0 +1,76 @@
+<definition height="20" hotspot_x="64" link_type="terminal" version="0.80" type="element" width="90" hotspot_y="4">
+    <uuid uuid="{476de215-47ee-4a17-a076-a3cdc93d1e6e}"/>
+    <names>
+        <name lang="ar">طرف توصيل</name>
+        <name lang="en">Шина "0" N (6х9мм) 8 отверстий латунь синий изолятор на DIN-рейку </name>
+        <name lang="cs">Spojovací svorka</name>
+        <name lang="it">Terminale di unione</name>
+        <name lang="pl">Zacisk</name>
+        <name lang="fr">Borne double</name>
+        <name lang="nl">klem doorgang</name>
+        <name lang="pt">Terminal de combinação</name>
+        <name lang="de">Klemme</name>
+        <name lang="es">Terminal de unión</name>
+        <name lang="hu">Sorkapocs</name>
+        <name lang="ru">Клеммное соединение</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="designation">sn0-63-08-d</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">sn0-63-08-d</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description">Шина "0" N (6х9мм) 8 отверстий латунь синий изолятор на DIN-рейку</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">EKF PROxima</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="true" diameter="5" x="-22.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_from="UserText" x="23" text_width="-1" y="-12" uuid="{76f003fc-0acc-4f37-8c6b-e5299033fdee}" Valignment="AlignTop" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" frame="false" z="1" rotation="0">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text text_from="ElementInfo" x="26" text_width="-1" y="-20" uuid="{ef9234be-dc4b-450c-81a0-ed9b82621852}" Valignment="AlignTop" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" frame="false" z="3" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="true" diameter="5" x="-52.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="-2.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="-62.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="-42.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="-12.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="-32.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="7.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="9" y2="3" length2="1.5" x2="-30" end2="none" antialias="false" x1="-30" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="true" diameter="5" x="17.5" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-43" end2="none" antialias="false" x1="-47" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="9" y2="3" length2="1.5" x2="20" end2="none" antialias="false" x1="20" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-33" end2="none" antialias="false" x1="-37" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="7" end2="none" antialias="false" x1="3" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-53" end2="none" antialias="false" x1="-57" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="17" end2="none" antialias="false" x1="13" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="6" length2="1.5" x2="-60" end2="none" antialias="false" x1="-60" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-3" end2="none" antialias="false" x1="-7" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="5" length2="1.5" x2="-50" end2="none" antialias="false" x1="-50" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="6" length2="1.5" x2="-10" end2="none" antialias="false" x1="-10" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="5" length2="1.5" x2="-40" end2="none" antialias="false" x1="-40" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="5" length2="1.5" x2="0" end2="none" antialias="false" x1="0" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="5" length2="1.5" x2="10" end2="none" antialias="false" x1="10" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-13" end2="none" antialias="false" x1="-17" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" y2="6" length2="1.5" x2="-20" end2="none" antialias="false" x1="-20" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" y2="0" length2="1.5" x2="-23" end2="none" antialias="false" x1="-27" end1="none" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="-30" y="10" uuid="{a8d1c926-3d68-44ad-bc4a-46de61bd3e97}" orientation="s" name=""/>
+        <terminal x="-60" y="10" uuid="{b159180a-689e-498b-874a-e9af4e31b75b}" orientation="s" name=""/>
+        <terminal x="-50" y="10" uuid="{7dba3d2c-a15e-4b13-9c9e-5695d95da3f1}" orientation="s" name=""/>
+        <terminal x="-40" y="10" uuid="{b01e4399-a702-4931-bb27-676a3e17e0cd}" orientation="s" name=""/>
+        <terminal x="10" y="10" uuid="{7311f029-f8f4-4a66-a4a6-70c2ce8c139f}" orientation="s" name=""/>
+        <terminal x="-10" y="10" uuid="{d02aa1bd-c613-42f3-a621-38a025c6f7f2}" orientation="s" name=""/>
+        <terminal x="20" y="10" uuid="{9897bd88-206b-4693-8dcc-a5d48f49cbc3}" orientation="s" name=""/>
+        <terminal x="0" y="10" uuid="{094a5766-5849-4dca-a045-8a79b4f21459}" orientation="s" name=""/>
+        <terminal x="-20" y="10" uuid="{11773ac2-0960-47b1-b373-7647f54790a1}" orientation="s" name=""/>
+    </description>
+</definition>

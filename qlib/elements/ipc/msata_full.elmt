@@ -1,0 +1,33 @@
+<definition width="30" link_type="simple" hotspot_x="15" height="30" hotspot_y="15" type="element" version="0.100.0">
+    <uuid uuid="{6742a95f-0e25-41eb-a87e-d8e9a241df26}"/>
+    <names>
+        <name lang="en">APM032GMFAN-3BTM1 32GB</name>
+        <name lang="ru">APM032GMFAN-3BTM1 32GB</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Apacer</elementInformation>
+        <elementInformation name="comment" show="1">Alternative Part: APM032GMFFN-3BTM1W / APM032GMFFN-6BTM1W / APSDM032GM1HN-GTM1 / APSDM032GM9AN-3AT </elementInformation>
+        <elementInformation name="description" show="1">Накопитель mSATA Flash Module 32 Гб MLC</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">APM032GMFAN-3BTM1</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" width="20" rx="0" ry="0" antialias="false" height="20"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" x="-9" y="3" color="#000000" text="SSD"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{4d27ffc8-021e-42a4-8455-4deb39660dfb}" x="65" Valignment="AlignTop" y="-15" z="3" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{b9510a2d-edff-4960-b70c-f779100140a4}" x="65" Valignment="AlignTop" y="25" z="4" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text>APM032GMFAN-3BTM1</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,48 @@
+<definition height="30" type="element" link_type="simple" hotspot_x="36" hotspot_y="11" version="0.100.0" width="60">
+    <uuid uuid="{2080a137-385e-410b-8058-389a1a97a778}"/>
+    <names>
+        <name lang="ru">Вилка стационарная ССИ-523</name>
+        <name lang="en">Вилка стационарная ССИ-523</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Вилка стационарная ССИ-523 32А-6ч/200-250В 2P+PE IP44</elementInformation>
+        <elementInformation name="designation" show="1">PSN51-032-3</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1">https://www.iek.ru/products/catalog/izdeliya_elektroustanovochnye_udliniteli_i_silovye_razemy/silovye_razemy/silovye_razemy_magnum/vilki_statsionarnye/vilka_statsionarnaya_ssi_523_32a_6ch200_250v_2ppe_ip44_magnum_iek</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-1" y2="-4" x1="7"/>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-1" y2="-4" x1="-13"/>
+        <line x2="13" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" y2="-1" x1="10"/>
+        <line x2="-7" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" y2="-1" x1="-10"/>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="-3" x1="-10"/>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="-3" x1="10"/>
+        <line x2="-30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-1" y2="-4" x1="-33"/>
+        <line x2="-27" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" y2="-1" x1="-30"/>
+        <line x2="-30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="-3" x1="-30"/>
+        <line x2="12" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="1" x1="-32"/>
+        <line x2="12" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4" y2="4" x1="-32"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-28" y="10" text="L1"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-8" y="10" text="N"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="12" y="10" text="PE"/>
+        <dynamic_text z="25" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{54146f8c-a958-4788-95da-50831844a381}" text_from="CompositeText" text_width="-1" x="60" keep_visual_rotation="false" y="2">
+            <text>PSN51-032-3</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text z="26" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" text_from="CompositeText" text_width="-1" x="62" keep_visual_rotation="false" y="-18">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" orientation="s" name="" uuid="{d754e65b-a4ed-4fdc-a2e1-70905d80f165}" x="-30" y="10"/>
+        <terminal type="Generic" orientation="s" name="" uuid="{9e332cff-f15b-47ec-8a31-fbdd37a794fc}" x="-10" y="10"/>
+        <terminal type="Generic" orientation="s" name="" uuid="{702af601-fad3-4fe7-b1d9-032890c5e5b8}" x="10" y="10"/>
+    </description>
+</definition>

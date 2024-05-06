@@ -1,0 +1,33 @@
+<definition version="0.100.0" type="element" link_type="simple" hotspot_x="85" hotspot_y="-3" width="170" height="10">
+    <uuid uuid="{c4874c03-8eb4-462e-84ae-f7bc63f6e2b6}"/>
+    <names>
+        <name lang="en">Plug Housing 2x4 Panel Mount Ears</name>
+        <name lang="ru">Plug Housing 2x4 Panel Mount Ears</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="description" show="1">Plug Housing, Dual Row, 8 Circuits,  Panel Mount Ears</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430200800</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">Alternative Part : 430200810</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="10" end1="none" y2="10" end2="none" x1="-80" antialias="false" x2="80" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line y1="5" end1="none" y2="5" end2="none" x1="-80" antialias="false" x2="80" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <dynamic_text keep_visual_rotation="false" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{e0ea5c21-c97a-40b6-98f6-e5c908903cca}" text_from="ElementInfo" x="8" frame="false" y="-6" rotation="0" z="6" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{7fb07018-093a-4274-8c83-44bbb28ff05b}" text_from="ElementInfo" x="6" frame="false" y="20" rotation="0" z="7" Valignment="AlignTop">
+            <text>430200800</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

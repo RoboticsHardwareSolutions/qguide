@@ -1,0 +1,31 @@
+<definition width="80" link_type="simple" type="element" hotspot_x="44" version="0.90" hotspot_y="25" height="50">
+    <uuid uuid="{6ad149a2-8ea5-43df-a3c4-c6754af6497c}"/>
+    <names>
+        <name lang="ru">PGV PGV100RS-F213-B16-1.5M</name>
+        <name lang="en">PGV PGV100RS-F213-B16-1.5M</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">PGV100RS-F213-B16-1.5M</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">Position Guided Vision </elementInformation>
+        <elementInformation show="1" name="manufacturer">Peperl Fuchs</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation">PGV100RS-F213-B16-1.5M</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect width="40" ry="0" x="-20" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-20" height="40"/>
+        <text text=" OUT" rotation="0" x="2" color="#000000" y="2" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect width="10" ry="0" x="-30" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-10" height="20"/>
+        <line length2="1.5" end1="none" x2="-40" y1="-10" end2="none" length1="1.5" y2="-20" x1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length2="1.5" end1="none" x2="-40" y1="-20" end2="none" length1="1.5" y2="20" x1="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length2="1.5" end1="none" x2="-40" y1="10" end2="none" length1="1.5" y2="20" x1="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length2="1.5" end1="none" x2="20" y1="0" end2="none" length1="1.5" y2="0" x1="25" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal uuid="{b209c866-68ac-493e-a588-4c64a92e17a4}" type="Generic" x="30" orientation="e" name="" y="0"/>
+    </description>
+</definition>

@@ -1,0 +1,46 @@
+<definition type="element" height="80" version="0.90" hotspot_y="39" link_type="simple" width="40" hotspot_x="16">
+    <uuid uuid="{e5b92873-09b4-4cb2-8dc2-1e06a63dd093}"/>
+    <names>
+        <name lang="ru">LD222-430</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">STEKKER</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">LD222-430</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">39502</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Проходной клемник 3вх 3 вых</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="67" antialias="false" ry="1" style="line-style:normal;line-weight:normal;filling:lightgray;color:gray" y="-33" width="34.7724" rx="1" x="-13.7724"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34.5" width="8" rx="1" x="-0.27235"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="4.5" width="8" rx="1" x="9.72765"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34.5" width="8" rx="1" x="9.72765"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34.5" width="8" rx="1" x="-10.2723"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="4.5" width="8" rx="1" x="-10.2723"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="4.5" width="8" rx="1" x="-0.27235"/>
+        <line y2="6.5" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3.72765" end1="none" length1="1.5" y1="-6.5" x2="3.72765"/>
+        <line y2="6.5" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-6.27235" end1="none" length1="1.5" y1="-6.5" x2="-6.27235"/>
+        <line y2="6.5" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="13.7277" end1="none" length1="1.5" y1="-6.5" x2="13.7277"/>
+        <dynamic_text Valignment="AlignTop" uuid="{de41f4ed-6503-4b1d-a0bc-1f7b50e62601}" text_from="CompositeText" z="18" Halignment="AlignLeft" y="-22" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="24" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>LD222-430</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{9201d982-a7a4-442d-a95b-9e405f20d4b6}" text_from="CompositeText" z="19" Halignment="AlignLeft" y="2" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="23" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" uuid="{f3f664b3-a332-4ee7-b588-58bfc8a4a36e}" y="10.5" name="" x="3.72765" orientation="s"/>
+        <terminal type="Generic" uuid="{d3253144-0628-4652-93fc-b9bd030b7cc0}" y="-10.5" name="" x="13.7277" orientation="n"/>
+        <terminal type="Generic" uuid="{5519d62c-89e1-48bd-948a-b829efbd30de}" y="10.5" name="" x="13.7277" orientation="s"/>
+        <terminal type="Generic" uuid="{ef19d3f0-67bd-4810-9244-342277bb1d23}" y="10.5" name="" x="-6.27235" orientation="s"/>
+        <terminal type="Generic" uuid="{f2678a24-59bf-47b3-a3f4-02b99124798e}" y="-10.5" name="" x="-6.27235" orientation="n"/>
+        <terminal type="Generic" uuid="{441a6e49-e85b-4cbd-8ba5-13d49b4e362f}" y="-10.5" name="" x="3.72765" orientation="n"/>
+    </description>
+</definition>

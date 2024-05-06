@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This xml is used for retrieving elements default labels according to ISO/IEC 81346-12
+    A prefix is assigned for each directory. Every element inside that directory
+    will be assigned the directory prefix unless it has a text with tag "label"
+    different than "_" inside its .elmt file. If a directory does not have a prefix the
+    element will assign its parent directory prefix and so on.
+    Prefix tag MUST be located AFTER its child categorys
+    Example:
+    <category name="310_relays_contactors&amp;contacts">
+      <category name="01_coils">
+        <prefix>K</prefix>
+      </category>
+      <category name="02_contacts_cross_referencing">
+        <category name="01_auxiliary_contacts"></category>
+        <category name="02_power_contacts"></category>
+        <category name="11_delayed_contacts"></category>
+        <category name="15_protection_contacts"></category>
+        <prefix>S</prefix>
+      </category>
+    Every Coil will be assigned "K" as a label
+    Auxiliary, power, delayed and protection contacts will be assigned "S" as a label.
+-->
+<labels>
+
+    <category name="terminal_block">
+        <category name="master_slave"></category>
+        <prefix>X</prefix>
+    </category>
+
+    <category name="connectors">
+        <category name="130_terminals&amp;terminal_strips">
+            <category name="power_network_connectors"></category>
+            <prefix>X</prefix>
+            <category name="distribution_block"></category>
+            <prefix>Y</prefix>
+        </category>
+    </category>
+
+    <category name="other">
+        <category name="cable_mark">
+            <prefix>CB</prefix>
+        </category>
+        <category name="motor_and_brake">
+            <prefix>BR</prefix>
+        </category>
+    </category>
+
+    <category name="sensors">
+        <category name="inductive_sensor">
+            <prefix>IS</prefix>
+        </category>
+    </category>
+
+    <category name="contactor_relay">
+        <category name="contactors">
+            <prefix>K</prefix>
+        </category>
+        <category name="relay">
+            <prefix>K</prefix>
+        </category>
+    </category>
+
+    <category name="plc_io">
+        <prefix>K</prefix>
+    </category>
+
+    <report>
+        <directories>364</directories>
+    </report>
+</labels>

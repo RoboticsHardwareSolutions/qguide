@@ -1,0 +1,28 @@
+<definition hotspot_x="15" width="30" height="10" hotspot_y="5" type="element" version="0.90" link_type="simple">
+    <uuid uuid="{4c951b73-6a60-4281-9c47-6778b73fe822}"/>
+    <names>
+        <name lang="es">Sección 1 conductor</name>
+        <name lang="de">Verdrahtungsdefinition 1 Leiter</name>
+        <name lang="it">Sezione 1 conduttore</name>
+        <name lang="pl">Oznaczenie pola przekroju przewodu jednożyłowego</name>
+        <name lang="fr">Section 1 conducteur</name>
+        <name lang="hu">1 ér keresztmetszet</name>
+        <name lang="cs">Označení vodiče</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line y2="0" length2="1.5" length1="1.5" y1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="-10.8483" x2="9.91885"/>
+        <line y2="2" length2="1.5" length1="1.5" y1="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="true" x1="-2" x2="2"/>
+        <dynamic_text font="Sans Serif,6,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" x="-44" y="-4.5" keep_visual_rotation="false" text_width="-1" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" z="3" frame="false" text_from="CompositeText" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" x="-29" y="8.5" keep_visual_rotation="false" text_width="-1" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" z="3" frame="false" text_from="ElementInfo" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

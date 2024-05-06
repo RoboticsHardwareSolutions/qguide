@@ -1,0 +1,47 @@
+<definition type="element" width="10" version="0.90" hotspot_y="14" height="20" link_type="master" hotspot_x="4">
+    <uuid uuid="{9a31d331-e9ab-4dab-a3d7-2d3f3d32859b}"/>
+    <names>
+        <name lang="es">Punto de unión</name>
+        <name lang="it">Terminale di fine</name>
+        <name lang="de">Endklemme</name>
+        <name lang="hu">Sorkapocs</name>
+        <name lang="ru">Клемма пружинная КПИ 2в-1,5 17,5А</name>
+        <name lang="cs">Koncová svorka</name>
+        <name lang="pt">Terminal de fim</name>
+        <name lang="en">Клемма пружинная КПИ 2в-1,5 17,5А</name>
+        <name lang="fr">Borne finale</name>
+        <name lang="ar">طرف نهائي</name>
+        <name lang="nl">Klem eind</name>
+        <name lang="pl">Zacisk</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">YZN11-001-Kxx</elementInformation>
+        <elementInformation name="description" show="1">Клемма пружинная КПИ 2в-1,5 17,5А</elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">YZN11-001-Kxx</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-0.5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{6c8224a4-25a4-4da6-b06c-a151703827a3}" z="1" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="UserText">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text y="-15" font="Sans Serif,10,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{bfc6689f-c930-47fb-ad68-c4eceaed9d1a}" z="2" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y2="-3" y1="-10" end1="none" end2="none" length1="1.5" length2="1.5" x2="0"/>
+        <circle y="-2.5" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-2.5"/>
+        <terminal y="-10" type="Generic" x="0" uuid="{3d785127-4491-4ca6-b763-7148ab6fe306}" name="" orientation="n"/>
+    </description>
+</definition>

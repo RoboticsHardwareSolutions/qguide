@@ -1,0 +1,46 @@
+<definition type="element" hotspot_y="24" link_type="master" version="0.90" width="60" height="50" hotspot_x="36">
+    <uuid uuid="{f01e7e5b-8165-44d1-b1f6-befd47638aa0}"/>
+    <names>
+        <name lang="ru">Реле времени РВЦ-П2-22 циклическое </name>
+        <name lang="en">Реле времени РВЦ-П2-22 циклическое </name>
+        <name lang="fr">Реле времени РВЦ-П2-22 циклическое </name>
+        <name lang="de">Реле времени РВЦ-П2-22 циклическое </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="description" show="1">Реле времени РВЦ-П2-22 циклическое</elementInformation>
+        <elementInformation name="manufacturer" show="1"> МЕАНДР</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">4640016936694</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">РВЦ-П2-22 ACDC24В/АС230В УХЛ4</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" rotation="0" keep_visual_rotation="false" z="1" y="15.5" frame="false" text_width="-1" uuid="{62a0d1e2-cf43-4e86-b43c-9a7c3e4ff011}" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-20" antialias="false" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" height="20" rx="0"/>
+        <line antialias="false" length1="1.5" x1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="-20" x2="-10" y2="-10"/>
+        <line antialias="false" length1="1.5" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="10" x2="0" y2="20"/>
+        <line antialias="false" length1="1.5" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="-16" x2="10" y2="-10"/>
+        <line antialias="false" length1="1.5" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="0" x2="-25" y2="0"/>
+        <text x="-2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="+A3" rotation="0" y="-12" color="#000000"/>
+        <text x="-26" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="Y" rotation="0" y="6" color="#000000"/>
+        <text x="-18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="A1" rotation="0" y="-12" color="#000000"/>
+        <text x="2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" text="A2" rotation="0" y="16" color="#000000"/>
+        <terminal x="10" type="Generic" orientation="n" y="-20" name="" uuid="{e358c349-7418-44e1-a1dc-08b8873a2e32}"/>
+        <terminal x="0" type="Generic" orientation="s" y="20" name="" uuid="{c5ebb01c-4466-488f-8d01-6c741e23bd10}"/>
+        <terminal x="-30" type="Generic" orientation="w" y="0" name="" uuid="{b6c54da3-9077-4aa4-94c2-5923d69eebb8}"/>
+        <terminal x="-10" type="Generic" orientation="n" y="-20" name="A1" uuid="{fcaa64d6-b4fd-485d-97a4-4d31dd46fcb5}"/>
+    </description>
+</definition>

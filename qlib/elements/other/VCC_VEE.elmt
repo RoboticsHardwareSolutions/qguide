@@ -1,0 +1,31 @@
+<definition height="30" version="0.90" hotspot_x="15" link_type="simple" hotspot_y="14" type="element" width="30">
+    <uuid uuid="{4719fc51-d549-4c7d-a6e3-8a2b9c2bcb06}"/>
+    <names>
+        <name lang="en">vcc</name>
+        <name lang="ru">vcc</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+    </elementInformations>
+    <informations>titus
+titus0818@yahoo.com</informations>
+    <description>
+        <line y2="9" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" x1="0" x2="0" length1="1.5" end2="none" length2="1.5" y1="-10" end1="none"/>
+        <line y2="-10" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-10" x2="10" length1="1.5" end2="none" length2="1.5" y1="-10" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="3" text_width="-1" y="21" uuid="{7f02ce13-533d-4501-980d-6cb67bd1110d}" frame="false" rotation="0" text_from="ElementInfo" keep_visual_rotation="true" x="8" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal orientation="s" y="10" uuid="{8355c4ac-bf8b-4376-b299-0966f799b03b}" name="" type="Generic" x="0"/>
+    </description>
+</definition>

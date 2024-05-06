@@ -1,0 +1,33 @@
+<definition height="10" version="0.90" hotspot_x="40" link_type="simple" hotspot_y="1" type="element" width="80">
+    <uuid uuid="{9ec81e78-4543-4e87-b767-49eb5491833f}"/>
+    <names>
+        <name lang="en">Receptacle Housing 4 Circuits</name>
+        <name lang="ru">Receptacle Housing 4 Circuits</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="description">2.50mm Pitch KK Wire-to-Board Housing, Female, Friction Lock, for 2759/5159 Crimp Terminals, 4 Circuits</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment">Alternative Part : 22011042</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Molex</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">511910400</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-35" x2="34" length1="1.5" end2="none" length2="1.5" y1="2" end1="none"/>
+        <line y2="5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="34" x2="-35" length1="1.5" end2="none" length2="1.5" y1="5" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="19" text_width="-1" y="-8" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" frame="false" rotation="0" text_from="ElementInfo" keep_visual_rotation="true" x="-52" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="21" text_width="-1" y="13" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="-46" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>511910400</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

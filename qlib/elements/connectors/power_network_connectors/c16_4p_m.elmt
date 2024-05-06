@@ -1,0 +1,60 @@
+<definition width="100" hotspot_x="36" height="30" version="0.90" type="element" link_type="simple" hotspot_y="11">
+    <uuid uuid="{46ab0ba1-4c38-4a51-b762-07609285a1a5}"/>
+    <names>
+        <name lang="ru">C16 5p male</name>
+        <name lang="en">C16 5p male</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">PSN52-016-5</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">PSN52-016-5</elementInformation>
+        <elementInformation name="description" show="1">Вилка стационарная ССИ-515 16А-6ч/200/346-240/415В 3Р+РЕ+N IP44 </elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="27" y1="-1" end1="none" y2="-4" x2="30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="47" y1="-1" end1="none" y2="-4" x2="50" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" y1="-1" end1="none" y2="-4" x2="10" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="50" y1="-4" end1="none" y2="-1" x2="53" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" y1="-1" end1="none" y2="-4" x2="-10" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="50" y1="10" end1="none" y2="-3" x2="50" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" y1="-4" end1="none" y2="-1" x2="13" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" y1="1" end1="none" y2="1" x2="50" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" y1="-4" end1="none" y2="-1" x2="-7" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" y1="3" end1="none" y2="3" x2="50" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" y1="-4" end1="none" y2="-1" x2="33" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <text rotation="0" x="52" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" text="PE" color="#000000"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" y1="10" end1="none" y2="-3" x2="30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" y1="10" end1="none" y2="-3" x2="-10" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" y1="10" end1="none" y2="-3" x2="10" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-33" y1="-1" end1="none" y2="-4" x2="-30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-30" y1="-4" end1="none" y2="-1" x2="-27" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-30" y1="10" end1="none" y2="-3" x2="-30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-30" y1="1" end1="none" y2="1" x2="30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-30" y1="3" end1="none" y2="3" x2="30" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <text rotation="0" x="-28" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" text="L1" color="#000000"/>
+        <text rotation="0" x="-8" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" text="L2" color="#000000"/>
+        <text rotation="0" x="12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" text="L3" color="#000000"/>
+        <dynamic_text rotation="0" Valignment="AlignTop" x="60" z="25" uuid="{54146f8c-a958-4788-95da-50831844a381}" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="2" keep_visual_rotation="false" text_width="-1" frame="false" text_from="CompositeText">
+            <text>PSN52-016-5</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <text rotation="0" x="32" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" text="N" color="#000000"/>
+        <dynamic_text rotation="0" Valignment="AlignTop" x="62" z="26" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-18" keep_visual_rotation="false" text_width="-1" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal name="" orientation="s" x="30" uuid="{e7ec0533-1864-4de7-a508-db2a6068dd12}" y="10" type="Generic"/>
+        <terminal name="" orientation="s" x="10" uuid="{702af601-fad3-4fe7-b1d9-032890c5e5b8}" y="10" type="Generic"/>
+        <terminal name="" orientation="s" x="50" uuid="{7d1113bf-5418-4d5c-a193-817d5fb413a4}" y="10" type="Generic"/>
+        <terminal name="" orientation="s" x="-30" uuid="{d754e65b-a4ed-4fdc-a2e1-70905d80f165}" y="10" type="Generic"/>
+        <terminal name="" orientation="s" x="-10" uuid="{9e332cff-f15b-47ec-8a31-fbdd37a794fc}" y="10" type="Generic"/>
+    </description>
+</definition>

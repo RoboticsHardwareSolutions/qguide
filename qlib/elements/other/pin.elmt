@@ -1,0 +1,11 @@
+<definition link_type="simple" type="element" height="10" hotspot_y="4" version="0.90" width="20" hotspot_x="1">
+    <uuid uuid="{ff6afbfc-ab7b-497e-8648-4ce7034307bf}"/>
+    <names>
+        <name lang="ru">Pin of BUS</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <terminal orientation="e" x="10" type="Generic" name="" y="0" uuid="{3c0a76b2-63b8-4b90-9ebd-c6afb29aa998}"/>
+    </description>
+</definition>

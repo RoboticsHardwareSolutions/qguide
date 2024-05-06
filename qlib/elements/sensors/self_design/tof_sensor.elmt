@@ -1,0 +1,52 @@
+<definition height="110" version="0.90" hotspot_x="44" link_type="simple" hotspot_y="45" type="element" width="80">
+    <uuid uuid="{e9c74d00-f90a-49d7-a558-08bb19ebeafe}"/>
+    <names>
+        <name lang="en">TOF Sensor</name>
+        <name lang="ru">TOF Sensor</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">TOF Sensor</elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Comitas</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">Self Design</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="GND" y="52" rotation="0" color="#000000" x="7" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="24V" y="-27" rotation="0" color="#000000" x="9" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="CAN L" y="-7" rotation="0" color="#000000" x="1" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="GND" y="53" rotation="0" color="#000000" x="-30" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="CAN H" y="13" rotation="0" color="#000000" x="-31" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="OUT" y="33" rotation="0" color="#000000" x="8" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="IN" y="33" rotation="0" color="#000000" x="-30" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="CAN H" y="13" rotation="0" color="#000000" x="-2.71875" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="CAN L" y="-7" rotation="0" color="#000000" x="-31" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="24V" y="-27" rotation="0" color="#000000" x="-31" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <rect antialias="false" height="100" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-40" ry="0" rx="0" x="-35" width="60"/>
+        <dynamic_text Valignment="AlignTop" z="4" text_width="-1" y="-40" uuid="{09ebccde-68eb-4b1a-a444-ca5e26af14e6}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="50" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="5" text_width="-1" y="-20" uuid="{d9bf3bf8-5f03-4180-ac60-6f023ecf9ca0}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="50" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>Self Design</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <terminal orientation="w" y="-30" uuid="{38691d76-0c47-4afe-bef0-b87988a37c15}" name="" type="Generic" x="-40"/>
+        <terminal orientation="e" y="-30" uuid="{53995ef2-09d5-45d2-b3b3-d42c39996fea}" name="" type="Generic" x="30.2031"/>
+        <terminal orientation="w" y="30" uuid="{c389cf3c-c8f0-4a31-956e-3cedd9db3403}" name="" type="Generic" x="-40"/>
+        <terminal orientation="e" y="10" uuid="{aad193c8-dad5-4bfc-b752-7b317a8f5799}" name="" type="Generic" x="30.2031"/>
+        <terminal orientation="w" y="-10" uuid="{4274e968-9153-4a32-a3a0-0281123ab52a}" name="" type="Generic" x="-40"/>
+        <terminal orientation="w" y="10" uuid="{7068d880-992b-42b1-870d-829af980dc71}" name="" type="Generic" x="-40"/>
+        <terminal orientation="w" y="50" uuid="{4004f24b-b21a-4a4a-9cc5-c7371f8e4eb7}" name="" type="Generic" x="-40"/>
+        <terminal orientation="e" y="30" uuid="{ba5434e8-79df-4b56-b3b5-476a60cbcf5c}" name="" type="Generic" x="30.2031"/>
+        <terminal orientation="e" y="50" uuid="{6b0fbcb1-cb60-487c-bd7c-2d5db7e62dc7}" name="" type="Generic" x="30.2031"/>
+        <terminal orientation="e" y="-10" uuid="{2de0d8a8-0342-4423-a736-1dd4de087819}" name="" type="Generic" x="30.2031"/>
+    </description>
+</definition>

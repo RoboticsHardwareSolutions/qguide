@@ -1,0 +1,36 @@
+<definition type="element" width="10" version="0.90" hotspot_y="14" height="20" link_type="slave" hotspot_x="4">
+    <uuid uuid="{656b71d1-26f5-4053-b268-36e61236dcbb}"/>
+    <names>
+        <name lang="es">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="it">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="de">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="hu">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="ru">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="cs">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="pt">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="en">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="fr">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="ar">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="nl">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+        <name lang="pl">(Slave)Клемма пружинная КПИ 2в-1,5 17,5А </name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="-0.5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{6c8224a4-25a4-4da6-b06c-a151703827a3}" z="1" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="UserText">
+            <text>_</text>
+        </dynamic_text>
+        <dynamic_text y="-15" font="Sans Serif,10,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{bfc6689f-c930-47fb-ad68-c4eceaed9d1a}" z="2" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y2="-3" y1="-10" end1="none" end2="none" length1="1.5" length2="1.5" x2="0"/>
+        <circle y="-2.5" diameter="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-2.5"/>
+        <terminal y="-10" type="Generic" x="0" uuid="{3d785127-4491-4ca6-b763-7148ab6fe306}" name="" orientation="n"/>
+    </description>
+</definition>

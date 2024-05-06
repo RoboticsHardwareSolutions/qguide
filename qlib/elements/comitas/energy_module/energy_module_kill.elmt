@@ -1,0 +1,46 @@
+<definition width="60" height="50" version="0.100.0" link_type="master" hotspot_x="30" hotspot_y="18" type="element">
+    <uuid uuid="{b0089767-7a4b-4c2c-b243-42d506a284ba}"/>
+    <names>
+        <name lang="en">CMR.111103.000.0 KILL Энергетический модуль</name>
+        <name lang="ru">CMR.111103.000.0 KILL Энергетический модуль</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Comitas</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">CMR.111103.000.0 Энергетический модуль</elementInformation>
+        <elementInformation name="designation" show="1">CMR.111103.000.0</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-12" diameter="4" y="-10"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="8" diameter="4" y="-10"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-8" y2="-8" antialias="false" x1="-28" x2="-12" end1="none"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-8" y2="-8" antialias="false" x1="12" x2="28" end1="none"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-8" y2="-8" antialias="false" x1="-8" x2="8" end1="none"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" text="NC1" x="-8" y="18"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" text="NC2" x="14" y="19"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-8" y2="25" antialias="false" x1="-28" x2="-28" end1="none"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="25" y2="25" antialias="false" x1="-28" x2="28" end1="none"/>
+        <line end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" y1="-8" y2="25" antialias="false" x1="28" x2="28" end1="none"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" rotation="0" uuid="{ca1bc91e-821d-4ba8-813e-5f1b664f9034}" frame="false" keep_visual_rotation="false" text_width="-1" x="34" y="-14" z="11" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" Halignment="AlignLeft" rotation="0" uuid="{30670937-3c18-4dc8-8d18-ab94b7aa3b5c}" frame="false" keep_visual_rotation="false" text_width="-1" x="35" y="4" z="12" text_from="ElementInfo">
+            <text>CMR.111103.000.0</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{1f160d98-d24a-4cd4-b3ba-945105d70ea4}" orientation="n" x="10" y="-10" type="Generic"/>
+        <terminal name="" uuid="{2334e12e-1665-474a-a33d-2e15747b470b}" orientation="n" x="-10" y="-10" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,60 @@
+<definition width="60" link_type="simple" version="0.90" hotspot_y="94" type="element" hotspot_x="25" height="210">
+    <uuid uuid="{4decdbc8-e140-4bb0-98d2-71f40d7e93cc}"/>
+    <names>
+        <name lang="ru">UE410-2RO4</name>
+        <name lang="en">UE410-2RO4</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">6032677</elementInformation>
+        <elementInformation show="1" name="designation">UE410-2RO4</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">Flexi Soft / Flexi Classic / Релейный модуль</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect width="50" x="-20" style="line-style:normal;line-weight:normal;filling:HTMLYellowYellow;color:HTMLYellowDarkKhaki" y="-88" antialias="false" height="196" rx="0" ry="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="16" text="Y14" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-3.42188" text="23" rotation="0" y="-77"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="6.75" text="Y2" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-4" text="24" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-14" text="14" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="17.5938" text="B1" rotation="0" y="101"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="7" text="Y1" rotation="0" y="-77"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="50" rotation="0" y="60" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" text_width="-1" z="15" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="true">
+            <text>UE410-2RO4</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="55" rotation="0" y="45" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" text_width="-1" z="16" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <text font="Helvetica,9,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="-5" text="SICK" rotation="0" y="-20"/>
+        <text font="Helvetica,5,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="-6" text="FLEXY Soft&#xa;" rotation="0" y="-9"/>
+        <text font="Helvetica,6,-1,5,25,0,0,0,0,0,Light" color="#000000" x="-10" text="UE410-2RO4 " rotation="0" y="0"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="-90" antialias="false"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-13" text="13" rotation="0" y="-77"/>
+        <terminal x="-10" y="-90" uuid="{5e68ddf4-a7ca-45ee-a272-85856989df5a}" orientation="n" name="" type="Generic"/>
+        <terminal x="10" y="110" uuid="{da944c28-23c6-40ea-aada-206ca0655d46}" orientation="s" name="" type="Generic"/>
+        <terminal x="10" y="-90" uuid="{177d0c7a-f96e-4e23-b248-8cf34018f1e1}" orientation="n" name="" type="Generic"/>
+        <terminal x="0" y="110" uuid="{3100d671-43ca-4d5c-9c7b-64826076a9d9}" orientation="s" name="" type="Generic"/>
+        <terminal x="-10" y="110" uuid="{c35035cc-e529-4405-a08e-dd57386f56a6}" orientation="s" name="" type="Generic"/>
+        <terminal x="0" y="-90" uuid="{2fcddd84-0674-4daa-8251-f0810767374c}" orientation="n" name="" type="Generic"/>
+        <terminal x="20" y="-90" uuid="{3ff1ff27-d18a-4871-9072-680bafe0c85b}" orientation="n" name="" type="Generic"/>
+        <terminal x="20" y="110" uuid="{17e43d95-1c88-4d91-a022-10242498aad6}" orientation="s" name="" type="Generic"/>
+    </description>
+</definition>

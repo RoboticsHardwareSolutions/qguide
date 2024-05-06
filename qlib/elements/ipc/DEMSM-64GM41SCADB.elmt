@@ -1,0 +1,43 @@
+<definition width="30" link_type="simple" hotspot_x="15" height="30" hotspot_y="15" type="element" version="0.100.0">
+    <uuid uuid="{b2992f4f-77da-455c-afe5-35ac039b1815}"/>
+    <names>
+        <name lang="cs">DDR3L-1866 SO-DIMM</name>
+        <name lang="de">DDR3L-1866 SO-DIMM</name>
+        <name lang="it">DDR3L-1866 SO-DIMM</name>
+        <name lang="hu">DDR3L-1866 SO-DIMM</name>
+        <name lang="el">DDR3L-1866 SO-DIMM</name>
+        <name lang="ar">DDR3L-1866 SO-DIMM</name>
+        <name lang="pl">DDR3L-1866 SO-DIMM</name>
+        <name lang="en">DDR3L-1866 SO-DIMM</name>
+        <name lang="fr">DDR3L-1866 SO-DIMM</name>
+        <name lang="nl">DDR3L-1866 SO-DIMM</name>
+        <name lang="es">DDR3L-1866 SO-DIMM</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Оперативная память </elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">DDR3L-1866 SO-DIMM 4GB</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" width="20" rx="0" ry="0" antialias="false" height="20"/>
+        <text font="Sans Serif,3,-1,5,50,0,0,0,0,0" rotation="0" x="-4" y="1" color="#000000" text="RAM"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{1cf25120-2f50-4026-aab8-018d62080fe6}" x="26" Valignment="AlignTop" y="-4" z="3" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text>DDR3L-1866 SO-DIMM 4GB</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{461afb3d-9005-475d-a14d-38b4e5a46202}" x="29" Valignment="AlignTop" y="-24" z="4" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>

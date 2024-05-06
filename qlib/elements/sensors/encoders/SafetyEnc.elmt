@@ -1,0 +1,47 @@
+<definition width="50" link_type="simple" version="0.90" hotspot_y="32" type="element" hotspot_x="26" height="60">
+    <uuid uuid="{9f7e0f0a-0103-4a05-97c8-0317f0ff7f9f}"/>
+    <names>
+        <name lang="ru">Safety Encoder SICK</name>
+        <name lang="en">Safety Encoder SICK</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1067915 </elementInformation>
+        <elementInformation show="1" name="designation">DFS60S-BDOC01024</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">Safety Encoder</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="26" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-3.25" end1="none" length1="1.5" x2="-0.25" y2="23" end2="none" antialias="false"/>
+        <line y1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-21" end1="none" length1="1.5" x2="19" y2="-20" end2="none" antialias="false"/>
+        <line y1="23" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-0.25" end1="none" length1="1.5" x2="2.75" y2="26" end2="none" antialias="false"/>
+        <rect width="40" x="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-20" antialias="false" height="40" rx="0" ry="0"/>
+        <arc width="20" x="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" y="-12" antialias="true" height="20" angle="90"/>
+        <line y1="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-14" end1="none" length1="1.5" x2="-16" y2="-6" end2="none" antialias="false"/>
+        <line y1="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-14" end1="none" length1="1.5" x2="-10" y2="-4" end2="none" antialias="false"/>
+        <line y1="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-8" end1="none" length1="1.5" x2="-4" y2="-12" end2="none" antialias="false"/>
+        <line y1="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-4" end1="none" length1="1.5" x2="-7" y2="-9" end2="none" antialias="false"/>
+        <line y1="14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-6" end1="none" length1="1.5" x2="2" y2="14" end2="none" antialias="false"/>
+        <line y1="14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="2" end1="none" length1="1.5" x2="2" y2="6" end2="none" antialias="false"/>
+        <line y1="6" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="2" end1="none" length1="1.5" x2="8" y2="6" end2="none" antialias="false"/>
+        <line y1="6" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="8" end1="none" length1="1.5" x2="8" y2="14" end2="none" antialias="false"/>
+        <line y1="14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="8" end1="none" length1="1.5" x2="14" y2="14" end2="none" antialias="false"/>
+        <line y1="23" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="0" end1="none" length1="1.5" x2="0" y2="20" end2="none" antialias="false"/>
+        <line y1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="0" end1="none" length1="1.5" x2="0" y2="-30" end2="none" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="50" rotation="0" y="20" uuid="{3219bfde-0ba5-4ba6-a8f5-c3df60e74cb9}" text_width="-1" z="17" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text>DFS60S-BDOC01024</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="50" rotation="0" y="0" uuid="{e605c6d6-d1db-4582-b1bb-75f53eb1f71d}" text_width="-1" z="18" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

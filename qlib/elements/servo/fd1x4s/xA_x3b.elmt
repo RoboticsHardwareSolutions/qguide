@@ -1,0 +1,35 @@
+<definition type="element" version="0.90" hotspot_x="16" width="60" link_type="slave" height="140" hotspot_y="77">
+    <uuid uuid="{7ec02594-bf5a-4eb6-a384-3e349d512554}"/>
+    <names>
+        <name lang="en">X3B-FD1x4S-xA-000</name>
+        <name lang="ru">X3B-FD1x4S-xA-000</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle y="48" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle y="-12" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle y="-52" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle y="28" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle y="8" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <circle y="-32" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" antialias="false"/>
+        <text text="IN1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-27" color="#000000" x="0" rotation="0"/>
+        <text text="IN3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="13" color="#000000" x="0" rotation="0"/>
+        <text text="IN2" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-7" color="#000000" x="0" rotation="0"/>
+        <text text="COM0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="53" color="#000000" x="0" rotation="0"/>
+        <text text="IN4" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="33" color="#000000" x="0" rotation="0"/>
+        <text text="COMI" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-47" color="#000000" x="-1" rotation="0"/>
+        <text text="X3B" font="Sans Serif,7,-1,5,50,0,0,0,0,0" y="-65" color="#000000" x="0" rotation="0"/>
+        <rect y="-60" width="48" rx="0" height="120" x="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0"/>
+        <terminal type="Generic" y="10" uuid="{16a93bd8-41ae-46fb-87f1-bf275f0761f1}" orientation="w" name="" x="-10"/>
+        <terminal type="Generic" y="50" uuid="{91510fee-4cb9-4246-b82a-6a402b67d838}" orientation="w" name="" x="-10"/>
+        <terminal type="Generic" y="-50" uuid="{9822bcfe-2cda-449f-97b6-6dba3417fe85}" orientation="w" name="" x="-10"/>
+        <terminal type="Generic" y="-30" uuid="{a5193326-56fb-4f51-9191-8af6ac2ea972}" orientation="w" name="" x="-10"/>
+        <terminal type="Generic" y="30" uuid="{d3f44cfa-d076-484c-958c-dd4f3409de04}" orientation="w" name="" x="-10"/>
+        <terminal type="Generic" y="-10" uuid="{58800c3e-2049-4db7-b5d7-8c0c77982af3}" orientation="w" name="" x="-10"/>
+    </description>
+</definition>

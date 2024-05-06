@@ -1,0 +1,47 @@
+<definition link_type="simple" hotspot_y="63" width="50" hotspot_x="26" version="0.90" height="100" type="element">
+    <uuid uuid="{45c9db5d-64c1-439f-bfd0-891abb4f7de7}"/>
+    <names>
+        <name lang="en">Wild Sensor</name>
+        <name lang="ru">Wild Sensor</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">МПВ-602.14601</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1094452 </elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description">Датчик скорости и направления ветра МПВ-602.14601 (температура эксплуатации до -50 °C)</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Мера Прибор</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-6" ry="6" width="12" rx="4" y="-22" height="40" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="18" x1="0" length2="1.5" length1="1.5" x2="0" y2="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="25" uuid="{5ccc8ac2-e873-40ad-a221-534a31726541}" z="11" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="25" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text x="25" uuid="{810958ef-31e8-4b93-b129-af8573de1aa8}" z="12" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="50" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>МПВ-602.14601</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <circle x="-20" diameter="12" y="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-6" diameter="12" y="-48" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="6" diameter="12" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-30" x1="-8" length2="1.5" length1="1.5" x2="0" y2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-30" x1="0" length2="1.5" length1="1.5" x2="0" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-30" x1="0" length2="1.5" length1="1.5" x2="6" y2="-26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-22" x1="0" length2="1.5" length1="1.5" x2="0" y2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-1" diameter="2" y="-31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-16" start="90" width="36" y="-58" height="36" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end2="none" end1="none" y1="-59" x1="-1" length2="1.5" length1="1.5" x2="3" y2="-58" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-58" x1="3" length2="1.5" length1="1.5" x2="-1" y2="-56" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-40" x1="-16" length2="1.5" length1="1.5" x2="-17" y2="-44" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-40" x1="-16" length2="1.5" length1="1.5" x2="-14" y2="-44" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal x="0" uuid="{08793516-cac7-4a6a-8921-65f7ba78b0e8}" orientation="s" y="30" type="Generic" name=""/>
+    </description>
+</definition>

@@ -1,0 +1,45 @@
+<definition type="element" width="10" version="0.90" hotspot_y="9" height="20" link_type="simple" hotspot_x="5">
+    <uuid uuid="{c00df913-fdc0-4551-a050-2996271e5f89}"/>
+    <names>
+        <name lang="es">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="it">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="de">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="hu">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="ru">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="cs">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="pt">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="en">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="fr">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="ar">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="nl">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+        <name lang="pl">Перемычка для КПИ-1,5мм2 2PIN IEK</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">YZN11FBS-001-2P</elementInformation>
+        <elementInformation name="description" show="1">Перемычка для КПИ-1,5мм2 2PIN IEK</elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">YZN11FBS-001-2P</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{6c8224a4-25a4-4da6-b06c-a151703827a3}" z="1" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo">
+            <text></text>
+        </dynamic_text>
+        <dynamic_text y="-15" font="Sans Serif,10,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{bfc6689f-c930-47fb-ad68-c4eceaed9d1a}" z="2" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc y="-3" width="6" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-3" height="6" start="90"/>
+        <arc y="-3" width="6" angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-3" height="6" start="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-3" y2="5" y1="0" end1="none" end2="none" length1="1.5" length2="1.5" x2="-3"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="3" y2="5" y1="0" end1="none" end2="none" length1="1.5" length2="1.5" x2="3"/>
+    </description>
+</definition>

@@ -1,0 +1,58 @@
+<definition link_type="simple" type="element" width="80" hotspot_y="28" height="60" hotspot_x="40" version="0.90">
+    <uuid uuid="{822ada43-0b9a-4f19-9cd6-3803d65b3be9}"/>
+    <names>
+        <name lang="ru">RJ11 splitter 3 slots</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment">RJ11 Rexant 03-0032</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation">03-0032</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Rexant</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">RJ11 splitter 3 slots</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y2="-7" x13="16" y14="-5" y12="-5" x6="31" y8="-5" y6="-7" x1="15" x2="15" x3="9" x11="17" x12="17" y5="-17" x7="25" y11="-3" x8="25" x10="23" y1="-5" y7="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-17" y9="-5" x9="23" antialias="false" y13="-5" x4="9" x14="16" y3="-7" x5="31" y10="-3"/>
+        <polygon y2="-7" x13="-24" y14="-5" y12="-5" x6="-9" y8="-5" y6="-7" x1="-25" x2="-25" x3="-31" x11="-23" x12="-23" y5="-17" x7="-15" y11="-3" x8="-15" x10="-17" y1="-5" y7="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-17" y9="-5" x9="-17" antialias="false" y13="-5" x4="-31" x14="-24" y3="-7" x5="-9" y10="-3"/>
+        <line length1="1.5" end1="none" end2="none" x1="-1" x2="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="19" x2="19" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-3" x2="-3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-21" x2="-21" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="17" x2="17" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-23" x2="-23" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-5" x2="-5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="15" x2="15" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-25" x2="-25" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="1" x2="1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="3" x2="3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="21" x2="21" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-19" x2="-19" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="5" x2="5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="16" y2="18" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-17" x2="-17" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="23" x2="23" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="25" x2="25" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-15" x2="-15" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-17" y2="-15" length2="1.5"/>
+        <rect width="28" antialias="false" y="2" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14" ry="0" rx="0"/>
+        <rect width="28" antialias="false" y="-20" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="6" ry="0" rx="0"/>
+        <polygon y2="10" x13="-3" y14="8" y12="6" x6="11" y8="8" y6="10" x1="-5" x2="-5" x3="-11" x11="-3" x12="-3" y5="18" x7="5" y11="6" x8="5" x10="3" y1="10" y7="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="18" y9="8" x9="3" antialias="false" y13="8" x4="-11" x14="-5" y3="10" x5="11" y10="6"/>
+        <rect width="28" antialias="false" y="-20" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-34" ry="0" rx="0"/>
+        <rect width="72" antialias="false" y="-22" height="46" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-36" ry="0" rx="0"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" text_from="CompositeText" y="-44" Valignment="AlignTop" x="-18" Halignment="AlignLeft" uuid="{b03db30f-3893-4291-9dee-dfb0b7204793}" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="26" frame="false" rotation="0">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" text_from="CompositeText" y="18" Valignment="AlignTop" x="-62" Halignment="AlignLeft" uuid="{559a75b0-3861-4b16-a9a8-b5c46dfe3d30}" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="27" frame="false" rotation="0">
+            <text>RJ11 Rexant 03-0032</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" y="22" x="0" uuid="{0cc90e47-9806-4812-a930-ad68b035047d}" name="" orientation="s"/>
+        <terminal type="Generic" y="-20" x="-20" uuid="{37088af1-7c53-4317-9e54-ddc0e12df957}" name="" orientation="n"/>
+        <terminal type="Generic" y="-20" x="20" uuid="{78762d15-21c3-444c-b71a-78c2501720af}" name="" orientation="n"/>
+    </description>
+</definition>

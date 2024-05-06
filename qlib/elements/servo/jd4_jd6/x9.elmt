@@ -1,0 +1,35 @@
+<definition width="50" hotspot_y="96" height="140" hotspot_x="26" link_type="slave" type="element" version="0.90">
+    <uuid uuid="{683c52d0-8d0c-4f0f-a6d4-d364cba66e7f}"/>
+    <names>
+        <name lang="en">X9</name>
+        <name lang="ru">X9</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle antialias="false" x="-20" y="-72" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <circle antialias="false" x="-20" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <text color="#000000" x="-10" y="13" text="STOB-" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <circle antialias="false" x="-20" y="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <circle antialias="false" x="-20" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <circle antialias="false" x="-20" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <text color="#000000" x="-10" y="-67" text="24V" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <circle antialias="false" x="-20" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4"/>
+        <text color="#000000" x="-10" y="-47" text="STOA+" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" x="-15" y="-85" text="X9" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" x="-10" y="33" text="GND" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" x="-10" y="-27" text="STOA-" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" x="-10" y="-7" text="STOB+" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect antialias="false" x="-18" y="-80" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="38" height="120"/>
+        <terminal x="-20" y="30" orientation="w" type="Generic" name="" uuid="{3f66a84c-0dd1-4903-81e0-1e7f16de5cb8}"/>
+        <terminal x="-20" y="-70" orientation="w" type="Generic" name="" uuid="{24ab6743-80cf-43dc-83b8-a9f900029693}"/>
+        <terminal x="-20" y="-30" orientation="w" type="Generic" name="" uuid="{cc19a6f6-14fe-4b92-8652-f00724274178}"/>
+        <terminal x="-20" y="10" orientation="w" type="Generic" name="" uuid="{4c75feb4-9668-44de-b4ec-ae63bd9998b4}"/>
+        <terminal x="-20" y="-50" orientation="w" type="Generic" name="" uuid="{ca88dd20-d2ba-4a63-8b10-88406e217792}"/>
+        <terminal x="-20" y="-10" orientation="w" type="Generic" name="" uuid="{53458f64-02e8-485a-a053-413d07aa1aaf}"/>
+    </description>
+</definition>

@@ -1,0 +1,41 @@
+<definition height="30" version="0.90" hotspot_x="19" link_type="simple" hotspot_y="12" type="element" width="40">
+    <uuid uuid="{69ec17e5-ccc0-4d2b-9ed3-f8898b927db4}"/>
+    <names>
+        <name lang="en">XT60E-M</name>
+        <name lang="ru">XT60E-M</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Power Connector</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">AMASS</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">XT60E-M </elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="-6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" x2="-10" length1="1.5" end2="none" length2="1.5" y1="-3" end1="none"/>
+        <line y2="-6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" x2="10" length1="1.5" end2="none" length2="1.5" y1="-3" end1="none"/>
+        <line y2="-3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-7" length1="1.5" end2="none" length2="1.5" y1="-6" end1="none"/>
+        <line y2="-3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="13" length1="1.5" end2="none" length2="1.5" y1="-6" end1="none"/>
+        <line y2="-5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" length1="1.5" end2="none" length2="1.5" y1="8" end1="none"/>
+        <line y2="-5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" length1="1.5" end2="none" length2="1.5" y1="8" end1="none"/>
+        <line y2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" x2="14" length1="1.5" end2="none" length2="1.5" y1="0" end1="none"/>
+        <line y2="3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" x2="14" length1="1.5" end2="none" length2="1.5" y1="3" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="42" text_width="-1" y="10" uuid="{6c328b10-ed15-47fb-a52c-65c31e5c1a16}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="30" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>XT60E-M </text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="43" text_width="-1" y="-5" uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="30" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal orientation="s" y="10" uuid="{4b047085-e009-4218-bf77-4637491c2324}" name="" type="Generic" x="-10"/>
+        <terminal orientation="s" y="10" uuid="{97db28f7-9830-4659-ba70-bbe087c75f16}" name="" type="Generic" x="10"/>
+    </description>
+</definition>

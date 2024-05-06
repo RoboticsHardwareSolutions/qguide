@@ -1,0 +1,48 @@
+<definition link_type="simple" hotspot_y="93" width="70" hotspot_x="25" version="0.90" height="210" type="element">
+    <uuid uuid="{2ea86d79-e1c9-44b6-a33a-464e09a21fbd}"/>
+    <names>
+        <name lang="en">FX0-GCAN00000</name>
+        <name lang="ru">FX0-GCAN00000</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">FX0-GCAN00000</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1044076</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Safe EFI-pro System / Flexi Soft / Шлюз / CANopen</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" end1="none" y1="108" x1="8" length2="1.5" length1="1.5" x2="0" y2="108" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="108" x1="8" length2="1.5" length1="1.5" x2="10" y2="108" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-19.875" ry="0" width="59.875" rx="0" y="-88" height="196" style="line-style:normal;line-weight:normal;filling:HTMLYellowLightYellow;color:lightgray" antialias="false"/>
+        <text x="0" color="#000000" font="Helvetica,9,-1,5,75,0,0,0,0,0,Bold" y="-20" text="SICK" rotation="0"/>
+        <text x="-2" color="#000000" font="Helvetica,5,-1,5,75,0,0,0,0,0,Bold" y="-9" text="FLEXY Soft&#xa;" rotation="0"/>
+        <text x="-4" color="#000000" font="Helvetica,6,-1,5,25,0,0,0,0,0,Light" y="0" text="FX0-GCAN" rotation="0"/>
+        <dynamic_text x="40" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" z="19" keep_visual_rotation="true" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_width="-1" Halignment="AlignLeft" y="90" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>FX0-GCAN00000</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text x="30" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" z="21" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="70" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <circle x="-12" diameter="4" y="106" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-2" diameter="4" y="106" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="8" diameter="4" y="106" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="18" diameter="4" y="106" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="28" diameter="4" y="106" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal x="10" uuid="{da944c28-23c6-40ea-aada-206ca0655d46}" orientation="s" y="110" type="Generic" name=""/>
+        <terminal x="30" uuid="{ed2a49f0-6bfa-4bd4-a656-b664f053695d}" orientation="s" y="110" type="Generic" name=""/>
+        <terminal x="0" uuid="{3100d671-43ca-4d5c-9c7b-64826076a9d9}" orientation="s" y="110" type="Generic" name=""/>
+        <terminal x="20" uuid="{17e43d95-1c88-4d91-a022-10242498aad6}" orientation="s" y="110" type="Generic" name=""/>
+        <terminal x="-10" uuid="{c35035cc-e529-4405-a08e-dd57386f56a6}" orientation="s" y="110" type="Generic" name=""/>
+    </description>
+</definition>

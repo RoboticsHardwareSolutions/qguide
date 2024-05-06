@@ -1,0 +1,74 @@
+<definition height="30" type="element" link_type="simple" hotspot_x="38" hotspot_y="12" version="0.100.0" width="140">
+    <uuid uuid="{f93a92b3-ae41-4ea1-8cc7-f86f521dd370}"/>
+    <names>
+        <name lang="ru">РП10-7 Л-П-О розетка</name>
+        <name lang="en">РП10-7 Л-П-О розетка</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Завод Электродеталь</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">РП10-7 Л-П-О розетка, Соединитель низкочастотный, прямоугольный, внутреннего монтажа</elementInformation>
+        <elementInformation name="designation" show="1">РП10-7 Л-П-О розетка</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1">https://www.chipdip.ru/product0/8000664134</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="87" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="90"/>
+        <line x2="67" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="70"/>
+        <line x2="47" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="50"/>
+        <line x2="93" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="90"/>
+        <line x2="73" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="70"/>
+        <line x2="27" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="30"/>
+        <line x2="90" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="90"/>
+        <line x2="70" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="70"/>
+        <line x2="53" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="50"/>
+        <line x2="90" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="30"/>
+        <line x2="70" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="10"/>
+        <line x2="7" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="10"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="72" y="-1" text="6"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="92" y="-1" text="7"/>
+        <line x2="50" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="50"/>
+        <line x2="90" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="8" x1="70"/>
+        <line x2="-13" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-10"/>
+        <line x2="70" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="8" x1="50"/>
+        <line x2="50" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="-10"/>
+        <line x2="-30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="-30"/>
+        <line x2="33" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="30"/>
+        <line x2="-7" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-10"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="52" y="-1" text="5"/>
+        <line x2="13" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="10"/>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="-10"/>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="10"/>
+        <line x2="30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="30"/>
+        <line x2="30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="-30"/>
+        <line x2="30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="8" x1="-30"/>
+        <line x2="-33" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-30"/>
+        <line x2="-27" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-30"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-29" y="-1" text="1"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-8" y="-1" text="2"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="12" y="-1" text="3"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="32" y="-1" text="4"/>
+        <line x2="50" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="8" x1="30"/>
+        <dynamic_text z="26" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{d8c730d4-c1c6-4efb-86af-23f193fa16cc}" text_from="CompositeText" text_width="-1" x="-145" keep_visual_rotation="false" y="5">
+            <text>РП10-7 Л-П-О розетка</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text z="27" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{87650dbd-31ae-470e-ac32-8a60cdf7f66a}" text_from="CompositeText" text_width="-1" x="-140" keep_visual_rotation="false" y="-15">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" orientation="n" name="" uuid="{e68465f0-e265-43d9-9eb1-3f8702b875bb}" x="70" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{5f057df2-99ef-4b04-8009-8591e02439f4}" x="-30" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{ced5c12a-164e-470c-ae0a-62c37c54854f}" x="50" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{14f02bc1-6819-438d-8b5b-4ad91968a1ad}" x="-10" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{f5f27d46-a9c1-4d70-97ca-0d69c650139b}" x="30" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{b756b956-cd53-4d3a-a1c6-36dc5bdd9056}" x="10" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{2d55becb-5b9f-442d-93a3-410f042146b7}" x="90" y="-5"/>
+    </description>
+</definition>

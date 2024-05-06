@@ -1,0 +1,32 @@
+<definition width="30" link_type="simple" hotspot_x="25" height="30" hotspot_y="15" type="element" version="0.100.0">
+    <uuid uuid="{c52934b0-5082-4e67-b65e-245de5088234}"/>
+    <names>
+        <name lang="en">Mini PCI-E Half в Full Size</name>
+        <name lang="ru">Mini PCI-E Half в Full Size</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Unknown</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Расширитель с Mini PCI-E Half в Full Size</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1">https://winsale.ru/product/miniPCI-E-half-size-to-full-size-extender/</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">Unknown</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" width="20" rx="0" ry="0" antialias="false" height="20"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{66c8b5f0-de7e-4891-8e8c-733e6c5f3ba5}" x="40" Valignment="AlignTop" y="-20" z="2" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{01948bea-be18-44ff-aa70-b51611a79c15}" x="60" Valignment="AlignTop" y="10" z="3" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text>Расширитель с Mini PCI-E Half в Full Size</text>
+            <info_name>description</info_name>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,50 @@
+<definition width="60" link_type="simple" version="0.90" hotspot_y="93" type="element" hotspot_x="25" height="210">
+    <uuid uuid="{493d7e2a-a499-40cb-8dc6-a428deaec5dd}"/>
+    <names>
+        <name lang="ru">FX3-ANA020002</name>
+        <name lang="en">FX3-ANA020002</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1051134</elementInformation>
+        <elementInformation show="1" name="designation">FX3-ANA020002</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">Safe EFI-pro System / Flexi Soft / Аналоговый входной модуль</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="108" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="8" end1="none" length1="1.5" x2="0" y2="108" end2="none" antialias="false"/>
+        <line y1="108" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="8" end1="none" length1="1.5" x2="10" y2="108" end2="none" antialias="false"/>
+        <rect width="50" x="-20" style="line-style:normal;line-weight:normal;filling:HTMLYellowYellow;color:HTMLYellowDarkKhaki" y="-88" antialias="false" height="196" rx="0" ry="0"/>
+        <circle x="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="8" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <circle x="18" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="4" y="106" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="40" rotation="0" y="90" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" text_width="-1" z="8" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="true">
+            <text>FX3-ANA020002</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="30" rotation="0" y="70" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" text_width="-1" z="9" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="17.5469" text="2-" rotation="0" y="102"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="7.5" text="2+" rotation="0" y="102"/>
+        <text font="Helvetica,9,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="-5" text="SICK" rotation="0" y="-20"/>
+        <text font="Helvetica,5,-1,5,75,0,0,0,0,0,Bold" color="#000000" x="-7" text="FLEXY Soft&#xa;" rotation="0" y="-9"/>
+        <text font="Helvetica,6,-1,5,25,0,0,0,0,0,Light" color="#000000" x="-8" text="FX0-ANA0" rotation="0" y="0"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="-14" text="1+" rotation="0" y="102"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="-3" text="1-" rotation="0" y="102"/>
+        <terminal x="0" y="110" uuid="{3100d671-43ca-4d5c-9c7b-64826076a9d9}" orientation="s" name="" type="Generic"/>
+        <terminal x="20" y="110" uuid="{17e43d95-1c88-4d91-a022-10242498aad6}" orientation="s" name="" type="Generic"/>
+        <terminal x="-10" y="110" uuid="{c35035cc-e529-4405-a08e-dd57386f56a6}" orientation="s" name="" type="Generic"/>
+        <terminal x="10" y="110" uuid="{da944c28-23c6-40ea-aada-206ca0655d46}" orientation="s" name="" type="Generic"/>
+    </description>
+</definition>

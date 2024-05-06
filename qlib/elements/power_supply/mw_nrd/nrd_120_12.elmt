@@ -1,0 +1,51 @@
+<definition type="element" height="90" version="0.90" hotspot_y="44" link_type="simple" width="100" hotspot_x="50">
+    <uuid uuid="{a8ed886c-c2e2-4e2d-8c53-5cec591f981b}"/>
+    <names>
+        <name lang="ru">NRD_120_12</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">MeanWell</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">Power supply</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">NDR-120-12</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Power supply 12V 10A</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="35" x="7"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-41" x="-3"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="35" x="-13"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-41" x="17"/>
+        <rect height="76.2336" antialias="false" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-38.0099" width="90" rx="0" x="-45"/>
+        <line y2="25" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="27" end1="none" length1="1.5" y1="25" x2="37"/>
+        <line y2="26" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-22" end1="none" length1="1.5" y1="26" x2="-32"/>
+        <line y2="31" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-27" end1="none" length1="1.5" y1="21" x2="-27"/>
+        <text color="#000000" y="-20" rotation="0" text="L" x="-25" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" y="-20" rotation="0" text="N" x="-5" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" y="-20" rotation="0" text="PE" x="15" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text color="#000000" y="-5" rotation="0" text="~220V" x="-18" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <circle diameter="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-41" x="-23"/>
+        <dynamic_text Valignment="AlignTop" uuid="{a3d451d1-ee56-4fe6-9620-a24f270ba668}" text_from="CompositeText" z="15" Halignment="AlignLeft" y="-32" frame="false" rotation="90" text_width="-1" keep_visual_rotation="false" x="88" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{7fe07a77-3281-40c8-81dc-c9e7ee701029}" text_from="CompositeText" z="16" Halignment="AlignLeft" y="-38" frame="false" rotation="90" text_width="-1" keep_visual_rotation="false" x="68" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>Power supply</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{1d9f3426-b3e7-4c64-882a-23197f345c8d}" text_from="UserText" z="17" Halignment="AlignLeft" y="10" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="-23" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>DC 12V</text>
+        </dynamic_text>
+        <terminal type="Generic" uuid="{4335a3a1-f1c1-4519-874e-1c49a7475827}" y="-40" name="" x="0" orientation="n"/>
+        <terminal type="Generic" uuid="{89730d20-857e-4ee8-948a-60055c42ecf5}" y="-40" name="" x="-20" orientation="n"/>
+        <terminal type="Generic" uuid="{a491d317-2e75-4f3b-85bd-b6909891ceca}" y="40" name="" x="10" orientation="s"/>
+        <terminal type="Generic" uuid="{0f999e59-bfcc-4f82-9aba-419040d5b2f3}" y="40" name="" x="-10" orientation="s"/>
+        <terminal type="Generic" uuid="{3a79160d-9f78-4147-9780-75be475ae244}" y="-40" name="" x="20" orientation="n"/>
+    </description>
+</definition>

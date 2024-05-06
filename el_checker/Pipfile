@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+requests = { extras = ['socks'] }
+docxtpl = { git = 'https://github.com/elapouya/python-docx-template.git', ref = 'v0.16.6', editable = true }
+
+
+[dev-packages]
+pytest = "*"

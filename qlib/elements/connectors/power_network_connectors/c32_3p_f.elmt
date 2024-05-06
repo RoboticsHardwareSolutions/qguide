@@ -1,0 +1,48 @@
+<definition height="30" type="element" link_type="simple" hotspot_x="36" hotspot_y="12" version="0.100.0" width="60">
+    <uuid uuid="{1c1f8b19-b6a5-4545-b302-fc1028777342}"/>
+    <names>
+        <name lang="ru">Розетка переносная ССИ-223</name>
+        <name lang="en">Розетка переносная ССИ-223</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Розетка переносная ССИ-223 32А-6ч/200-250В 2P+PE IP44</elementInformation>
+        <elementInformation name="designation" show="1">PSN21-032-3</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1">https://www.iek.ru/products/catalog/izdeliya_elektroustanovochnye_udliniteli_i_silovye_razemy/silovye_razemy/silovye_razemy_magnum/rozetki_perenosnye/rozetka_perenosnaya_ssi_223_32a_6ch200_250v_2ppe_ip44_magnum_iek</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="7" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="10"/>
+        <line x2="-13" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-10"/>
+        <line x2="-30" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="-30"/>
+        <line x2="-7" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-10"/>
+        <line x2="13" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="10"/>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="-10"/>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-5" y2="10" x1="10"/>
+        <line x2="12" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="-32"/>
+        <line x2="12" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" y2="8" x1="-32"/>
+        <line x2="-33" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-30"/>
+        <line x2="-27" end1="none" end2="none" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10" y2="13" x1="-30"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-28" y="-1" text="L1"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="-8" y="-1" text="N"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" x="12" y="-1" text="PE"/>
+        <dynamic_text z="26" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{d8c730d4-c1c6-4efb-86af-23f193fa16cc}" text_from="CompositeText" text_width="-1" x="30" keep_visual_rotation="false" y="15">
+            <text>PSN21-032-3</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text z="27" frame="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" Valignment="AlignTop" Halignment="AlignLeft" uuid="{87650dbd-31ae-470e-ac32-8a60cdf7f66a}" text_from="CompositeText" text_width="-1" x="33" keep_visual_rotation="false" y="-7">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" orientation="n" name="" uuid="{5f057df2-99ef-4b04-8009-8591e02439f4}" x="-30" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{14f02bc1-6819-438d-8b5b-4ad91968a1ad}" x="-10" y="-5"/>
+        <terminal type="Generic" orientation="n" name="" uuid="{b756b956-cd53-4d3a-a1c6-36dc5bdd9056}" x="10" y="-5"/>
+    </description>
+</definition>

@@ -1,0 +1,28 @@
+<definition link_type="simple" type="element" height="70" hotspot_y="35" version="0.90" width="50" hotspot_x="25">
+    <uuid uuid="{b9fe328b-45d3-4bac-811c-37f855439e71}"/>
+    <names>
+        <name lang="ru">D-SUB 9 Case</name>
+        <name lang="en">D-SUB 9 Case</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference">1478763-9</elementInformation>
+        <elementInformation show="1" name="designation">1478763-9</elementInformation>
+        <elementInformation show="1" name="manufacturer">TE</elementInformation>
+        <elementInformation show="1" name="description">D-SUB 9 Case</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" x1="20" x2="20" y2="-30" y1="-25" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="-20" x2="20" y2="-30" y1="-30" end1="none" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="-20" x2="-20" y2="30" y1="-30" end1="none" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="-20" x2="20" y2="30" y1="30" end1="none" length2="1.5" style="line-style:dashed;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+        <line length1="1.5" x1="20" x2="20" y2="30" y1="26" end1="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none"/>
+    </description>
+</definition>

@@ -1,0 +1,70 @@
+<definition height="60" version="0.90" hotspot_x="45" link_type="master" hotspot_y="24" type="element" width="80">
+    <uuid uuid="{c16e31a2-e5ce-46df-8ff6-b5ca3d773e52}"/>
+    <names>
+        <name lang="en">S-Pro67 19 мм NO 24V LED White</name>
+        <name lang="ru">S-Pro67 19 мм NO 24V LED White</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Кнопка S-Pro67 19 мм без фикс. с белой подсв. 24В </elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">EKF PROxima</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">s-pro67-152</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="true" style="line-style:normal;line-weight:normal;filling:HTMLYellowLemonChiffon;color:black" diameter="14" y="-2" x="13"/>
+        <polygon y2="15" antialias="true" y3="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" closed="false" x2="0" x3="0" y1="-5"/>
+        <polygon y2="5" antialias="false" y3="10" style="line-style:dotted;line-weight:normal;filling:none;color:black" y5="5" x1="-8" x5="-41" closed="false" x2="-27" x4="-31" y4="5" x3="-29" y1="5"/>
+        <line y2="-5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" length1="1.5" end2="none" length2="1.5" y1="-15" end1="none"/>
+        <line y2="-2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" x2="20" length1="1.5" end2="none" length2="1.5" y1="-15" end1="none"/>
+        <line y2="25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" x2="20" length1="1.5" end2="none" length2="1.5" y1="12" end1="none"/>
+        <arc antialias="true" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22.5" start="180" angle="180" x="-22.5" width="5"/>
+        <line y2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="15" x2="25" length1="1.5" end2="none" length2="1.5" y1="0" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="10" text_width="-1" y="-24" uuid="{29d2349f-5f03-47cb-9b7a-b373fa6b3aad}" frame="false" rotation="0" text_from="UserText" keep_visual_rotation="true" x="18" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>+</text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="10" text_width="-1" y="-5" uuid="{8053f011-a2d9-400b-b527-e8d14d50237e}" frame="true" rotation="0" text_from="ElementInfo" keep_visual_rotation="true" x="35" font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc antialias="true" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="27.5" start="0" angle="180" x="17.5" width="5"/>
+        <line y2="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="15" x2="25" length1="1.5" end2="none" length2="1.5" y1="10" end1="none"/>
+        <arc antialias="true" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22.5" start="180" angle="180" x="17.5" width="5"/>
+        <arc antialias="true" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="27.5" start="0" angle="180" x="-2.5" width="5"/>
+        <arc antialias="true" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22.5" start="180" angle="180" x="-2.5" width="5"/>
+        <line y2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-41" x2="-41" length1="1.5" end2="none" length2="1.5" y1="0" end1="none"/>
+        <arc antialias="true" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="0" start="-90" angle="-180" x="-45" width="8"/>
+        <line y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-33" x2="-33" length1="1.5" end2="none" length2="1.5" y1="30" end1="none"/>
+        <line y2="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="30" x2="30" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-33" x2="-23" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-17" x2="-3" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3" x2="17" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="23" x2="30" length1="1.5" end2="none" length2="1.5" y1="-20" end1="none"/>
+        <line y2="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="23" x2="30" length1="1.5" end2="none" length2="1.5" y1="30" end1="none"/>
+        <line y2="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="17" x2="3" length1="1.5" end2="none" length2="1.5" y1="30" end1="none"/>
+        <line y2="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-33" x2="-3" length1="1.5" end2="none" length2="1.5" y1="30" end1="none"/>
+        <dynamic_text Valignment="AlignTop" z="33" text_width="-1" y="-20" uuid="{ff58e697-dcc7-43de-9222-ad2263d064a2}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="50" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text>s-pro67-152</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" z="34" text_width="-1" y="0" uuid="{d0626ca4-af09-48df-b423-b04bbb530a42}" frame="false" rotation="0" text_from="CompositeText" keep_visual_rotation="false" x="55" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal orientation="s" y="30" uuid="{86bc36ba-3d0b-451f-b187-c3efec50ada8}" name="" type="Generic" x="20"/>
+        <terminal orientation="s" y="30" uuid="{95d021ed-0312-46c9-a572-e496efb3e702}" name="" type="Generic" x="0"/>
+        <terminal orientation="n" y="-20" uuid="{3ada747a-bfe7-45ae-989e-6079b7d98798}" name="" type="Generic" x="20"/>
+        <terminal orientation="n" y="-20" uuid="{fb039f0f-029d-4664-b921-6dfd47b4134d}" name="" type="Generic" x="0"/>
+    </description>
+</definition>

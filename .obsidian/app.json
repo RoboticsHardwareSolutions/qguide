@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "doc",
+  "useMarkdownLinks": false,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "attach",
+  "promptDelete": false
+}

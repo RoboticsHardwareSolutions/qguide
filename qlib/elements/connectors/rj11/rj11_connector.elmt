@@ -1,0 +1,53 @@
+<definition link_type="simple" type="element" width="40" hotspot_y="33" height="60" hotspot_x="20" version="0.90">
+    <uuid uuid="{7664acf2-dd7a-4ac0-93ba-a0f2b5019ede}"/>
+    <names>
+        <name lang="ru">RJ11_connector</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment">RJ11 Rexant 03-0022</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation">03-0022</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Rexant</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">RJ11 Connector</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <polygon y2="-12" x13="-4.05" y14="-10" y12="-10" x6="10.95" y8="-10" y6="-12" x1="-5.05" x2="-5.05" x3="-11.05" x11="-3.05" x12="-3.05" y5="-22" x7="4.95" y11="-8" x8="4.95" x10="2.95" y1="-10" y7="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="-22" y9="-10" x9="2.95" antialias="false" y13="-10" x4="-11.05" x14="-4.05" y3="-12" x5="10.95" y10="-8"/>
+        <line length1="1.5" end1="none" end2="none" x1="-1" x2="-1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-1.05" x2="-1.05" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-3" x2="-3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-3.05" x2="-3.05" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-5" x2="-5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-5.05" x2="-5.05" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-7" x2="-7" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="-7.05" x2="-7.05" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="1" x2="1" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="0.95" x2="0.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="3" x2="3" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="5" x2="5" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="2.95" x2="2.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="7" x2="7" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="11" y2="13" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="4.95" x2="4.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <line length1="1.5" end1="none" end2="none" x1="6.95" x2="6.95" antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="-22" y2="-20" length2="1.5"/>
+        <rect width="28" antialias="false" y="-3" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14" ry="0" rx="0"/>
+        <polygon y2="5" x13="-3" y14="3" y12="1" x6="11" y8="3" y6="5" x1="-5" x2="-5" x3="-11" x11="-3" x12="-3" y5="13" x7="5" y11="1" x8="5" x10="3" y1="5" y7="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y4="13" y9="3" x9="3" antialias="false" y13="3" x4="-11" x14="-5" y3="5" x5="11" y10="1"/>
+        <rect width="28" antialias="false" y="-25" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14.05" ry="0" rx="0"/>
+        <rect width="32" antialias="false" y="-27" height="46" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-16" ry="0" rx="0"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" text_from="CompositeText" y="-47" Valignment="AlignTop" x="-17" Halignment="AlignLeft" uuid="{23a211b2-24ec-4c82-a5e3-bb959e0f3f42}" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="22" frame="false" rotation="0">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" text_from="CompositeText" y="17" Valignment="AlignTop" x="-58" Halignment="AlignLeft" uuid="{9300b42d-fe52-47c7-b513-15c82c75637b}" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="23" frame="false" rotation="0">
+            <text>RJ11 Rexant 03-0022</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" y="17" x="0" uuid="{0a56bd52-4818-4cc2-953a-c1befa7f8605}" name="" orientation="s"/>
+        <terminal type="Generic" y="-25" x="-0.05" uuid="{02af2f73-09d3-4291-8ad7-e42e13c0d7c6}" name="" orientation="n"/>
+    </description>
+</definition>

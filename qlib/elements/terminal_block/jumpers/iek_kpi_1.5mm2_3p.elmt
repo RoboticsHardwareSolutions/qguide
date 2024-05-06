@@ -1,0 +1,34 @@
+<definition link_type="simple" type="element" version="0.90" width="30" hotspot_x="14" hotspot_y="10" height="20">
+    <uuid uuid="{ac66fa51-6b52-4504-b234-1c921315e88d}"/>
+    <names>
+        <name lang="ru">iek_kpi_1.5mm2_3p</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">YZN11FBS-001-3P</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="comment" show="1">YZN11FBS-001-3P</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Перемычка на 2 отсека для клемм 1.5мм2</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="0" end2="none" y2="0" length1="1.5" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-10" end1="none" antialias="false"/>
+        <line y1="-4" end2="none" y2="4" length1="1.5" x1="4" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-4" end1="none" antialias="false"/>
+        <dynamic_text rotation="0" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" Valignment="AlignTop" y="18" uuid="{02ddbbe2-0435-4b3d-88f4-bb588474d237}" x="-45" z="3" frame="false" keep_visual_rotation="false" text_from="CompositeText">
+            <text>YZN11FBS-001-3P</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" Valignment="AlignTop" y="2" uuid="{292f2ff8-fd50-4a4c-9e42-1eb8ce3d925b}" x="-16" z="4" frame="false" keep_visual_rotation="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal name="" type="Generic" orientation="w" y="0" uuid="{a5ac1cc4-9200-4224-910c-eeda56412b72}" x="-10"/>
+        <terminal name="" type="Generic" orientation="e" y="0" uuid="{62f5400a-bad2-498a-b44f-c483a74d83f9}" x="10"/>
+    </description>
+</definition>

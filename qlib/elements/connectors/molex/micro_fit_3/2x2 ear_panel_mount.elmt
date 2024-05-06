@@ -1,0 +1,33 @@
+<definition height="10" version="0.100.0" width="80" link_type="simple" hotspot_x="40" hotspot_y="1" type="element">
+    <uuid uuid="{74d74add-6122-4c83-8e94-ad2f576a15c7}"/>
+    <names>
+        <name lang="en">Plug Housing 2x2 Panel Mount Ears</name>
+        <name lang="ru">Plug Housing 2x2 Panel Mount Ears</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430200400</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Plug Housing, Dual Row, 4 Circuits, Low-Halogen Since Inception, Black</elementInformation>
+        <elementInformation name="comment" show="1">Alternative Part : 430200410</elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="2" y2="2" x1="-35" x2="34" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="5" y2="5" x1="34" x2="-35" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Halignment="AlignLeft" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" text_width="-1" rotation="0" x="-52" y="-8" z="19" frame="false" keep_visual_rotation="true" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="CompositeText" Halignment="AlignLeft" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" text_width="-1" rotation="0" x="-46" y="13" z="21" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text>430200400</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,45 @@
+<definition type="element" version="0.90" hotspot_x="25" width="50" link_type="slave" height="60" hotspot_y="32">
+    <uuid uuid="{71aa2c0c-5b9f-4aa8-b6e1-704270d39b49}"/>
+    <names>
+        <name lang="en">BMS Main 2.1  P7</name>
+        <name lang="ru">BMS Main 2.1  P7</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line length2="1.5" y1="24" x2="-10" y2="21" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-13" end1="none"/>
+        <text text="1 V+" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="6" color="#000000" x="-7" rotation="270"/>
+        <text text="2 NO" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="6" color="#000000" x="9.1" rotation="270"/>
+        <line length2="1.5" y1="24" x2="10" y2="21" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="7" end1="none"/>
+        <line length2="1.5" y1="21" x2="12.75" y2="24" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="9.75" end1="none"/>
+        <line length2="1.5" y1="21" x2="-7.25" y2="24" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10.25" end1="none"/>
+        <line length2="1.5" y1="21" x2="10" y2="10" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" end1="none"/>
+        <line length2="1.5" y1="21" x2="-10" y2="10" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" end1="none"/>
+        <line length2="1.5" y1="14" x2="15" y2="14" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-16" end1="none"/>
+        <line length2="1.5" y1="17" x2="15" y2="17" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-16" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="-20" y2="9.75" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-20" end1="none"/>
+        <line length2="1.5" y1="10" x2="20" y2="10" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-20" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="-15" y2="-29" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-20" end1="none"/>
+        <line length2="1.5" y1="-29" x2="-10" y2="-29" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-15" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="-10" y2="-29" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="0" y2="-21.25" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="5" y2="-29" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" end1="none"/>
+        <line length2="1.5" y1="-29" x2="10" y2="-29" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="5" end1="none"/>
+        <line length2="1.5" y1="-29" x2="10" y2="-21.25" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" end1="none"/>
+        <line length2="1.5" y1="-21.25" x2="20" y2="-21.25" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" end1="none"/>
+        <text text="P7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-13" color="#000000" x="-4" rotation="0"/>
+        <line length2="1.5" y1="-21" x2="20" y2="10" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="20" end1="none"/>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" y="55" text_width="-1" uuid="{6c328b10-ed15-47fb-a52c-65c31e5c1a16}" z="42" Halignment="AlignLeft" Valignment="AlignTop" text_from="CompositeText" x="40" rotation="0" frame="false">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" y="40" text_width="-1" uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" z="43" Halignment="AlignLeft" Valignment="AlignTop" text_from="CompositeText" x="40" rotation="0" frame="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

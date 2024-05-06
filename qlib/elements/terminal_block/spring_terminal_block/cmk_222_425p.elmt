@@ -1,0 +1,44 @@
+<definition type="element" height="80" version="0.90" hotspot_y="39" link_type="simple" width="70" hotspot_x="35">
+    <uuid uuid="{a3aa6456-1cce-4e7d-925b-cfe876d1960d}"/>
+    <names>
+        <name lang="ru">Пружинная колодка, блок из 5 штук</name>
+        <name lang="en">CMK 222-425P</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="67" antialias="false" ry="1" style="line-style:normal;line-weight:normal;filling:lightgray;color:gray" y="-32.9045" width="57.9553" rx="1" x="-28.9553"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34" width="8" rx="1" x="-14"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="5" width="8" rx="1" x="-4"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="5" width="8" rx="1" x="16"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34" width="8" rx="1" x="16"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34" width="8" rx="1" x="-4"/>
+        <dynamic_text Valignment="AlignTop" uuid="{3846dd9c-de58-4005-81e0-19718e85b03c}" text_from="UserText" z="7" Halignment="AlignLeft" y="-15" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="36" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>СМК 222-425P</text>
+        </dynamic_text>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34" width="8" rx="1" x="-24"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="5" width="8" rx="1" x="-24"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-34" width="8" rx="1" x="6"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="5" width="8" rx="1" x="6"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="5" width="8" rx="1" x="-14"/>
+        <line y2="7" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" end1="none" length1="1.5" y1="-6" x2="-10"/>
+        <line y2="7" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" end1="none" length1="1.5" y1="-6" x2="-20"/>
+        <line y2="7" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" end1="none" length1="1.5" y1="-6" x2="10"/>
+        <line y2="7" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" end1="none" length1="1.5" y1="-6" x2="20"/>
+        <line y2="7" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" end1="none" length1="1.5" y1="-6" x2="0"/>
+        <dynamic_text Valignment="AlignTop" uuid="{ca0b3b6e-8d77-44c5-b76c-d3be388efa87}" text_from="CompositeText" z="18" Halignment="AlignLeft" y="-35" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="35" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" uuid="{4e38633f-d7a2-4101-a411-41a8eddac316}" y="-10" name="" x="-10" orientation="n"/>
+        <terminal type="Generic" uuid="{b0090998-070d-4941-b5c5-e0f10c403845}" y="-10" name="" x="10" orientation="n"/>
+        <terminal type="Generic" uuid="{00bf03c9-b5ad-4006-abb1-64d8f7225ae3}" y="-10" name="" x="20" orientation="n"/>
+        <terminal type="Generic" uuid="{7455954f-ccec-4013-9df2-3edb29c5b9d3}" y="11" name="" x="0" orientation="s"/>
+        <terminal type="Generic" uuid="{fd55abb6-6ba0-4a9d-a69a-fbcce434fdc2}" y="11" name="" x="20" orientation="s"/>
+        <terminal type="Generic" uuid="{bd120f4e-5f41-4b78-b128-510ca4171826}" y="-10" name="" x="0" orientation="n"/>
+        <terminal type="Generic" uuid="{f0871c8f-43ef-4d97-929b-030ab46c868d}" y="11" name="" x="10" orientation="s"/>
+        <terminal type="Generic" uuid="{a8cc4d43-3fa8-4de3-bc27-c45c7e9fd0c9}" y="11" name="" x="-20" orientation="s"/>
+        <terminal type="Generic" uuid="{edc69385-568c-4efb-b2d5-ca716a090c5c}" y="-10" name="" x="-20" orientation="n"/>
+        <terminal type="Generic" uuid="{e6fd845f-c58b-4f05-98c4-8c2f5a7fab64}" y="11" name="" x="-10" orientation="s"/>
+    </description>
+</definition>

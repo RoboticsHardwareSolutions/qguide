@@ -1,0 +1,46 @@
+<definition type="element" width="60" version="0.90" hotspot_y="24" height="50" link_type="master" hotspot_x="36">
+    <uuid uuid="{d394ae0e-027e-41fc-aa41-2abfb7233ab0}"/>
+    <names>
+        <name lang="de">Реле времени однокомандное РВО-1М</name>
+        <name lang="ru">Реле времени однокомандное РВО-1М</name>
+        <name lang="en">Реле времени однокомандное РВО-1М</name>
+        <name lang="fr">Реле времени однокомандное РВО-1М</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"> МЕАНДР</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">РВО-1М АСDC24В/АС230В УХЛ4</elementInformation>
+        <elementInformation name="description" show="1">Реле времени однокомандное РВО-1М</elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">4640016936885</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text y="15.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="5" frame="false" uuid="{62a0d1e2-cf43-4e86-b43c-9a7c3e4ff011}" z="1" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect y="-10" width="40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-20" height="20" rx="0" ry="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-10" y2="-10" y1="-20" end1="none" end2="none" length1="1.5" length2="1.5" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="0" y2="20" y1="10" end1="none" end2="none" length1="1.5" length2="1.5" x2="0"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="10" y2="-10" y1="-16" end1="none" end2="none" length1="1.5" length2="1.5" x2="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-20" y2="0" y1="0" end1="none" end2="none" length1="1.5" length2="1.5" x2="-25"/>
+        <text y="-12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-2" text="+A3" rotation="0" color="#000000"/>
+        <text y="6" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-26" text="Y" rotation="0" color="#000000"/>
+        <text y="-12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-18" text="A1" rotation="0" color="#000000"/>
+        <text y="16" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="2" text="A2" rotation="0" color="#000000"/>
+        <terminal y="-20" type="Generic" x="10" uuid="{e358c349-7418-44e1-a1dc-08b8873a2e32}" name="" orientation="n"/>
+        <terminal y="20" type="Generic" x="0" uuid="{c5ebb01c-4466-488f-8d01-6c741e23bd10}" name="" orientation="s"/>
+        <terminal y="0" type="Generic" x="-30" uuid="{b6c54da3-9077-4aa4-94c2-5923d69eebb8}" name="" orientation="w"/>
+        <terminal y="-20" type="Generic" x="-10" uuid="{fcaa64d6-b4fd-485d-97a4-4d31dd46fcb5}" name="A1" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,27 @@
+<definition type="element" version="0.90" hotspot_x="8" width="30" link_type="slave" height="50" hotspot_y="36">
+    <uuid uuid="{b6dfdc22-c64d-4d29-b668-96673e0d9ca4}"/>
+    <names>
+        <name lang="en">X2 RS232</name>
+        <name lang="ru">X2 RS232</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false" y="-24" text_width="-1" uuid="{a3e11cf3-98d6-4032-acd1-a95e92d89762}" z="2" Halignment="AlignLeft" Valignment="AlignTop" text_from="ElementInfo" x="-1" rotation="0" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="X2" font="Sans Serif,7,-1,5,50,0,0,0,0,0" y="-25" color="#000000" x="5" rotation="0"/>
+        <polygon y1="-22.81" x2="19.75" y2="-22.81" y4="11.34" x4="-5.52" x3="19.75" y3="11.34" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" antialias="false" x1="-5.52"/>
+        <polygon y1="-19.65" x2="15.18" y2="-19.65" y4="8.18" x4="-2.85" x3="15.18" y3="8.18" style="line-style:normal;line-weight:none;filling:gray;color:black" antialias="false" x1="-2.85"/>
+        <polygon y1="-10.05" x2="1.69" y2="-10.05" y4="-1.45" x4="-5.52" x3="1.69" y3="-1.45" style="line-style:normal;line-weight:none;filling:gray;color:black" antialias="false" x1="-5.52"/>
+        <polygon y1="-17.39" x2="15.18" y2="-17.39" y4="5.95" x4="12.55" x3="15.18" y3="5.95" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="false" x1="12.55"/>
+        <polygon y1="3.8" x2="-0.64" y2="3.8" y4="7.84" x4="-2.57" x3="-0.64" y3="7.84" style="line-style:normal;line-weight:thin;filling:yellow;color:black" antialias="false" x1="-2.57"/>
+        <polygon y1="-19.31" x2="-0.64" y2="-19.31" y4="-15.27" x4="-2.57" x3="-0.64" y3="-15.27" style="line-style:normal;line-weight:thin;filling:green;color:black" antialias="false" x1="-2.57"/>
+    </description>
+</definition>

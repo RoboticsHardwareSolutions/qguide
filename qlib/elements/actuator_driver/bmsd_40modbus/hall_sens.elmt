@@ -1,0 +1,50 @@
+<definition hotspot_x="76" height="100" hotspot_y="51" version="0.90" width="100" type="element" link_type="simple">
+    <uuid uuid="{babcddef-a73b-4eba-a1fb-a21adc5909eb}"/>
+    <names>
+        <name lang="ru">hall_sens</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" y="24.9539" rotation="0" x="-32.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="24.9539" rotation="0" x="12.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="24.9539" rotation="0" x="-55" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="24.9539" rotation="0" x="-10" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="28.4539" text="10-HA" rotation="270" x="-9.55" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="28.4539" text="9-5V" rotation="270" x="13.55" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text keep_visual_rotation="false" y="-5" rotation="0" x="20" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="7" Valignment="AlignTop" uuid="{84515850-3f2d-44ac-8a2f-5cd852ce8123}" Halignment="AlignLeft" text_width="-1" text_from="UserText" frame="false">
+            <text>HALL</text>
+        </dynamic_text>
+        <text y="28.4539" text="11-HB" rotation="270" x="-32.65" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="33.4539" y2="42.4539" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="8.5" antialias="false" end2="none" x2="8.5" length2="1.5"/>
+        <line y1="33.4539" y2="42.4539" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-14" antialias="false" end2="none" x2="-14" length2="1.5"/>
+        <line y1="33.4539" y2="42.4539" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-59" antialias="false" end2="none" x2="-59" length2="1.5"/>
+        <line y1="33.4539" y2="42.4539" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-36.5" antialias="false" end2="none" x2="-36.5" length2="1.5"/>
+        <arc y="43.4539" height="6" x="-62" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="43.4539" height="6" x="5.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="43.4539" height="6" x="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="43.4539" height="6" x="-39.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="43.4539" height="6" x="-62" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="43.4539" height="6" x="5.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="43.4539" height="6" x="-39.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="43.4539" height="6" x="-17" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <text y="28.4539" text="12-GND" rotation="270" x="-55.75" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <rect y="-49.4539" height="90" ry="0" x="-70.75" style="line-style:normal;line-weight:normal;filling:none;color:black" width="90" antialias="false" rx="0"/>
+        <terminal y="32.4539" x="-14" name="" type="Generic" orientation="n" uuid="{a1c6bc01-e6f8-49d1-8ec9-96499da2c14e}"/>
+        <terminal y="32.4539" x="8.5" name="" type="Generic" orientation="n" uuid="{5d728ded-e316-41d5-8a8c-79da9222978f}"/>
+        <terminal y="32.4539" x="-36.5" name="" type="Generic" orientation="n" uuid="{275ffa7d-ad88-47f0-8810-b8079d1685f2}"/>
+        <terminal y="32.4539" x="-59" name="" type="Generic" orientation="n" uuid="{d0102924-f8e7-4417-9286-eb6c9db90e7e}"/>
+    </description>
+</definition>

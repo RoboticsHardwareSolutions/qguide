@@ -1,0 +1,52 @@
+<definition hotspot_y="7" type="element" height="30" hotspot_x="26" width="60" version="0.90" link_type="master">
+    <uuid uuid="{5d6d2199-ea86-4e9b-8466-ee9b1f5ce7b0}"/>
+    <names>
+        <name lang="en">AS-250-O-03</name>
+        <name lang="ru">AS-250-O-03</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="designation" show="1">AS-250-O-03</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Разъем РШ-ВШ 32А 250В 2P+PE (ОУ) карболитовый черный </elementInformation>
+        <elementInformation name="manufacturer" show="1">EKF PROxima</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">AS-250-O-03</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="17"/>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="-3"/>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="23"/>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="-23"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="3"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="22" rotation="0" y="4" text="PE"/>
+        <line end2="none" length1="1.5" y1="15" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="18" antialias="false" x2="-17"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" antialias="false" x2="-20"/>
+        <line end2="none" length1="1.5" y1="0" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" antialias="false" x2="0"/>
+        <line end2="none" length1="1.5" y1="10" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" antialias="false" x2="20"/>
+        <line end2="none" length1="1.5" y1="13" length2="1.5" end1="none" x1="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="13" antialias="false" x2="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="-18" rotation="0" y="4" text="L"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" x="2" rotation="0" y="4" text="N"/>
+        <line end2="none" length1="1.5" y1="13" length2="1.5" end1="none" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="13" antialias="false" x2="20"/>
+        <dynamic_text text_from="CompositeText" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="30" z="26" rotation="0" uuid="{d8c730d4-c1c6-4efb-86af-23f193fa16cc}" y="10" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>AS-250-O-03</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text text_from="CompositeText" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="40" z="27" rotation="0" uuid="{87650dbd-31ae-470e-ac32-8a60cdf7f66a}" y="-10" frame="false" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal name="" type="Generic" x="20" uuid="{8d007112-1274-473e-ae79-30b68bbcf21f}" y="0" orientation="n"/>
+        <terminal name="" type="Generic" x="0" uuid="{e9887c69-9741-4c52-a029-6da0938c360a}" y="0" orientation="n"/>
+        <terminal name="" type="Generic" x="-20" uuid="{b58c1137-d405-4f3e-bb98-1ed4b66e5503}" y="0" orientation="n"/>
+    </description>
+</definition>

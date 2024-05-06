@@ -1,0 +1,48 @@
+<definition type="element" hotspot_y="15" link_type="simple" version="0.90" width="10" height="40" hotspot_x="4">
+    <uuid uuid="{7b5ff537-7c33-4851-8c2a-d19e0f97d393}"/>
+    <names>
+        <name lang="ru">Клеммное соединение</name>
+        <name lang="en">Клемма пружинная КПИ 2в-1,5 17,5А IEK</name>
+        <name lang="nl">klem doorgang</name>
+        <name lang="pt">Terminal de combinação</name>
+        <name lang="cs">Spojovací svorka</name>
+        <name lang="es">Terminal de unión</name>
+        <name lang="it">Terminale di unione</name>
+        <name lang="pl">Zacisk</name>
+        <name lang="ar">طرف توصيل</name>
+        <name lang="hu">Sorkapocs</name>
+        <name lang="fr">Borne double</name>
+        <name lang="de">Klemme</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="description" show="1">Клемма пружинная КПИ 2в-1,5 17,5А  IEK</elementInformation>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"> YZN11-001-K__</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"> YZN11-001-K__</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text x="3" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" rotation="0" keep_visual_rotation="true" z="1" y="-2" frame="false" text_width="-1" uuid="{76f003fc-0acc-4f37-8c6b-e5299033fdee}" text_from="UserText">
+            <text>_</text>
+        </dynamic_text>
+        <circle x="-2.5" antialias="true" y="6.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <dynamic_text x="3" font="Sans Serif,7,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" rotation="0" keep_visual_rotation="true" z="3" y="-11" frame="false" text_width="-1" uuid="{ef9234be-dc4b-450c-81a0-ed9b82621852}" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line antialias="false" length1="1.5" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="19" x2="0" y2="12"/>
+        <line antialias="false" length1="1.5" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="-10" x2="0" y2="-3"/>
+        <circle x="-2.5" antialias="true" y="-2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <line antialias="false" length1="1.5" x1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" y1="3" x2="0" y2="6"/>
+        <terminal x="0" type="Generic" orientation="n" y="-10" name="" uuid="{e1ca801c-06c7-4cb2-9858-1658f4f3ab13}"/>
+        <terminal x="0" type="Generic" orientation="s" y="19" name="" uuid="{1b3f8cb6-cba6-4a65-8613-c1bb26651e17}"/>
+    </description>
+</definition>

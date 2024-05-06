@@ -1,0 +1,66 @@
+<definition type="element" height="90" version="0.90" hotspot_y="43" link_type="simple" width="80" hotspot_x="40">
+    <uuid uuid="{07d6e880-0a98-4c6d-a467-360aa4067674}"/>
+    <names>
+        <name lang="ru">LD222-428</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">STEKKER</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1">LD222-427</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">39499</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Проходная клемма 3вх 3х2 вых</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="39.7375" antialias="false" ry="1" style="line-style:normal;line-weight:normal;filling:lightgray;color:gray" y="0" width="67.9111" rx="1" x="-34.0111"/>
+        <rect height="36" antialias="false" ry="1" style="line-style:normal;line-weight:normal;filling:lightgray;color:gray" y="-36.3" width="37" rx="1" x="-19"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueDeepSkyBlue;color:white" y="-36.8" width="8" rx="1" x="6"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="-36.8" width="8" rx="1" x="-14"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:white" y="-36.8" width="8" rx="1" x="-4"/>
+        <line y2="4.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" end1="none" length1="1.5" y1="-16.8" x2="-10"/>
+        <line y2="4.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" end1="none" length1="1.5" y1="4.2" x2="-20"/>
+        <line y2="4.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" end1="none" length1="1.5" y1="-16.8" x2="10"/>
+        <line y2="4.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" end1="none" length1="1.5" y1="4.2" x2="20"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="10.2" width="8" rx="1" x="-19"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueDeepSkyBlue;color:white" y="10.2" width="8" rx="1" x="11"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" end1="none" length1="1.5" y1="25.2" x2="-15"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLOrangeTomato;color:white" y="10.2" width="8" rx="1" x="-29"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLYellowYellow;color:white" y="10.2" width="8" rx="1" x="-9"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:yellow;color:white" y="10.2" width="8" rx="1" x="1"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-25" end1="none" length1="1.5" y1="25.2" x2="-25"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-5" end1="none" length1="1.5" y1="25.2" x2="-5"/>
+        <line y2="25.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="5" end1="none" length1="1.5" y1="15.2" x2="5"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="5" end1="none" length1="1.5" y1="15.2" x2="-5"/>
+        <rect height="30" antialias="false" ry="1" style="line-style:normal;line-weight:thin;filling:HTMLBlueDeepSkyBlue;color:white" y="10.3" width="8" rx="1" x="21"/>
+        <line y2="15.3" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="25" end1="none" length1="1.5" y1="20.3" x2="25"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" end1="none" length1="1.5" y1="15.2" x2="-15"/>
+        <line y2="15.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="25" end1="none" length1="1.5" y1="15.2" x2="15"/>
+        <line y2="21.2" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="15" end1="none" length1="1.5" y1="15.2" x2="15"/>
+        <line y2="5" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" end1="none" length1="1.5" y1="15" x2="-20"/>
+        <line y2="15" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" end1="none" length1="1.5" y1="5" x2="20"/>
+        <line y2="15" antialias="false" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" end1="none" length1="1.5" y1="-16" x2="0"/>
+        <dynamic_text Valignment="AlignTop" uuid="{b7c81c7a-3a98-4ada-a54c-2d7341f6c918}" text_from="CompositeText" z="28" Halignment="AlignLeft" y="-15" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="35" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" uuid="{1ca8941d-bf68-44f5-8af3-0b31fb4fe5bf}" text_from="CompositeText" z="29" Halignment="AlignLeft" y="15" frame="false" rotation="0" text_width="-1" keep_visual_rotation="false" x="35" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
+            <text>LD222-427</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" uuid="{a1491cb2-8363-4cdc-ae9c-524224b6dbe3}" y="-20.8" name="" x="10" orientation="n"/>
+        <terminal type="Generic" uuid="{9f183be1-448f-479f-83bc-4086a5f5c7dc}" y="25.2" name="" x="-25" orientation="s"/>
+        <terminal type="Generic" uuid="{6cbbf98b-21a6-434d-b397-e338bc47117f}" y="25.2" name="" x="5" orientation="s"/>
+        <terminal type="Generic" uuid="{c2e26cdb-e66d-4dbf-b132-888b34581acc}" y="-20.8" name="" x="-10" orientation="n"/>
+        <terminal type="Generic" uuid="{27ee1f2e-ff68-4a03-9106-8d08d8f920fc}" y="25.2" name="" x="-5" orientation="s"/>
+        <terminal type="Generic" uuid="{de475306-fbad-4402-976a-84d02057b051}" y="25.2" name="" x="-15" orientation="s"/>
+        <terminal type="Generic" uuid="{4ab50fab-6a04-4192-85c3-095e7e2c9228}" y="25.2" name="" x="15" orientation="s"/>
+        <terminal type="Generic" uuid="{4fdf0798-e518-497b-8dcf-54040a51f118}" y="-20.8" name="" x="0" orientation="n"/>
+        <terminal type="Generic" uuid="{c167efdf-4329-4926-8025-8ebe2ef97f7a}" y="25.3" name="" x="25" orientation="s"/>
+    </description>
+</definition>

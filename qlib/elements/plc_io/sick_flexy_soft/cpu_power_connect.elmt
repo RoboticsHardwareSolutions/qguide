@@ -1,0 +1,42 @@
+<definition width="40" link_type="simple" version="0.90" hotspot_y="11" type="element" hotspot_x="20" height="30">
+    <uuid uuid="{2191937b-c08b-4cbc-863e-98de4c1ee696}"/>
+    <names>
+        <name lang="ru">FX3-MPL000001</name>
+        <name lang="en">FX3-MPL000001</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1043700</elementInformation>
+        <elementInformation show="1" name="designation">FX3-MPL000001</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="description">Power Connector for CPU</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-13.25" end1="none" length1="1.5" x2="-10.25" y2="-4" end2="none" antialias="false"/>
+        <line y1="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="6.75" end1="none" length1="1.5" x2="9.75" y2="-4" end2="none" antialias="false"/>
+        <line y1="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-10.25" end1="none" length1="1.5" x2="-7.25" y2="-1" end2="none" antialias="false"/>
+        <line y1="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="9.75" end1="none" length1="1.5" x2="12.75" y2="-1" end2="none" antialias="false"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-10.25" end1="none" length1="1.5" x2="-10.25" y2="-3" end2="none" antialias="false"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="9.75" end1="none" length1="1.5" x2="9.75" y2="-3" end2="none" antialias="false"/>
+        <line y1="2" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-14" end1="none" length1="1.5" x2="14" y2="2" end2="none" antialias="false"/>
+        <line y1="5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-14" end1="none" length1="1.5" x2="14" y2="5" end2="none" antialias="false"/>
+        <dynamic_text font="Sans Serif,6,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="20" rotation="0" y="-30" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" text_width="-1" z="19" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="true">
+            <text>FX3-MPL000001</text>
+            <info_name>label</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" x="30" rotation="0" y="-50" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" text_width="-1" z="21" Valignment="AlignTop" frame="false" text_from="CompositeText" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal x="-10.25" y="10" uuid="{053787db-b913-49cf-9e69-928b71e7c1ee}" orientation="s" name="" type="Generic"/>
+        <terminal x="9.75" y="10" uuid="{9b53dccc-132a-467a-adbf-d9ea68e70fa0}" orientation="s" name="" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,33 @@
+<definition width="70" hotspot_x="32" height="110" version="0.90" type="element" link_type="simple" hotspot_y="50">
+    <uuid uuid="{1b4717be-0de4-4e9b-98aa-3ef49549ca18}"/>
+    <names>
+        <name lang="fr">DIN-Rail TS35; slotted; 100 mm</name>
+        <name lang="cs">DIN-Rail TS35; slotted; 100 mm</name>
+        <name lang="de">Tragschiene TS35; 100 mm (gelocht)</name>
+        <name lang="en">DIN-Rail TS35; slotted; 100 mm</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1">Sonoff </elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">Крепление на DIN-рейку Sonoff DR</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Крепление на DIN-рейку Sonoff DR</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: plc-user for QElectroTech
+License:see https://qelectrotech.org/wiki_new/doc/elements_license
+    </informations>
+    <description>
+        <rect width="57" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" rx="0" ry="0" x="-29" height="70" y="-35" antialias="false"/>
+        <rect width="57" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" rx="0" ry="0" x="-29" height="50" y="-25" antialias="false"/>
+        <line style="line-style:dashdotted;line-weight:thin;filling:none;color:black" x1="-30" y1="0" end1="none" y2="0" x2="35" length2="1.5" end2="none" antialias="false" length1="1.5"/>
+        <rect width="50" style="line-style:normal;line-weight:thin;filling:white;color:black" rx="5" ry="5" x="-25" height="10" y="-5" antialias="false"/>
+        <rect width="40" style="line-style:dashed;line-weight:thin;filling:HTMLPurpleLavender;color:black" rx="0" ry="0" x="-20" height="90" y="-45" antialias="false"/>
+        <rect width="18" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" x="-8" height="8" y="46" antialias="false"/>
+    </description>
+</definition>

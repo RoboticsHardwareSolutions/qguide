@@ -1,0 +1,45 @@
+<definition link_type="simple" hotspot_y="51" width="60" hotspot_x="30" version="0.90" height="100" type="element">
+    <uuid uuid="{adbc4d99-b63e-47a4-8d0c-f4b6dcce929f}"/>
+    <names>
+        <name lang="en">outdoorScan3 </name>
+        <name lang="ru">outdoorScan3 </name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">MICS3-AAUZ40AZ1P01</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference">1094452 </elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description">outdoorScan3 </elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Sick</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" end1="none" y1="26" x1="-3" length2="1.5" length1="1.5" x2="0" y2="23" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="29" x1="-3" length2="1.5" length1="1.5" x2="0" y2="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="23" x1="0" length2="1.5" length1="1.5" x2="3" y2="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="26" x1="0" length2="1.5" length1="1.5" x2="3" y2="29" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <rect x="-20" ry="12" width="40" rx="12" y="-22" height="40" style="line-style:normal;line-weight:normal;filling:HTMLOrangeTomato;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="40" x1="0" length2="1.5" length1="1.5" x2="0" y2="27" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="18" x1="0" length2="1.5" length1="1.5" x2="0" y2="23" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-15" diameter="30" y="-15" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false"/>
+        <line end2="none" end1="none" y1="-20" x1="0" length2="1.5" length1="1.5" x2="0" y2="-45" style="line-style:dashed;line-weight:normal;filling:HTMLRedRed;color:HTMLRedRed" antialias="false"/>
+        <line end2="none" end1="none" y1="-20" x1="-5" length2="1.5" length1="1.5" x2="-15" y2="-40" style="line-style:dashed;line-weight:normal;filling:HTMLRedRed;color:HTMLRedRed" antialias="false"/>
+        <line end2="none" end1="none" y1="-20" x1="5" length2="1.5" length1="1.5" x2="15" y2="-40" style="line-style:dashed;line-weight:normal;filling:HTMLRedRed;color:HTMLRedRed" antialias="false"/>
+        <dynamic_text x="25" uuid="{5ccc8ac2-e873-40ad-a221-534a31726541}" z="11" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="25" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <line end2="none" end1="none" y1="-15" x1="-10" length2="1.5" length1="1.5" x2="-25" y2="-30" style="line-style:dashed;line-weight:normal;filling:HTMLRedRed;color:HTMLRedRed" antialias="false"/>
+        <dynamic_text x="25" uuid="{810958ef-31e8-4b93-b129-af8573de1aa8}" z="12" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="50" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>MICS3-AAUZ40AZ1P01</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <line end2="none" end1="none" y1="-15" x1="10" length2="1.5" length1="1.5" x2="25" y2="-30" style="line-style:dashed;line-weight:normal;filling:HTMLRedCrimson;color:HTMLRedRed" antialias="false"/>
+        <terminal x="0" uuid="{08793516-cac7-4a6a-8921-65f7ba78b0e8}" orientation="s" y="40" type="Generic" name=""/>
+    </description>
+</definition>

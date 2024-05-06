@@ -1,0 +1,62 @@
+<definition link_type="master" version="0.90" hotspot_y="51" hotspot_x="27" height="100" width="50" type="element">
+    <uuid uuid="{8fd50746-b795-4927-ac27-5d80f7a6a20d}"/>
+    <names>
+        <name lang="ru">Main Circuit Terminals (Master)</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">Драйвер сервопривода 220В</elementInformation>
+        <elementInformation show="1" name="designation">ED3L</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="comment">ED3L</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">ESTUN</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="2" text="N" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="12" text="U" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="-8" text="B" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="-17" text="P" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="33" text="W" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="43" text="PE" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="23" text="V" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="-38" text="L1" color="#000000" rotation="0"/>
+        <text font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-11" y="-28" text="L2" color="#000000" rotation="0"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-42" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-32" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-22" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-12" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="13" text_width="-1" x="-10" frame="false" uuid="{3f04bb5f-da15-47ce-a3b3-ece61f5154ea}" y="-95" keep_visual_rotation="false" Valignment="AlignTop" text_from="CompositeText" rotation="0" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-2" antialias="false"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="14" text_width="-1" x="-20" frame="false" uuid="{6d5de086-af13-4226-af10-b20417a7c98a}" y="-70" keep_visual_rotation="false" Valignment="AlignTop" text_from="CompositeText" rotation="0" Halignment="AlignLeft">
+            <text>ED3L</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="8" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="18" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="28" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="38" antialias="false"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-18" rx="0" y="-48" height="94" width="36" antialias="false"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-18" rx="0" y="6" height="38" width="4" antialias="false"/>
+        <terminal x="-20" uuid="{24096576-893a-4752-af7e-43955589d69b}" y="-40" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{9158aad0-96ef-4a60-9cb3-5b47499452d7}" y="-30" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{f13495bb-508d-406b-b642-570f28efd5c6}" y="-10" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{4858fdea-a39f-4df1-b093-fcacd4a260e0}" y="-20" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{3f4f610a-0910-4baa-bd8a-a6a80e712e87}" y="0" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{b080de6e-05a9-4918-ba0b-53137bdddccd}" y="20" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{5b8d77f5-3d42-4474-9f4e-83564b17f607}" y="10" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{380a8df9-34d0-47c0-adf4-29f1013cd66c}" y="40" name="" orientation="w" type="Generic"/>
+        <terminal x="-20" uuid="{c819e798-f7bd-4c9e-b979-b10c7d79da95}" y="30" name="" orientation="w" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,42 @@
+<definition hotspot_x="25" width="50" height="50" hotspot_y="20" type="element" version="0.90" link_type="simple">
+    <uuid uuid="{1c205142-9775-4b98-89a9-4350ad901072}"/>
+    <names>
+        <name lang="en">Inductive sensor 3 terminals NO</name>
+        <name lang="ru">Индуктивный сенсор 3 вывода НО</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" Valignment="AlignTop" x="22.5" y="-6.95" keep_visual_rotation="false" text_width="-1" uuid="{0646848f-6b48-4aa2-95a8-404bda41196a}" z="1" frame="false" text_from="ElementInfo" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="23" length2="1.5" length1="1.5" y1="26" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="-3" x2="1.11022e-15"/>
+        <line y2="26" length2="1.5" length1="1.5" y1="23" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="0" x2="3"/>
+        <line y2="5" length2="1.5" length1="1.5" y1="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="-6" x2="-6"/>
+        <line y2="5" length2="1.5" length1="1.5" y1="-11" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="-10" x2="-10"/>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" y="-16" width="40" height="31" antialias="false" rx="0"/>
+        <polygon y2="-10" y1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" antialias="true" x1="6" x2="13" x3="18" y3="-10"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="3" y="5.5" width="4" height="5" antialias="true" start="180" angle="-180"/>
+        <line y2="-10" length2="1.5" length1="1.5" y1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="3" x2="6"/>
+        <polygon y2="-3" x5="-8" y1="-13" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" antialias="false" x1="-8" x2="-18" y4="-3" x3="-8" x4="2" y3="7" y5="-13"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="11" y="5.5" width="4" height="5" antialias="true" start="180" angle="-180"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" x="7" y="5.5" width="4" height="5" antialias="true" start="180" angle="-180"/>
+        <line y2="8" length2="1.5" length1="1.5" y1="8" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="-1" x2="3"/>
+        <line y2="8" length2="1.5" length1="1.5" y1="8" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="15.5" x2="18.5"/>
+        <line y2="16" length2="1.5" length1="1.5" y1="23" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" end1="none" antialias="false" x1="0" x2="0"/>
+    </description>
+</definition>

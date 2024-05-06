@@ -1,0 +1,51 @@
+<definition hotspot_y="50" version="0.90" height="80" width="90" type="element" link_type="simple" hotspot_x="25">
+    <uuid uuid="{7e681b77-0a1b-4b27-ac22-b117af2100cc}"/>
+    <names>
+        <name lang="en">HASS 50S</name>
+        <name lang="ru">HASS 50S</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation">HASS 50-S</elementInformation>
+        <elementInformation show="1" name="description">Current Transduser</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">LEM</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="24" x2="-10" y2="21" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="-13"/>
+        <line y1="24" x2="29.75" y2="21" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="26.75"/>
+        <line y1="24" x2="50.5" y2="21" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="47.5"/>
+        <line y1="24" x2="10" y2="21" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="7"/>
+        <line y1="21" x2="32.5" y2="24" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="29.5"/>
+        <line y1="21" x2="53.25" y2="24" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="50.25"/>
+        <line y1="21" x2="12.75" y2="24" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="9.75"/>
+        <line y1="21" x2="29.75" y2="10" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="29.75"/>
+        <line y1="21" x2="50.5" y2="10" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="50.5"/>
+        <line y1="21" x2="-7.25" y2="24" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="-10.25"/>
+        <line y1="21" x2="10" y2="10" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="10"/>
+        <line y1="21" x2="-10" y2="10" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="-10"/>
+        <line y1="14" x2="59" y2="14" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="-16"/>
+        <rect y="-45" ry="5" rx="5" style="line-style:normal;line-weight:normal;filling:HTMLBlueDeepSkyBlue;color:blue" height="55" width="80" antialias="false" x="-20"/>
+        <line y1="17" x2="59" y2="17" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" antialias="false" x1="-16"/>
+        <rect y="-34" ry="5" rx="5" style="line-style:normal;line-weight:normal;filling:white;color:blue" height="15" width="40" antialias="false" x="0"/>
+        <text y="7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="4 +5V" color="#000000" x="52"/>
+        <text y="7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="1 Uref" color="#000000" x="-8"/>
+        <text y="7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="3 0V" color="#000000" x="32"/>
+        <text y="7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" text="2 OUT" color="#000000" x="12"/>
+        <dynamic_text y="-30" uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" text_width="-1" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" z="21" text_from="CompositeText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" x="80" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="0" uuid="{6c328b10-ed15-47fb-a52c-65c31e5c1a16}" text_width="-1" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" z="22" text_from="CompositeText" Valignment="AlignTop" frame="false" Halignment="AlignLeft" x="65" keep_visual_rotation="false">
+            <text>HASS 50-S</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>

@@ -1,0 +1,32 @@
+<definition width="30" link_type="simple" hotspot_x="25" height="30" hotspot_y="15" type="element" version="0.100.0">
+    <uuid uuid="{62660618-7690-4dc8-80a2-461257953ec7}"/>
+    <names>
+        <name lang="en">Модуль EMB-WIFI-KIT11</name>
+        <name lang="ru">Модуль EMB-WIFI-KIT11</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"> IEI</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Модуль EMB-WIFI-KIT11</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1">https://nnz-ipc.ru/catalogue/ipc/accessories/expansion/emb-wifi-kit11/</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">EMB-WIFI-KIT11</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" width="20" rx="0" ry="0" antialias="false" height="20"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{8c6fe8dd-9b85-4bb8-aa20-74c6320e79e2}" x="4" Valignment="AlignTop" y="-14" z="2" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" rotation="0" keep_visual_rotation="false" uuid="{2367723d-122e-4151-9480-5063018c0b91}" x="4" Valignment="AlignTop" y="2" z="3" Halignment="AlignLeft" frame="false" text_width="-1">
+            <text>EMB-WIFI-KIT11</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

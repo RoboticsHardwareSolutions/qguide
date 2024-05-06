@@ -1,0 +1,34 @@
+<definition link_type="simple" type="element" version="0.90" width="30" hotspot_x="13" hotspot_y="10" height="20">
+    <uuid uuid="{ef2ff778-4e2a-43f4-a880-4a64b84c9b2f}"/>
+    <names>
+        <name lang="ru">iek_kpi_1.5mm2_10p</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">YZN11FBS-001-10P</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">IEK</elementInformation>
+        <elementInformation name="comment" show="1">YZN11FBS-001-10P</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Перемычка на 10 отсеков для клемм 1.5мм2</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="0" end2="none" y2="0" length1="1.5" x1="11" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-9" end1="none" antialias="false"/>
+        <line y1="-4" end2="none" y2="4" length1="1.5" x1="5" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-3" end1="none" antialias="false"/>
+        <dynamic_text rotation="0" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" Valignment="AlignTop" y="6" uuid="{b7cccd3d-ab88-4401-9c55-e77b9dd0c800}" x="-24" z="3" frame="false" keep_visual_rotation="false" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text rotation="0" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" Valignment="AlignTop" y="31" uuid="{0e0a28a4-1e57-4641-9197-2f8d0623d45a}" x="-49" z="4" frame="false" keep_visual_rotation="false" text_from="CompositeText">
+            <text>YZN11FBS-001-10P</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <terminal name="" type="Generic" orientation="w" y="0" uuid="{4648df91-9101-474f-8396-a94cdbeac1f0}" x="-9"/>
+        <terminal name="" type="Generic" orientation="e" y="0" uuid="{8815e39d-7be9-48fc-a132-f0b6606a5ff2}" x="11"/>
+    </description>
+</definition>

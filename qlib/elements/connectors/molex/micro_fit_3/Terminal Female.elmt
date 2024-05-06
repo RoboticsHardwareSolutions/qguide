@@ -1,0 +1,27 @@
+<definition height="30" version="0.100.0" width="20" link_type="simple" hotspot_x="10" hotspot_y="23" type="element">
+    <uuid uuid="{0893aeae-55d6-406f-a96a-ee3ffabae1ee}"/>
+    <names>
+        <name lang="en">Terminal Female 20-24 AWG</name>
+        <name lang="ru">Terminal Female 20-24 AWG</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430300001</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Crimp Terminal, Female 20-24 </elementInformation>
+        <elementInformation name="comment" show="1">Alternative Part : 430300003  / 430300002 / 457730003 / 430300008 / 457730001 / 430300008 / 430300007</elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-18" y2="-14" x1="-4" x2="0" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14" y2="-18" x1="0" x2="4" antialias="false"/>
+        <line end1="none" length1="1.5" end2="none" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="-13" x1="0" x2="0" antialias="false"/>
+        <terminal name="" uuid="{abb33299-99b9-468d-a2b6-a80958706564}" x="0" y="0" orientation="s" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,37 @@
+<definition link_type="simple" hotspot_y="29" width="40" hotspot_x="31" version="0.90" height="60" type="element">
+    <uuid uuid="{d7d383c6-d030-4a93-a815-c114da046532}"/>
+    <names>
+        <name lang="en">Contact NO</name>
+        <name lang="ru">Контакт  НР</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation">XB4-BE101</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Доп. Контакты NO (зеленые) EKF PROxima</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">EKF PROxima</elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon y1="-10" x3="0" closed="false" x1="-5" y3="20" x2="0" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <line end2="none" end1="none" y1="-20" x1="0" length2="1.5" length1="1.5" x2="0" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text x="-20" uuid="{7ffbf594-558b-4d6d-9cf6-bbfb86ec271f}" z="8" keep_visual_rotation="false" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text_width="-1" Halignment="AlignLeft" y="6.5" Valignment="AlignTop" rotation="0" frame="false" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end2="none" end1="none" y1="0" x1="-4" length2="1.5" length1="1.5" x2="-24" y2="0" style="line-style:dashed;line-weight:normal;filling:lightgray;color:lightgray" antialias="false"/>
+        <dynamic_text x="5" uuid="{0178c633-0bb7-4a35-9955-086e90df36ac}" z="10" keep_visual_rotation="false" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" Halignment="AlignLeft" y="-40" Valignment="AlignTop" rotation="0" frame="false" text_from="CompositeText">
+            <text>XB4-BE101</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <terminal x="0" uuid="{a7f333e2-8e0f-4bd6-8d45-d01be120ce93}" orientation="s" y="21" type="Generic" name=""/>
+        <terminal x="0" uuid="{3a2cde33-04fa-4532-ab00-bb860b47733a}" orientation="n" y="-21" type="Generic" name=""/>
+    </description>
+</definition>

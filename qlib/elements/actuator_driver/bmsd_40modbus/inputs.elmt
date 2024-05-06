@@ -1,0 +1,50 @@
+<definition hotspot_x="50" height="100" hotspot_y="95" version="0.90" width="100" type="element" link_type="simple">
+    <uuid uuid="{fa34fb99-a0d7-494f-bf0e-8cb6fda1a015}"/>
+    <names>
+        <name lang="ru">inputs</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" y="-18.5" rotation="0" x="-29.25" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18.5" rotation="0" x="15.75" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18.5" rotation="0" x="-6.75" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" y="-18.5" rotation="0" x="38.25" font="Sans Serif,8,-1,5,50,0,0,0,0,0" z="1" Valignment="AlignTop" uuid="{75875d35-11ef-4f5e-9431-72c7bd9c3bbe}" Halignment="AlignLeft" text_width="-1" text_from="ElementInfo" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="-15" text="6-IN2" rotation="270" x="16.2" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-15" text="5-IN1" rotation="270" x="39.3" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text keep_visual_rotation="false" y="-50" rotation="0" x="50" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="7" Valignment="AlignTop" uuid="{84515850-3f2d-44ac-8a2f-5cd852ce8123}" Halignment="AlignLeft" text_width="-1" text_from="UserText" frame="false">
+            <text>INPUTS</text>
+        </dynamic_text>
+        <text y="-15" text="7-HARD STOP" rotation="270" x="-6.9" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <line y1="-10" y2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="34.25" antialias="false" end2="none" x2="34.25" length2="1.5"/>
+        <line y1="-10" y2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="11.75" antialias="false" end2="none" x2="11.75" length2="1.5"/>
+        <line y1="-10" y2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-33.25" antialias="false" end2="none" x2="-33.25" length2="1.5"/>
+        <line y1="-10" y2="-1" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" x1="-10.75" antialias="false" end2="none" x2="-10.75" length2="1.5"/>
+        <arc y="0" height="6" x="-36.25" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="0" height="6" x="31.25" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="0" height="6" x="8.75" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="0" height="6" x="-13.75" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="-180"/>
+        <arc y="0" height="6" x="-36.25" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="0" height="6" x="31.25" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="0" height="6" x="-13.75" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <arc y="0" height="6" x="8.75" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" antialias="true" angle="-84" start="83"/>
+        <text y="-15" text="8-GND" rotation="270" x="-30" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <rect y="-92.9078" height="90" ry="0" x="-45" style="line-style:normal;line-weight:normal;filling:none;color:black" width="90" antialias="false" rx="0"/>
+        <terminal y="-11" x="11.75" name="" type="Generic" orientation="n" uuid="{5cb57101-504a-4996-a4e8-e88dc2a92e1e}"/>
+        <terminal y="-11" x="34.25" name="" type="Generic" orientation="n" uuid="{49633e1c-e898-4d42-b582-8a118ce872ef}"/>
+        <terminal y="-11" x="-10.75" name="" type="Generic" orientation="n" uuid="{2097cc3f-1922-44b4-b9e1-f39e222138c1}"/>
+        <terminal y="-11" x="-33.25" name="" type="Generic" orientation="n" uuid="{7652b19d-c24b-4c5f-8388-e2538ca8b222}"/>
+    </description>
+</definition>

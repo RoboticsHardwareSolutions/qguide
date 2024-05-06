@@ -1,0 +1,26 @@
+<definition link_type="slave" version="0.90" hotspot_y="36" hotspot_x="31" height="80" width="50" type="element">
+    <uuid uuid="{3ee8ffe3-298e-4c89-aa8f-a72e81fc89c1}"/>
+    <names>
+        <name lang="ru">CN3 CN4 CanOpen</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-15.5376" y="6.00787" text="CN4-OUT" color="#000000" rotation="270"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-15.8342" y="36.3045" text="CN3-IN" color="#000000" rotation="270"/>
+        <polygon y3="5.34" y1="-28.81" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y4="5.34" x2="12.75" y2="-28.81" x1="-12.52" x4="-12.52" antialias="false" x3="12.75"/>
+        <polygon y3="2.18" y1="-25.65" style="line-style:normal;line-weight:none;filling:gray;color:black" y4="2.18" x2="8.18" y2="-25.65" x1="-9.85" x4="-9.85" antialias="false" x3="8.18"/>
+        <polygon y3="-7.45" y1="-16.05" style="line-style:normal;line-weight:none;filling:gray;color:black" y4="-7.45" x2="-5.31" y2="-16.05" x1="-12.52" x4="-12.52" antialias="false" x3="-5.31"/>
+        <polygon y3="-0.05" y1="-23.39" style="line-style:normal;line-weight:thin;filling:none;color:black" y4="-0.05" x2="8.18" y2="-23.39" x1="5.55" x4="5.55" antialias="false" x3="8.18"/>
+        <polygon y3="39.48" y1="5.34" style="line-style:normal;line-weight:thin;filling:lightgray;color:black" y4="39.48" x2="12.75" y2="5.34" x1="-12.52" x4="-12.52" antialias="false" x3="12.75"/>
+        <polygon y3="36.33" y1="8.49" style="line-style:normal;line-weight:none;filling:gray;color:black" y4="36.33" x2="8.18" y2="8.49" x1="-9.85" x4="-9.85" antialias="false" x3="8.18"/>
+        <polygon y3="26.69" y1="18.12" style="line-style:normal;line-weight:none;filling:gray;color:black" y4="26.69" x2="-5.31" y2="18.12" x1="-12.52" x4="-12.52" antialias="false" x3="-5.31"/>
+        <polygon y3="34.06" y1="10.75" style="line-style:normal;line-weight:thin;filling:none;color:black" y4="34.06" x2="8.18" y2="10.75" x1="5.55" x4="5.55" antialias="false" x3="8.18"/>
+        <terminal x="8" uuid="{8ba7ac68-f890-4141-a48f-158ca111920b}" y="-11" name="" orientation="w" type="Generic"/>
+        <terminal x="8" uuid="{0d7a49f9-8140-4a15-ab2d-a536e027ac2d}" y="23" name="" orientation="w" type="Generic"/>
+    </description>
+</definition>
