@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "doc",
+  "newFileFolderPath": "docs",
   "useMarkdownLinks": false,
   "showInlineTitle": false,
   "attachmentFolderPath": "attach",
