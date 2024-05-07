@@ -148,19 +148,19 @@
     }
   },
   "floating": {
-    "id": "e9a26c843d5dc01b",
+    "id": "fb3485408944cd5f",
     "type": "floating",
     "children": [
       {
-        "id": "bacf0479710ba872",
+        "id": "2232c634ba2a28bf",
         "type": "window",
         "children": [
           {
-            "id": "68d190632dbbbf77",
+            "id": "79b73bb7a164d9f7",
             "type": "tabs",
             "children": [
               {
-                "id": "e08031de1e929848",
+                "id": "db01c3d589d38e8d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -184,12 +184,13 @@
       }
     ]
   },
-  "active": "e08031de1e929848",
+  "active": "db01c3d589d38e8d",
   "lastOpenFiles": [
+    "attach/qguide 2024-05-07 20.28.47.excalidraw.md",
+    "attach/Pasted Image 20240507202903_158.png",
+    "qguide.md",
     "docs/index.html",
     "README.md",
-    "qguide.md",
-    "qguide.md",
     "doc/qguide.md",
     "attach/README 2024-05-06 20.46.47.excalidraw.md",
     "el_specgen/main.py",
@@ -222,7 +223,6 @@
     "attach/tb_example.png",
     "attach/cable_info.png",
     "attach/element_info.png",
-    "attach/partlist1.png",
-    "image/partlist.png"
+    "attach/partlist1.png"
   ]
 }
