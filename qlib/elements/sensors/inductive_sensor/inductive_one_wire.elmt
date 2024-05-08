@@ -1,0 +1,43 @@
+<definition version="0.100.0" link_type="simple" hotspot_x="4" hotspot_y="36" width="20" height="50" type="element">
+    <uuid uuid="{29c5b1dd-0fef-481f-9f1e-4dde7913ccdb}"/>
+    <names>
+        <name lang="en">Inductive sensor (one wire)</name>
+        <name lang="ru">Индуктивный сенсор (однопроводной)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="7.4588" y2="6.2469" x1="0.3" x2="6.8" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="6.2469" y2="5.035" x1="0.3" x2="6.8" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <arc y="-28.1044" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="7.8" angle="-90" height="9.19379" x="2.9"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="5.035" y2="3.8231" x1="0.3" x2="6.8" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="3.8231" y2="2.6112" x1="0.3" x2="6.8" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <rect y="0.1874" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.5" height="8.48336" rx="0" ry="0" x="0.3"/>
+        <line antialias="false" style="line-style:normal;line-weight:thin;filling:none;color:black" y1="2.6112" y2="1.3993" x1="0.3" x2="6.8" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <polygon antialias="false" closed="false" y1="-15.5674" y2="-2.23644" y3="0.1874" y4="0.1874" y5="-2.23644" y6="-15.5674" x1="-1" y7="-15.5674" x2="-1" y8="-15.5674" x3="0.3" x4="6.8" x5="8.1" x6="8.1" x7="-1" x8="-1" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect y="-22.2538" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" width="6.5" height="6.68639" rx="0" ry="0" x="0.3"/>
+        <arc y="-26.4328" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="4.55" angle="-90" height="5.85059" x="4.85"/>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-23.9254" y2="-28.9402" y3="-28.9402" x1="9.4" y4="-23.9254" x2="9.4" x3="10.7" x4="10.7" closed="false"/>
+        <dynamic_text y="3.4886" z="12" text_width="-1" uuid="{de9ab4c0-2f56-465c-8b84-0a61f9c5f7e7}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="6.15">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text y="-16" z="13" text_width="-1" uuid="{d3a4e26d-ea28-4563-b849-7118154610b5}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="15">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal y="-29.776" name="" uuid="{3f558da5-107c-4f56-a9e3-cac1aaa26010}" orientation="n" type="Generic" x="10.05"/>
+    </description>
+</definition>

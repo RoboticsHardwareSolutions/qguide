@@ -1,0 +1,22 @@
+<definition version="0.100.0" link_type="simple" hotspot_x="22" hotspot_y="20" width="30" height="30" type="element">
+    <uuid uuid="{a0175e5f-c585-4269-a6dd-a800c7b1968c}"/>
+    <names>
+        <name lang="en">Brake (one wire)</name>
+        <name lang="ru">Brake (one wire)</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text y="-15" z="1" text_width="-1" uuid="{ae5ec77c-3ce6-4827-ae6b-7d517ece916f}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="10">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4.5" y2="4.5" y3="-3.5" x1="3" y4="-3.5" x2="-17" y5="4.5" x3="-13" x4="-1" x5="3" closed="false"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-6.5" y2="-3.5" x1="-6.75" x2="-6.75" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <dynamic_text y="9" z="4" text_width="-1" uuid="{14435be8-2cc9-45d8-bbca-51256e0894ea}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="5">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal y="-11.5" name="" uuid="{74f5feea-6702-41f6-bdb0-384468e11bcd}" orientation="n" type="Generic" x="-6.75"/>
+    </description>
+</definition>

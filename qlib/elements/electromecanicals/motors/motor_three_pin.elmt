@@ -1,0 +1,39 @@
+<definition version="0.100.0" link_type="simple" hotspot_x="24" hotspot_y="25" width="50" height="40" type="element">
+    <uuid uuid="{099578d4-a1af-4a0a-b42d-fbd40afa642e}"/>
+    <names>
+        <name lang="en">Motor (three wire)</name>
+        <name lang="ru">Мотор (трехпроводной)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle y="-12" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="24" x="-11"/>
+        <dynamic_text y="-35" z="2" text_width="-1" uuid="{f205cbe5-076d-4e6c-b849-4ef5dd073248}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="35">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text y="4" color="#000000" text="M" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" x="-4"/>
+        <dynamic_text y="10" z="4" text_width="-1" uuid="{dd079041-0c88-41e2-b946-33cff6d70486}" text_from="ElementInfo" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="false" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" x="25">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-16" y2="-5" x1="-20" x2="-10" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-15" y2="-13" x1="0" x2="0" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-15" y2="-5" x1="20" x2="12" end1="none" length1="1.5" end2="none" length2="1.5"/>
+        <terminal y="-20" name="" uuid="{0734d6e3-643e-4bb7-805b-49e35069ae77}" orientation="n" type="Generic" x="0"/>
+        <terminal y="-20" name="" uuid="{939ca89e-a79c-48e9-a67e-afb47727e67b}" orientation="n" type="Generic" x="-20"/>
+        <terminal y="-20" name="" uuid="{56f0e960-91a9-437b-b0ae-d9e500ba7684}" orientation="n" type="Generic" x="20"/>
+    </description>
+</definition>

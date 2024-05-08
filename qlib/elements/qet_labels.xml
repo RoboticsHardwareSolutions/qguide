@@ -36,12 +36,21 @@
         </category>
     </category>
 
+    <category name="electromecanicals">
+        <category name="motors">
+            <prefix>M</prefix>
+        </category>
+        <category name="brakes">
+            <prefix>BR</prefix>
+        </category>
+        <category name="actuators">
+            <prefix>ACT</prefix>
+        </category>
+    </category>
+    
     <category name="other">
         <category name="cable_mark">
             <prefix>CB</prefix>
-        </category>
-        <category name="motor_and_brake">
-            <prefix>BR</prefix>
         </category>
     </category>
 
