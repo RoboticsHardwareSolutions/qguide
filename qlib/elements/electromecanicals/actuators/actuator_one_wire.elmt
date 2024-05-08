@@ -1,0 +1,41 @@
+<definition hotspot_x="24" hotspot_y="10" width="50" height="40" version="0.100.0" type="element" link_type="simple">
+    <uuid uuid="{34a9c378-8740-40a9-8e2c-19f68d0e25ca}"/>
+    <names>
+        <name lang="en">Actuator (one wire)</name>
+        <name lang="ru">Aктуатор</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" x="-20" ry="0" y="-5" width="10" height="30" antialias="false"/>
+        <polygon y3="22" x1="-16" y4="21" x2="-16" y5="-1" x3="-15" y6="-2" x4="-14" y7="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" x5="-14" x6="-15" x7="-16" y1="-1" y2="21" antialias="true"/>
+        <dynamic_text Valignment="AlignTop" uuid="{5ee43d44-2cfd-439a-a3d2-f7f03dfd8160}" text_from="ElementInfo" Halignment="AlignLeft" x="-6" rotation="0" y="10.5" z="3" frame="false" text_width="-1" keep_visual_rotation="false" font="Sans Serif,6,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <polygon y3="1" x1="-18" x2="-15" x3="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1" y2="-2" closed="false" antialias="true"/>
+        <polygon y3="19" x1="-18" x2="-15" x3="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="19" y2="22" closed="false" antialias="true"/>
+        <line x1="-3" x2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" y1="10" end2="none" y2="10" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" x="0" y="9" diameter="2" antialias="true"/>
+        <line x1="4" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" y1="8" end2="none" y2="8" antialias="false"/>
+        <line x1="4" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" y1="12" end2="none" y2="12" antialias="false"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" x="-10" ry="0" y="-5" width="30" height="30" antialias="false"/>
+        <dynamic_text Valignment="AlignTop" uuid="{22274f17-6408-444f-9e0a-f6072a20b85b}" text_from="ElementInfo" Halignment="AlignLeft" x="-8" rotation="0" y="-20" z="11" frame="false" text_width="-1" keep_visual_rotation="false" font="Sans Serif,8,-1,5,50,0,0,0,0,0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{eb0590b5-44d8-4436-8b12-19564ca32c8d}" orientation="e" x="20" y="10" type="Generic"/>
+    </description>
+</definition>

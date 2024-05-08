@@ -61,7 +61,7 @@ def check_previews(preview_dir):
         if i.find(".png") != -1 or i.find(".PNG") != -1:
             found += 1
             name = i
-    if found > 3:
+    if found >= 3:
         return name
     else:
         print("В  директории  /doc/schematic_previews  остустствют превью листов схемы в формате .png")

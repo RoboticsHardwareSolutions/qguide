@@ -13,7 +13,7 @@ def get_vault():
 if __name__ == '__main__':
     print("Electrical checker запущен")
     print("Описание требований тут :")
-    print("https://gitlab.com/RoboticsHardwareSolutions/guidelines/qguide")
+    print("https://roboticshardwaresolutions.github.io/qguide/")
     check_list(get_vault())
     bom_check(get_vault() + "doc/")
     print("Cодержимое репозитория соответствует стандартам")
