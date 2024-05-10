@@ -179,17 +179,20 @@
         "y": 431,
         "width": 800,
         "height": 400,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "db01c3d589d38e8d",
+  "active": "e2391d0cb9f7da4c",
   "lastOpenFiles": [
+    "docs/index.html",
+    "docs/qguide.html",
+    "attach/qguide 2024-05-10 17.25.29.excalidraw.md",
+    "attach/Pasted Image 20240510172637_182.png",
+    "qguide.md",
     "attach/qguide 2024-05-07 20.28.47.excalidraw.md",
     "attach/Pasted Image 20240507202903_158.png",
-    "qguide.md",
-    "docs/index.html",
     "README.md",
     "doc/qguide.md",
     "attach/README 2024-05-06 20.46.47.excalidraw.md",
@@ -222,7 +225,6 @@
     "attach/tb_example2.png",
     "attach/tb_example.png",
     "attach/cable_info.png",
-    "attach/element_info.png",
-    "attach/partlist1.png"
+    "attach/element_info.png"
   ]
 }

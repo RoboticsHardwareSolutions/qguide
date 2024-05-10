@@ -34,6 +34,9 @@
             <category name="distribution_block"></category>
             <prefix>Y</prefix>
         </category>
+        <category name="cable_gland">
+            <prefix>PG</prefix>
+        </category>
     </category>
 
     <category name="electromecanicals">

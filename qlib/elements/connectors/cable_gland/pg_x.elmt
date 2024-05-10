@@ -1,0 +1,35 @@
+<definition type="element" width="30" height="40" link_type="simple" hotspot_x="15" hotspot_y="20" version="0.100.0">
+    <uuid uuid="{291e276d-43d0-475b-b329-513625040952}"/>
+    <names>
+        <name lang="en">Cable  gland PGx</name>
+        <name lang="ru">Кабельный ввод PGx</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-15" y2="15" end1="none" end2="none" x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-10" y2="-5" end1="none" end2="none" x1="-10" x2="10" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-5" y2="5" end1="none" end2="none" x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="10" y2="5" end1="none" end2="none" x1="-10" x2="10" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" frame="false" Valignment="AlignTop" Halignment="AlignLeft" uuid="{75257a0e-8aca-418e-86e8-f6de55567da2}" x="18" y="11" text_width="-1" z="5" rotation="0" text_from="ElementInfo">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" frame="false" Valignment="AlignTop" Halignment="AlignLeft" uuid="{f192aa6e-26a0-4e41-b9f0-abbf58d74a21}" x="18" y="-26" text_width="-1" z="6" rotation="0" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+    </description>
+</definition>
