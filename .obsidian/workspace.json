@@ -181,13 +181,45 @@
         "height": 400,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "b696e98c2589c794",
+        "type": "window",
+        "children": [
+          {
+            "id": "d597116aa33da43e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e4fa629a5e20769",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "qguide.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 285,
+        "y": 431,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "e2391d0cb9f7da4c",
+  "active": "8e4fa629a5e20769",
   "lastOpenFiles": [
     "docs/index.html",
     "docs/qguide.html",
+    "attach/Ресурс 1.bmp",
     "attach/qguide 2024-05-10 17.25.29.excalidraw.md",
     "attach/Pasted Image 20240510172637_182.png",
     "qguide.md",
@@ -220,11 +252,9 @@
     "Excalidraw",
     "doc/project_structure.md",
     "attach/plagin_instr.png",
-    "web/index.html",
     "attach/tb_example3.png",
     "attach/tb_example2.png",
     "attach/tb_example.png",
-    "attach/cable_info.png",
-    "attach/element_info.png"
+    "attach/cable_info.png"
   ]
 }
