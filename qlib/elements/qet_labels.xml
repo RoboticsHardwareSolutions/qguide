@@ -37,6 +37,9 @@
         <category name="cable_gland">
             <prefix>PG</prefix>
         </category>
+        <category name="plug">
+            <prefix>XP</prefix>
+        </category>
     </category>
 
     <category name="electromecanicals">
@@ -60,6 +63,24 @@
     <category name="sensors">
         <category name="inductive_sensor">
             <prefix>IS</prefix>
+        </category>
+    </category>
+    
+    <category name="power_supply">
+        <category name="mw_sdr">
+            <prefix>GB</prefix>
+        </category>
+        <category name="mw_tdr_series">
+            <prefix>GB</prefix>
+        </category>
+        <category name="mw_nrd">
+            <prefix>GB</prefix>
+        </category>
+        <category name="rst-5000">
+            <prefix>GB</prefix>
+        </category>
+        <category name="xwst">
+            <prefix>GB</prefix>
         </category>
     </category>
 

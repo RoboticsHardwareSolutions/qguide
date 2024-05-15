@@ -1,0 +1,68 @@
+<definition link_type="simple" hotspot_x="58" height="30" hotspot_y="25" version="0.100.0" width="140" type="element">
+    <uuid uuid="{8d263f18-9efd-48d3-8b47-01452e78970f}"/>
+    <names>
+        <name lang="en">Weipu SA2012/S7B1</name>
+        <name lang="ru">Weipu SA2012/S7B1</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Connector</elementInformation>
+        <elementInformation name="manufacturer" show="1">Weipu</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">SA2012/S7B1</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="69.875" x2="72.875" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-10" y2="-10" length1="1.5" length2="1.5" x1="-54" x2="72" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="50" x2="53" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="52" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="6"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="30" x2="33" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-5" length1="1.5" length2="1.5" x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="50" x2="47" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-4" y2="-20" length1="1.5" length2="1.5" x1="50" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="30" x2="27" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-5" length1="1.5" length2="1.5" x1="-30" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="32.8593" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="5"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-5" length1="1.5" length2="1.5" x1="-10" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="69.875" x2="66.875" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="72.7343" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="7"/>
+        <text x="-27.4844" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="2"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-30" x2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-7.4844" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="3"/>
+        <dynamic_text x="90" y="-30" font="Sans Serif,8,-1,5,50,0,0,0,0,0" keep_visual_rotation="true" z="19" rotation="0" text_width="-1" uuid="{dffe6cad-58c7-478b-9e86-5bce11c771f8}" text_from="ElementInfo" Valignment="AlignTop" frame="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="12.5156" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="4"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="10" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-30" x2="-33" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-10" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="10" x2="7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-10" x2="-13" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-5" length1="1.5" length2="1.5" x1="-50" x2="-50" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-13" y2="-13" length1="1.5" length2="1.5" x1="-54" x2="72" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-50" x2="-47" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" antialias="false" y1="-20" y2="-23" length1="1.5" length2="1.5" x1="-50" x2="-53" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-47" y="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="1"/>
+        <line end1="none" end2="none" antialias="false" y1="-4" y2="-20" length1="1.5" length2="1.5" x1="30" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="85" y="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" z="32" rotation="0" text_width="-1" uuid="{959293ac-dcb7-41bc-995e-c3a1fb34322f}" text_from="ElementInfo" Valignment="AlignTop" frame="false" Halignment="AlignLeft">
+            <text>SA2012/S7B1</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line end1="none" end2="none" antialias="false" y1="-4" y2="-20" length1="1.5" length2="1.5" x1="70" x2="70" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="10" y="0" name="" orientation="s" uuid="{c043b895-69b7-455d-b872-f48bdb0d8f82}" type="Generic"/>
+        <terminal x="30" y="0" name="" orientation="s" uuid="{66e48218-35e5-4c0d-a05d-f74526412b15}" type="Generic"/>
+        <terminal x="-50" y="0" name="" orientation="s" uuid="{5f057df2-99ef-4b04-8009-8591e02439f4}" type="Generic"/>
+        <terminal x="-10" y="0" name="" orientation="s" uuid="{e1eec75f-7f23-496a-b6cc-600ede2db8f2}" type="Generic"/>
+        <terminal x="-30" y="0" name="" orientation="s" uuid="{14f02bc1-6819-438d-8b5b-4ad91968a1ad}" type="Generic"/>
+        <terminal x="70" y="0" name="" orientation="s" uuid="{831912b7-280a-43cc-a3b3-deeb90be6bbb}" type="Generic"/>
+        <terminal x="50" y="0" name="" orientation="s" uuid="{e41e7e3a-7aad-4fa7-9726-a1a6770e1b11}" type="Generic"/>
+    </description>
+</definition>

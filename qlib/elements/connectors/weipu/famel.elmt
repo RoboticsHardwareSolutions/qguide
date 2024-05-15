@@ -1,0 +1,56 @@
+<definition link_type="simple" width="100" hotspot_x="57" hotspot_y="25" version="0.100.0" height="30" type="element">
+    <uuid uuid="{2db19c9c-db53-4216-984d-cff25bdb5a92}"/>
+    <names>
+        <name lang="ru">Weipu SA2012/S5B1</name>
+        <name lang="en">Weipu SA2012/S5B1</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">Weipu SA2012/S5B1</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1">Weipu SA2012/S5B1</elementInformation>
+        <elementInformation name="manufacturer" show="1">Weipu</elementInformation>
+        <elementInformation name="description" show="1">IP 67 Connector</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x1="10" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="30" x2="30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" x2="-30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" text="5" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="33" y="0"/>
+        <line x1="-10" x2="-10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="30" x2="33" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="30" x2="27" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" text="2" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-27.4844" y="0"/>
+        <line x1="-30" x2="-27" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" x2="30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-8" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" x2="30" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-12" y2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" text="3" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-7.4844" y="0"/>
+        <text color="#000000" text="4" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="13" y="0"/>
+        <line x1="10" x2="13" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" x2="-33" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" x2="-7" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="10" x2="7" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-10" x2="-13" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-50" x2="-50" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text z="19" uuid="{dffe6cad-58c7-478b-9e86-5bce11c771f8}" frame="false" Valignment="AlignTop" Halignment="AlignLeft" keep_visual_rotation="true" text_from="ElementInfo" rotation="0" text_width="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-60" y="-5">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="-50" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-8" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-50" x2="10" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-12" y2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-50" x2="-47" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-50" x2="-53" length1="1.5" length2="1.5" antialias="false" end1="none" end2="none" y1="-20" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" text="1" rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-47" y="0"/>
+        <terminal name="" uuid="{e1eec75f-7f23-496a-b6cc-600ede2db8f2}" type="Generic" orientation="s" x="-10" y="0"/>
+        <terminal name="" uuid="{14f02bc1-6819-438d-8b5b-4ad91968a1ad}" type="Generic" orientation="s" x="-30" y="0"/>
+        <terminal name="" uuid="{5f057df2-99ef-4b04-8009-8591e02439f4}" type="Generic" orientation="s" x="-50" y="0"/>
+        <terminal name="" uuid="{c043b895-69b7-455d-b872-f48bdb0d8f82}" type="Generic" orientation="s" x="10" y="0"/>
+        <terminal name="" uuid="{6814533b-8e5a-4124-893c-7e28df97efb2}" type="Generic" orientation="s" x="30" y="0"/>
+    </description>
+</definition>
