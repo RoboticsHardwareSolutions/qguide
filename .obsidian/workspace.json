@@ -181,41 +181,10 @@
         "height": 400,
         "maximize": true,
         "zoom": 0
-      },
-      {
-        "id": "b696e98c2589c794",
-        "type": "window",
-        "children": [
-          {
-            "id": "d597116aa33da43e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8e4fa629a5e20769",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "qguide.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 285,
-        "y": 431,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "8e4fa629a5e20769",
+  "active": "e2391d0cb9f7da4c",
   "lastOpenFiles": [
     "docs/index.html",
     "docs/qguide.html",
