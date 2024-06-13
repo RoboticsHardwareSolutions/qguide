@@ -27,6 +27,13 @@
         <prefix>X</prefix>
     </category>
 
+    <category name="actuator_driver">
+        <category name="moteck"></category>
+        <prefix>DDC</prefix>
+        <category name="bmsd_40modbus"></category>
+        <prefix>DDC</prefix>
+    </category>
+
     <category name="connectors">
         <category name="130_terminals&amp;terminal_strips">
             <category name="power_network_connectors"></category>
@@ -66,6 +73,12 @@
         </category>
     </category>
     
+    <category name="servo">
+        <category name="inductive_sensor">
+            <prefix>IS</prefix>
+        </category>
+    </category>
+    
     <category name="power_supply">
         <category name="mw_sdr">
             <prefix>GB</prefix>
@@ -94,7 +107,12 @@
     </category>
 
     <category name="plc_io">
-        <prefix>K</prefix>
+        <category name="io_converter">
+            <prefix>IO</prefix>
+        </category>
+        <category name="mayr">
+            <prefix>BRC</prefix>
+        </category>
     </category>
 
     <report>

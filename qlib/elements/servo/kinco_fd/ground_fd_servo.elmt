@@ -1,0 +1,22 @@
+<definition link_type="slave" hotspot_x="20" hotspot_y="7" height="50" type="element" version="0.100.0" width="40">
+    <uuid uuid="{1637cd0b-8dcc-4545-a13f-2248af1b8da2}"/>
+    <names>
+        <name lang="en">GND</name>
+        <name lang="ru">GND</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="15" y2="15" x1="-10" x2="10" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <line antialias="false" y1="1.5" y2="14.5" x1="0" x2="0" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <line antialias="false" y1="18" y2="18" x1="-7" x2="7" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <line antialias="false" y1="21" y2="21" x1="-4" x2="4" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <line antialias="false" y1="24" y2="24" x1="0.5" x2="-0.5" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
+        <arc antialias="true" height="30" x="-16" y="7" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="32" angle="360"/>
+        <terminal uuid="{0f5de08a-c75e-44cd-82a6-c6be4060f87a}" x="0" y="0" type="Generic" orientation="n" name=""/>
+    </description>
+</definition>

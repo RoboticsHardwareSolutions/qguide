@@ -1,0 +1,33 @@
+<definition link_type="slave" hotspot_x="8" hotspot_y="39" height="90" type="element" version="0.100.0" width="30">
+    <uuid uuid="{a8825f42-2ba7-49a3-9c9b-7d1826866335}"/>
+    <names>
+        <name lang="en">X6 CanOpen</name>
+        <name lang="ru">X6 CanOpen</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Valignment="AlignTop" uuid="{a3e11cf3-98d6-4032-acd1-a95e92d89762}" Halignment="AlignLeft" text_from="ElementInfo" x="-1" text_width="-1" y="-24" rotation="0" z="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text x="5" text="X6" y="-25" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <polygon antialias="false" y1="-22.81" y2="-22.81" y3="11.34" x1="-5.52" y4="11.34" x2="19.75" x3="19.75" x4="-5.52" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon antialias="false" y1="-19.65" y2="-19.65" y3="8.18" x1="-2.85" y4="8.18" x2="15.18" x3="15.18" x4="-2.85" style="line-style:normal;line-weight:none;filling:gray;color:black"/>
+        <polygon antialias="false" y1="-10.05" y2="-10.05" y3="-1.45" x1="-5.52" y4="-1.45" x2="1.69" x3="1.69" x4="-5.52" style="line-style:normal;line-weight:none;filling:gray;color:black"/>
+        <polygon antialias="false" y1="-17.39" y2="-17.39" y3="5.95" x1="12.55" y4="5.95" x2="15.18" x3="15.18" x4="12.55" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon antialias="false" y1="3.8" y2="3.8" y3="7.84" x1="-2.57" y4="7.84" x2="-0.64" x3="-0.64" x4="-2.57" style="line-style:normal;line-weight:thin;filling:yellow;color:black"/>
+        <polygon antialias="false" y1="-19.31" y2="-19.31" y3="-15.27" x1="-2.57" y4="-15.27" x2="-0.64" x3="-0.64" x4="-2.57" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+        <polygon antialias="false" y1="11.34" y2="11.34" y3="45.48" x1="-5.52" y4="45.48" x2="19.75" x3="19.75" x4="-5.52" style="line-style:normal;line-weight:thin;filling:lightgray;color:black"/>
+        <polygon antialias="false" y1="14.49" y2="14.49" y3="42.33" x1="-2.85" y4="42.33" x2="15.18" x3="15.18" x4="-2.85" style="line-style:normal;line-weight:none;filling:gray;color:black"/>
+        <polygon antialias="false" y1="24.12" y2="24.12" y3="32.69" x1="-5.52" y4="32.69" x2="1.69" x3="1.69" x4="-5.52" style="line-style:normal;line-weight:none;filling:gray;color:black"/>
+        <polygon antialias="false" y1="16.75" y2="16.75" y3="40.06" x1="12.55" y4="40.06" x2="15.18" x3="15.18" x4="12.55" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <polygon antialias="false" y1="37.95" y2="37.95" y3="41.95" x1="-2.57" y4="41.95" x2="-0.64" x3="-0.64" x4="-2.57" style="line-style:normal;line-weight:thin;filling:yellow;color:black"/>
+        <polygon antialias="false" y1="14.83" y2="14.83" y3="18.87" x1="-2.57" y4="18.87" x2="-0.64" x3="-0.64" x4="-2.57" style="line-style:normal;line-weight:thin;filling:green;color:black"/>
+    </description>
+</definition>

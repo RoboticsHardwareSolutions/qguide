@@ -1,28 +1,28 @@
-<definition type="element" width="30" height="10" link_type="thumbnail" hotspot_x="15" hotspot_y="5" version="0.100.0">
-    <uuid uuid="{261f6cbe-0af9-4fb7-ba9a-f7642a2aabef}"/>
+<definition height="10" version="0.100.0" width="30" type="element" link_type="thumbnail" hotspot_x="15" hotspot_y="5">
+    <uuid uuid="{4fc54cc0-df61-4036-8154-f13754c7f323}"/>
     <names>
         <name lang="en">18AWG / 1mm2</name>
         <name lang="ru">18AWG / 1mm2</name>
     </names>
     <kindInformations/>
     <elementInformations>
-        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
-        <elementInformation name="plant" show="1"></elementInformation>
-        <elementInformation name="label" show="1"></elementInformation>
-        <elementInformation name="unity" show="1"></elementInformation>
-        <elementInformation name="supplier" show="1"></elementInformation>
-        <elementInformation name="quantity" show="1"></elementInformation>
-        <elementInformation name="comment" show="1"></elementInformation>
-        <elementInformation name="manufacturer" show="1"></elementInformation>
-        <elementInformation name="description" show="1"></elementInformation>
-        <elementInformation name="designation" show="1"></elementInformation>
-        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
     </elementInformations>
     <informations></informations>
     <description>
-        <line y1="0" y2="0" end1="none" end2="none" x1="-10.8483" x2="9.91885" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line y1="-2" y2="2" end1="none" end2="none" x1="-2" x2="2" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" frame="false" Valignment="AlignTop" Halignment="AlignLeft" uuid="{387403d6-bb68-4b82-9d11-be817341b591}" x="7" y="1" text_width="-1" z="3" rotation="0" text_from="UserText">
+        <line x1="-10.8483" length1="1.5" x2="9.91885" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="false" y1="0" y2="0"/>
+        <line x1="-2" length1="1.5" x2="2" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" antialias="true" y1="-2" y2="2"/>
+        <dynamic_text x="2" uuid="{387403d6-bb68-4b82-9d11-be817341b591}" y="-2" Halignment="AlignLeft" z="3" rotation="0" keep_visual_rotation="false" text_from="UserText" text_width="-1" frame="false" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop">
             <text>1mm2</text>
         </dynamic_text>
     </description>

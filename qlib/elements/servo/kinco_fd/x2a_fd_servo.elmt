@@ -1,0 +1,29 @@
+<definition link_type="slave" hotspot_x="6" hotspot_y="45" height="90" type="element" version="0.100.0" width="40">
+    <uuid uuid="{6aa9491d-172e-4e8d-b77c-e8892d5c855f}"/>
+    <names>
+        <name lang="en">X2A</name>
+        <name lang="ru">X2A</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" antialias="false" x="0" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="9" text="PE" y="32" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="8" text="W" y="13" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="8" text="V" y="-8" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <circle diameter="4" antialias="false" x="0" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect antialias="false" height="80" x="2" y="-40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="28"/>
+        <text x="8" text="U" y="-24" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="20" text="X2A" y="-5" rotation="90" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <terminal uuid="{affd318d-3797-4065-b7ef-b41fc3c33184}" x="0" y="10" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{30ba2a8f-9e27-42b6-9b3e-fca017b0763e}" x="0" y="30" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{37b146b5-69e1-4d60-9cb2-6f3ce69ce372}" x="0" y="-30" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{8545030a-b407-4d78-9057-52c14805fb8d}" x="0" y="-10" type="Generic" orientation="w" name=""/>
+    </description>
+</definition>

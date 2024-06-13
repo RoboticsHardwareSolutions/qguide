@@ -1,0 +1,63 @@
+<definition link_type="master" hotspot_x="5" hotspot_y="95" height="190" type="element" version="0.100.0" width="70">
+    <uuid uuid="{38574143-20a9-409b-af0b-1d6838780582}"/>
+    <names>
+        <name lang="en">X2B</name>
+        <name lang="ru">X2B</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Kinco</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description">Servo Motor Driver</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" antialias="false" x="0" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="10" text="L2" y="-18" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="10" text="L2C" y="-58" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="10" text="L3" y="2" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="12" text="RB2" y="42" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="12" text="RB-" y="62" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="10" text="L1" y="-38" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="10" text="DC+/RB1" y="22" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text x="12" text="DC-" y="82" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <circle diameter="4" antialias="false" x="0" y="-22" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="18" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="-42" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="78" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="58" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="-62" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="4" antialias="false" x="0" y="-82" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="10" text="L1C" y="-76" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <rect antialias="false" height="180" x="2" y="-90" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="60"/>
+        <text x="45" text="X2B" y="-5" rotation="90" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text frame="false" Valignment="AlignTop" uuid="{3a18ed1b-790d-4567-a4ad-d43d929fa70d}" Halignment="AlignLeft" text_from="ElementInfo" x="80" text_width="-1" y="-50" rotation="0" z="21" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Valignment="AlignTop" uuid="{e25ffa43-0cf7-4674-8e58-934557be78d7}" Halignment="AlignLeft" text_from="ElementInfo" x="80" text_width="-1" y="-20" rotation="0" z="22" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{cba4a9da-2814-4024-81b8-06efb537b77a}" x="0" y="-40" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{418b18c8-7605-4605-aaa3-28114957fe1f}" x="0" y="60" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{8e47f2fd-dd76-48c1-be59-b34a90664dc0}" x="0" y="-20" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{1295277d-a80e-4908-abcb-8c8878ad55c7}" x="0" y="-60" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{7eadcae1-d070-4a1e-90db-02b8daa7331a}" x="0" y="-80" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{75c98f55-9c74-4e05-ab42-2cff4bcedc10}" x="0" y="40" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{60df5964-3799-44d9-9c52-147bf4651d23}" x="0" y="0" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{12c21910-6eb1-4c6b-baaf-e0a9ef16e901}" x="0" y="80" type="Generic" orientation="w" name=""/>
+        <terminal uuid="{868f0f80-3db9-49f2-8a2c-61a55f75e4fb}" x="0" y="20" type="Generic" orientation="w" name=""/>
+    </description>
+</definition>

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7644d16e928cad8a",
+        "id": "e7415dff8ea1c6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2391d0cb9f7da4c",
+            "id": "e0f557d9c0238254",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qguide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qguide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qguide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "qguide.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,17 +176,17 @@
       }
     ]
   },
-  "active": "e2391d0cb9f7da4c",
+  "active": "e0f557d9c0238254",
   "lastOpenFiles": [
+    "README.md",
+    "qguide.md",
     "docs/index.html",
     "docs/qguide.html",
     "attach/Ресурс 1.bmp",
     "attach/qguide 2024-05-10 17.25.29.excalidraw.md",
     "attach/Pasted Image 20240510172637_182.png",
-    "qguide.md",
     "attach/qguide 2024-05-07 20.28.47.excalidraw.md",
     "attach/Pasted Image 20240507202903_158.png",
-    "README.md",
     "doc/qguide.md",
     "attach/README 2024-05-06 20.46.47.excalidraw.md",
     "el_specgen/main.py",

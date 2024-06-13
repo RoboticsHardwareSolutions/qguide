@@ -1,0 +1,36 @@
+<definition width="40" link_type="simple" height="40" hotspot_x="11" hotspot_y="14" version="0.100.0" type="element">
+    <uuid uuid="{c7331974-1cea-4720-af84-e7594eff528a}"/>
+    <names>
+        <name lang="ru">Розетка для реле OptiRel G RR93-01-6-24D-6-V</name>
+        <name lang="en">Розетка для реле OptiRel G RR93-01-6-24D-6-V</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Розетка для реле OptiRel G RR93-01-6-24D-6-V</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">KEAZ</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">281157</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="26" antialias="false" length1="1.5" length2="1.5" y1="-8" y2="-8" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="5"/>
+        <line x2="5" antialias="false" length1="1.5" length2="1.5" y1="-8" y2="20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="5"/>
+        <line x2="27" antialias="false" length1="1.5" length2="1.5" y1="20" y2="20" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="5"/>
+        <line x2="-9" antialias="false" length1="1.5" length2="1.5" y1="6" y2="6" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="5"/>
+        <line x2="-9" antialias="false" length1="1.5" length2="1.5" y1="-3" y2="17" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-9"/>
+        <dynamic_text frame="false" uuid="{24709dc2-9334-4437-ae8a-8a79ad45d8f3}" text_width="-1" x="-50" y="25" z="6" text_from="ElementInfo" Valignment="AlignTop" rotation="0" keep_visual_rotation="false" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" uuid="{0ef1c581-7c21-4613-bc7f-39bf219bd03c}" text_width="-1" x="-50" y="40" z="7" text_from="ElementInfo" Valignment="AlignTop" rotation="0" keep_visual_rotation="false" Halignment="AlignLeft" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal">
+            <text>281157</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

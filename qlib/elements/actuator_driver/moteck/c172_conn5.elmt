@@ -1,0 +1,68 @@
+<definition link_type="slave" version="0.100.0" hotspot_x="105" hotspot_y="38" width="220" height="80" type="element">
+    <uuid uuid="{97cbd230-8b9b-41a3-8067-f300eadc9adf}"/>
+    <names>
+        <name lang="en">CONN5</name>
+        <name lang="ru">CONN5</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-92" y="-30" diameter="4"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="87" y="-20" text="19 5V OUT"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="8" y="-19" text="23 Fault OUT"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="-91" y="-20" text="28 Groung"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="-52" y="-20" text="26 Position OK"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="-13" y="-19" text="24 EMS"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="28" y="-19" text="22 Learning"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="69" y="-20" text="20 RET "/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="-32" y="-20" text="25 Servo IN"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="-72" y="-20" text="27 5V OUT"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-72" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-52" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-32" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-12" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="8" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="28" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="48" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="68" y="-30" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="88" y="-30" diameter="4"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-88" x2="-72" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-68" x2="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-48" x2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-28" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-8" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="12" x2="28" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="32" x2="48" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="52" x2="68" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{41bf84b2-420f-438b-b9f1-dcb8f119e243}" frame="false" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop" x="110" y="-20" Halignment="AlignLeft" z="27">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{b33b14a8-5b4a-474d-89d1-24e06c94fc39}" frame="false" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop" x="110" y="10" Halignment="AlignLeft" z="28">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="72" x2="88" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="49" y="-19" text="21 EXT"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-92" x2="-100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="-28" length2="1.5" x1="92" x2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-28" length1="1.5" end2="none" y2="35" length2="1.5" x1="100" x2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="35" length1="1.5" end2="none" y2="35" length2="1.5" x1="100" x2="-100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="35" length1="1.5" end2="none" y2="-28" length2="1.5" x1="-100" x2="-100" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="90" x="102" y="-10" text="CONN5"/>
+        <terminal name="" uuid="{2603c9e8-f6f7-415c-9340-fc9f7e9dc524}" x="70" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{ac3c165c-4121-4114-ba1c-fbef79765b9d}" x="-50" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{48f70b7e-681e-4630-8f91-b6172e1f7f32}" x="90" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{6c5944b1-3932-48ad-9549-40944442f207}" x="30" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{ccc7c006-3051-4d2d-b6e3-76176eb579e0}" x="10" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{f0e8c773-d61c-4930-a3b6-93e8a694e6d9}" x="-70" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{c87f9855-3d3d-4079-ad0b-7a7401a6ce5b}" x="-90" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{e2f449a1-b257-492d-a105-29109f55572b}" x="-30" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{d3725508-426f-401e-a03e-d2f966dc1e93}" x="-10" y="-30" orientation="n" type="Generic"/>
+        <terminal name="" uuid="{450fca47-55d9-4cc6-a1e7-c9889cdf1790}" x="50" y="-30" orientation="n" type="Generic"/>
+    </description>
+</definition>

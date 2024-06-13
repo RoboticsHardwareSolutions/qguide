@@ -1,0 +1,59 @@
+<definition height="50" width="130" hotspot_x="65" hotspot_y="24" version="0.100.0" type="element" link_type="simple">
+    <uuid uuid="{b9cca104-49e2-4453-b96f-4391dfa53cf5}"/>
+    <names>
+        <name lang="en">ROBA-multiswitch 20/019.100.2</name>
+        <name lang="ru">ROBA-multiswitch 20/019.100.2</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">ROBA-multiswitch Brake Controller</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation">20/019.100.2</elementInformation>
+        <elementInformation show="1" name="manufacturer">MAYR</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle antialias="false" x="-52" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text rotation="270" x="-27.9" y="11" text="2 Uin" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text rotation="270" x="-7.8" y="11" text="3 Sdc" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text rotation="270" x="12" y="11" text="4 Sdc" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text rotation="270" x="32" y="11" text="5 BR1" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <text rotation="270" x="52.1" y="11" text="6 BR2" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <circle antialias="false" x="-32" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" x="-12" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" x="8" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" x="28" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" x="48" y="16" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="-48" x2="-32" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="-28" x2="-12" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="-8" x2="8" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="12" x2="28" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="32" x2="48" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="-52" x2="-60" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="-20" length1="1.5" y2="18" length2="1.5" x1="-60" x2="-60" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="-20" length1="1.5" y2="-20" length2="1.5" x1="-60" x2="60" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="-20" length1="1.5" y2="18" length2="1.5" x1="60" x2="60" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" y1="18" length1="1.5" y2="18" length2="1.5" x1="60" x2="52" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text rotation="270" x="-48" y="11" text="1 Uin" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000"/>
+        <dynamic_text uuid="{5520a8f7-2ee6-4d84-8862-938eaee7e4f8}" Valignment="AlignTop" rotation="0" Halignment="AlignLeft" frame="false" text_from="ElementInfo" x="75" keep_visual_rotation="false" y="-15" z="23" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text uuid="{f8f8d49d-fc87-4890-9a14-de5a9cf64f9e}" Valignment="AlignTop" rotation="0" Halignment="AlignLeft" frame="false" text_from="ElementInfo" x="65" keep_visual_rotation="false" y="30" z="24" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal">
+            <text>20/019.100.2</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal orientation="s" uuid="{300711f5-3f59-4940-b266-2c8c3da66528}" x="50" y="20" type="Generic" name=""/>
+        <terminal orientation="s" uuid="{c896efc2-5c41-4044-bfd0-a9fb86adb483}" x="-50" y="20" type="Generic" name=""/>
+        <terminal orientation="s" uuid="{8b224495-3cf2-44f5-a10a-ff63b3978b7b}" x="-10" y="20" type="Generic" name=""/>
+        <terminal orientation="s" uuid="{07156a13-ef63-4199-aca6-ed4c19e6b671}" x="-30" y="20" type="Generic" name=""/>
+        <terminal orientation="s" uuid="{9f97fbcd-b6c6-425e-b29f-a77a75800abb}" x="10" y="20" type="Generic" name=""/>
+        <terminal orientation="s" uuid="{9ec5ce3b-5ace-41a8-b925-190f69d06669}" x="30" y="20" type="Generic" name=""/>
+    </description>
+</definition>

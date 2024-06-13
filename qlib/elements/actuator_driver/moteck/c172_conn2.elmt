@@ -1,0 +1,39 @@
+<definition height="50" link_type="slave" hotspot_x="36" hotspot_y="24" version="0.100.0" type="element" width="60">
+    <uuid uuid="{e7133a2f-2ba7-427f-a044-35e6dbda342f}"/>
+    <names>
+        <name lang="en">CONN2</name>
+        <name lang="ru">CONN2</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-11.95" y="15.75"/>
+        <circle diameter="4" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="8.05" y="15.75"/>
+        <line y1="17.75" y2="17.75" x1="-7.95" x2="8.05" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="17.75" y2="17.75" x1="12.05" x2="20.05" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="17.75" y2="17.75" x1="-11.95" x2="-19.95" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="17.75" y2="-20.25" x1="-19.95" x2="-19.95" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-20.25" y2="-20.25" x1="-19.95" x2="20.05" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="-20.25" y2="17.75" x1="20.05" x2="20.05" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none"/>
+        <line y1="5.75" y2="5.75" x1="-11.95" x2="-7.95" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" end1="none" end2="none"/>
+        <line y1="3.75" y2="7.75" x1="-9.95" x2="-9.95" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" end1="none" end2="none"/>
+        <line y1="5.75" y2="5.75" x1="8.05" x2="12.05" antialias="false" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:blue" end1="none" end2="none"/>
+        <text rotation="0" text="12" x="-11.95" color="#000000" y="-4.25" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text rotation="0" text="13" x="8.05" color="#000000" y="-4.25" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text rotation="270" text="CONN2" x="-24" color="#000000" y="10" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text frame="false" text_width="-1" uuid="{91068a84-0d28-49f7-b459-f93b099538d4}" rotation="0" keep_visual_rotation="false" Valignment="AlignTop" text_from="ElementInfo" x="22.05" y="-24.25" Halignment="AlignLeft" z="15" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" text_width="-1" uuid="{b8eb9d55-c06d-4f6b-9c60-00ae832a3ca3}" rotation="0" keep_visual_rotation="false" Valignment="AlignTop" text_from="ElementInfo" x="22.05" y="-4.25" Halignment="AlignLeft" z="16" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal name="" uuid="{611c3b4c-4938-4ad9-b4fa-156a261ed7b2}" type="Generic" x="10.05" y="19.75" orientation="s"/>
+        <terminal name="" uuid="{de3f6406-f803-4804-9f15-9700ffaf3a95}" type="Generic" x="-9.95" y="19.75" orientation="s"/>
+    </description>
+</definition>

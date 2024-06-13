@@ -1,0 +1,61 @@
+<definition link_type="master" version="0.100.0" hotspot_x="36" hotspot_y="34" width="100" height="60" type="element">
+    <uuid uuid="{54c4c954-267b-4e14-9545-57e5151aad61}"/>
+    <names>
+        <name lang="en">CONN6/7</name>
+        <name lang="ru">CONN6/7</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="5.75" length1="1.5" end2="none" y2="5.75" length2="1.5" x1="43.075" x2="47.075" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" antialias="false" end1="none"/>
+        <line y1="5.75" length1="1.5" end2="none" y2="5.75" length2="1.5" x1="-11.95" x2="-7.95" style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="false" end1="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="48" y="16" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="28.075" y="15.75" diameter="4"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-11.925" y="15.75" diameter="4"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" x="47.2" y="0" text="4 VCC"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" x="28.1" y="0" text="3 VCC"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" x="12" y="0" text="2 GND"/>
+        <line y1="3.75" length1="1.5" end2="none" y2="7.75" length2="1.5" x1="45.075" x2="45.075" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" antialias="false" end1="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="8.075" y="15.75" diameter="4"/>
+        <line y1="18" length1="1.5" end2="none" y2="18" length2="1.5" x1="52" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="18" length1="1.5" end2="none" y2="18" length2="1.5" x1="32" x2="48" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="17.75" length1="1.5" end2="none" y2="17.75" length2="1.5" x1="-7.925" x2="8.075" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="17.75" length1="1.5" end2="none" y2="17.75" length2="1.5" x1="-11.925" x2="-19.925" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="17.75" length1="1.5" end2="none" y2="-30" length2="1.5" x1="-19.925" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <dynamic_text font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{91068a84-0d28-49f7-b459-f93b099538d4}" frame="false" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop" x="65" y="-25" Halignment="AlignLeft" z="15">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{b8eb9d55-c06d-4f6b-9c60-00ae832a3ca3}" frame="false" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop" x="75" y="0" Halignment="AlignLeft" z="16">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line y1="5.75" length1="1.5" end2="none" y2="5.75" length2="1.5" x1="23.075" x2="27.075" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" antialias="false" end1="none"/>
+        <line y1="3.75" length1="1.5" end2="none" y2="7.75" length2="1.5" x1="25.075" x2="25.075" style="line-style:normal;line-weight:normal;filling:none;color:HTMLRedRed" antialias="false" end1="none"/>
+        <line y1="5.75" length1="1.5" end2="none" y2="5.75" length2="1.5" x1="8.05" x2="12.05" style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="false" end1="none"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" x="-8" y="0" text="1 GND"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" x="-25" y="10" text="CONN6/7"/>
+        <line y1="18" length1="1.5" end2="none" y2="18" length2="1.5" x1="12" x2="28" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="18" length1="1.5" end2="none" y2="-30" length2="1.5" x1="60" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <line y1="-30" length1="1.5" end2="none" y2="-30" length2="1.5" x1="-20" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none"/>
+        <terminal name="" uuid="{3159335c-5e01-4943-90ed-bbde745b4bd6}" x="50" y="20" orientation="s" type="Generic"/>
+        <terminal name="" uuid="{42e6a907-9dec-480d-8b48-80fd9735dc7d}" x="30.075" y="19.75" orientation="s" type="Generic"/>
+        <terminal name="" uuid="{5c77a414-90ec-44e8-9ee0-14be7e0bd17b}" x="-9.925" y="19.75" orientation="s" type="Generic"/>
+        <terminal name="" uuid="{87f6b97d-9498-474f-b803-798355fbfe23}" x="10.075" y="19.75" orientation="s" type="Generic"/>
+    </description>
+</definition>

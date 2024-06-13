@@ -37,6 +37,19 @@ def bom_check_articles(rows):
             raise SystemExit(1)
 
 
+def bom_check_correct_articles(rows):
+    row = get_row(rows, "Article number")
+    list_articles = []
+    for i in range(1, len(rows)):
+        list_articles.append(rows[i][row].replace(' ', ''))
+    has_duplicates = len(list_articles) > len(set(list_articles))
+    if has_duplicates:
+        print(" В списке ариткулов есть дубликаты !!!")
+        print(" Это может быть в том числе вызвано наличием ошибочных пробелов до или после артикула ")
+        print(" Требуется исправить в проекте !")
+        raise SystemExit(1)
+
+
 def bom_check_manuf(rows):
     row = get_row(rows, "Manufacturer")
     for i in range(1, len(rows)):
@@ -84,19 +97,13 @@ def make_rows(reader):
 
 def bom_check(bom_directory):
     bom = bom_directory + find_bom(bom_directory)
+    print(bom)
     with open(bom, newline='', encoding='UTF-8', ) as csvfile:
         reader = csv.reader(csvfile, delimiter=';', quotechar='"')
         rows = make_rows(reader)
         bom_check_headers(rows)
         bom_check_text(rows)
         bom_check_articles(rows)
+        bom_check_correct_articles(rows)
         bom_check_manuf(rows)
         csvfile.close()
-
-
-def get_bom():
-    return "/Users/doc/projects/comitas/tof-sensor-hardware/doc/pcb/"
-
-
-if __name__ == '__main__':
-    bom_check(get_bom())
