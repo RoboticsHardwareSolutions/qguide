@@ -97,7 +97,6 @@ def make_rows(reader):
 
 def bom_check(bom_directory):
     bom = bom_directory + find_bom(bom_directory)
-    print(bom)
     with open(bom, newline='', encoding='UTF-8', ) as csvfile:
         reader = csv.reader(csvfile, delimiter=';', quotechar='"')
         rows = make_rows(reader)

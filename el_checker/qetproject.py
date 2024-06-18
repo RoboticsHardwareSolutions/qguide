@@ -49,22 +49,22 @@ class QETProject:
         # but are not defined in the head, like:  xmlns:ns0="ns0".
         # If namespaces are not defines, etree cannot parse the XML file.
 
-        # with open(project_file, 'r' ,encoding='utf8') as f:
-        #     xml = f.read()
-        #     ns = re.findall( '[\s<]{1}(\w+):', xml )  # namesapaces
-        # if ns:
-        #     ns = [ x for x in dict.fromkeys(ns) if \
-        #             x.startswith('ns') or x.startswith('dc') or x.startswith('rdf')   ]  # delete duplicates, and filtar
-        #     ns_def = ''
-        #     for n in ns:
-        #         ns_str = 'xmlns:{}='.format(n)
-        #         this_ns = re.findall( ns_str, xml )  # if found, no add ns definition again
-        #         if not this_ns:
-        #             ns_def += 'xmlns:{}="{}" '.format(n,n)
-        #     if ns_def:
-        #         xml = re.sub('>', ' ' + ns_def + '>', xml, 1)  #replaces first ocurrence
-        #         with open(project_file, 'w' ,encoding='utf8') as f:
-        #             f.write(xml)
+        with open(project_file, 'r' ,encoding='utf8') as f:
+            xml = f.read()
+            ns = re.findall( '[\s<]{1}(\w+):', xml )  # namesapaces
+        if ns:
+            ns = [ x for x in dict.fromkeys(ns) if \
+                    x.startswith('ns') or x.startswith('dc') or x.startswith('rdf')   ]  # delete duplicates, and filtar
+            ns_def = ''
+            for n in ns:
+                ns_str = 'xmlns:{}='.format(n)
+                this_ns = re.findall( ns_str, xml )  # if found, no add ns definition again
+                if not this_ns:
+                    ns_def += 'xmlns:{}="{}" '.format(n,n)
+            if ns_def:
+                xml = re.sub('>', ' ' + ns_def + '>', xml, 1)  #replaces first ocurrence
+                with open(project_file, 'w' ,encoding='utf8') as f:
+                    f.write(xml)
 
         # Creates a copy of original project because of the LOGO section usually has not defined namespaces
         # and etree launches an error
