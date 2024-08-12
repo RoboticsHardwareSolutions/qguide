@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e7415dff8ea1c6d0",
+        "id": "49468764d513fc14",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f557d9c0238254",
+            "id": "e4517bf74335655a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -139,63 +147,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "fb3485408944cd5f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2232c634ba2a28bf",
-        "type": "window",
-        "children": [
-          {
-            "id": "79b73bb7a164d9f7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "db01c3d589d38e8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "qguide.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 285,
-        "y": 431,
-        "width": 800,
-        "height": 400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e0f557d9c0238254",
+  "active": "e4517bf74335655a",
   "lastOpenFiles": [
-    "README.md",
+    "qlib/elements/ipc/MZ-77E25 copy.elmt",
+    "qlib/elements/ipc/MZ-77E25.elmt",
+    "qlib/elements/ipc/MZ-77E250B_KR.elmt",
+    "qlib/elements/bms/self_design/comitas_cell_measure.elmt",
+    "qlib/elements/bms/self_design/comitas_cell_measure.xml",
     "qguide.md",
-    "docs/index.html",
-    "docs/qguide.html",
-    "attach/Ресурс 1.bmp",
+    "el_specgen/~$output.docx",
+    "el_specgen/output.docx",
+    "el_specgen/subsequent.docx",
+    "el_specgen/schematics.docx",
+    "el_specgen/resized6_gorn_2.png",
+    "el_specgen/resized3_main_supply.png",
+    "el_specgen/resized2_connectors_list.png",
+    "el_specgen/resized7_ipc.png",
+    "el_specgen/resized4_digital_io.png",
+    "el_specgen/resized10_terminal_blocks.png",
+    "el_specgen/resized5_gorn_1.png",
+    "el_specgen/resized9_terminal_blocks.png",
+    "el_specgen/resized8_terminal_blocks.png",
+    "el_specgen/spec.docx",
+    "el_specgen/resized13_diagram.png",
+    "el_specgen/~$first.docx",
+    "README.md",
     "attach/qguide 2024-05-10 17.25.29.excalidraw.md",
-    "attach/Pasted Image 20240510172637_182.png",
     "attach/qguide 2024-05-07 20.28.47.excalidraw.md",
-    "attach/Pasted Image 20240507202903_158.png",
     "doc/qguide.md",
     "attach/README 2024-05-06 20.46.47.excalidraw.md",
-    "el_specgen/main.py",
-    "el_specgen/template.py",
-    "el_specgen/bom_parser.py",
-    "el_checker/main.py",
-    "el_checker/qetproject.py",
-    "el_checker/check_list.py",
-    "el_checker/bom.py",
     "doc/common.md",
     "doc/recomend.md",
     "doc/Setup_and_install.md",
@@ -206,16 +186,8 @@
     "doc/create_redme.md",
     "doc/numbering.md",
     "doc/nomenclature.md",
-    "attach/nomenclature.png",
     "doc/component.md",
     "doc/documents.md",
-    "attach/Pasted Image 20240506204702_466.png",
-    "Excalidraw",
-    "doc/project_structure.md",
-    "attach/plagin_instr.png",
-    "attach/tb_example3.png",
-    "attach/tb_example2.png",
-    "attach/tb_example.png",
-    "attach/cable_info.png"
+    "doc/project_structure.md"
   ]
 }

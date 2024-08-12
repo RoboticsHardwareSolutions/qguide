@@ -1,17 +1,8 @@
 <definition width="30" link_type="simple" hotspot_x="15" height="30" hotspot_y="15" type="element" version="0.100.0">
     <uuid uuid="{b2992f4f-77da-455c-afe5-35ac039b1815}"/>
     <names>
-        <name lang="cs">DDR3L-1866 SO-DIMM</name>
-        <name lang="de">DDR3L-1866 SO-DIMM</name>
-        <name lang="it">DDR3L-1866 SO-DIMM</name>
-        <name lang="hu">DDR3L-1866 SO-DIMM</name>
-        <name lang="el">DDR3L-1866 SO-DIMM</name>
-        <name lang="ar">DDR3L-1866 SO-DIMM</name>
-        <name lang="pl">DDR3L-1866 SO-DIMM</name>
+        <name lang="ru">DDR3L-1866 SO-DIMM</name>
         <name lang="en">DDR3L-1866 SO-DIMM</name>
-        <name lang="fr">DDR3L-1866 SO-DIMM</name>
-        <name lang="nl">DDR3L-1866 SO-DIMM</name>
-        <name lang="es">DDR3L-1866 SO-DIMM</name>
     </names>
     <elementInformations>
         <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>

@@ -1,0 +1,35 @@
+<definition hotspot_x="25" hotspot_y="16" height="40" type="element" version="0.100.0" width="50" link_type="slave">
+    <uuid uuid="{fc3ec2f6-2c2c-4da7-9aa8-4775708386d1}"/>
+    <names>
+        <name lang="en">CMR.111103.000.0 CAN</name>
+        <name lang="ru">CMR.111103.000.0 CAN</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <circle diameter="4" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-12"/>
+        <text y="0" text="CAN H" rotation="90" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="8"/>
+        <circle diameter="4" y="-10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="8"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="-8" y2="-8" end1="none" x1="-8" end2="none" x2="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="-8" y2="-8" end1="none" x1="12" end2="none" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="-8" y2="20" end1="none" x1="20" end2="none" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="20" y2="20" end1="none" x1="20" end2="none" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="20" y2="-8" end1="none" x1="-20" end2="none" x2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line antialias="false" length1="1.5" length2="1.5" y1="-8" y2="-8" end1="none" x1="-20" end2="none" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="0" text="CAN L" rotation="90" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-16"/>
+        <dynamic_text y="-17" z="11" frame="false" Valignment="AlignTop" Halignment="AlignLeft" text_from="ElementInfo" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{e0b8f0cb-f46f-40ad-a4ea-2aa5f6f49c01}" x="29" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text y="-1" z="12" frame="false" Valignment="AlignTop" Halignment="AlignLeft" text_from="ElementInfo" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{026de506-27e7-44fd-845f-0c667b2fc54d}" x="29" keep_visual_rotation="false">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal y="-10" type="Generic" orientation="n" name="" uuid="{3ae38ded-0369-4ce2-97a6-2631bfc4a845}" x="-10"/>
+        <terminal y="-10" type="Generic" orientation="n" name="" uuid="{114b3ccc-7623-480f-8380-cbedc8fbe016}" x="10"/>
+    </description>
+</definition>

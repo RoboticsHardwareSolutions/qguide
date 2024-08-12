@@ -1,17 +1,8 @@
 <definition hotspot_y="36" hotspot_x="54" version="0.90" link_type="simple" height="140" width="110" type="element">
     <uuid uuid="{1d02e4a9-8713-4085-8366-760f1a80457a}"/>
     <names>
-        <name lang="de">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="fr">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="el">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="es">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="it">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="nl">ICO120-83D-N3350-CAN-DIO-DC</name>
         <name lang="en">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="cs">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="ar">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="pl">ICO120-83D-N3350-CAN-DIO-DC</name>
-        <name lang="hu">ICO120-83D-N3350-CAN-DIO-DC</name>
+        <name lang="ru">ICO120-83D-N3350-CAN-DIO-DC</name>
     </names>
     <elementInformations>
         <elementInformation name="unity" show="1"></elementInformation>
@@ -26,8 +17,7 @@
         <elementInformation name="comment" show="1"></elementInformation>
         <elementInformation name="plant" show="1"></elementInformation>
     </elementInformations>
-    <informations>Author: The QElectroTech team
-License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <informations>Author:</informations>
     <description>
         <text text="PE" x="24" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="-14"/>
         <text text="-" x="8" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="-14"/>
