@@ -1,0 +1,25 @@
+<definition version="0.100.0" width="100" type="element" link_type="simple" height="10" hotspot_x="45" hotspot_y="3">
+    <uuid uuid="{5a072f56-5e99-415c-8e67-dd5af83848d5}"/>
+    <names>
+        <name lang="en">Receptable Housing 2x2</name>
+        <name lang="ru">Receptable Housing 2x2</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430250400</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Receptacle Housing, Dual Row, 4 Circuits, UL 94V-0, Low-Halogen, Black</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" end1="none" y2="0" end2="none" antialias="false" x1="-40" x2="50"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="4" end1="none" y2="4" end2="none" antialias="false" x1="-40" x2="50"/>
+    </description>
+</definition>

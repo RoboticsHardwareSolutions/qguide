@@ -1,0 +1,12 @@
+<definition type="element" link_type="simple" hotspot_x="-6" hotspot_y="2" width="10" height="20" version="0.100.0">
+    <uuid uuid="{ac3ee594-8ef2-4187-bfc2-4eb2c8a4e119}"/>
+    <names>
+        <name lang="en">GCAN 4056</name>
+        <name lang="ru">GCAN 4056</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <terminal orientation="n" type="Generic" name="" uuid="{ba3a3cf2-f26a-49d4-b5bd-284c46ca46e3}" x="10" y="5"/>
+    </description>
+</definition>

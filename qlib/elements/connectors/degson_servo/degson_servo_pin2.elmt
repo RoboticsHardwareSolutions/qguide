@@ -1,0 +1,26 @@
+<definition height="10" type="element" link_type="simple" hotspot_x="18" version="0.100.0" hotspot_y="5" width="30">
+    <uuid uuid="{c1a7833f-19bb-4e79-9374-a1ef6a7274b5}"/>
+    <names>
+        <name lang="en">DGFA-02 Servo Connector ferrules conductor</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Servo Connector ferrules conductor</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">DGFA-02</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Degson</elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" y1="-3" length1="1.5" y2="0" length2="1.5" x1="6" x2="3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" y1="0" length1="1.5" y2="3" length2="1.5" x1="3" x2="6" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end1="none" end2="none" y1="0" length1="1.5" y2="0" length2="1.5" x1="-6" x2="3" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="-10" y="0" orientation="w" type="Generic" name="" uuid="{012d2661-574e-46c1-82ed-db2561fe8fe7}"/>
+    </description>
+</definition>

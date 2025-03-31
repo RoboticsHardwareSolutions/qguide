@@ -1,0 +1,27 @@
+<definition width="10" hotspot_x="3" hotspot_y="60" type="element" height="230" link_type="simple" version="0.100.0">
+    <uuid uuid="{7f6d51a8-af9a-4948-aaf8-41186902e4f1}"/>
+    <names>
+        <name lang="en">Receptacle Housing 2x5 </name>
+        <name lang="ru">Receptacle Housing 2x5 </name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="description">Micro-Fit 3.0 Receptacle Housing, Dual Row, 10 Circuits, UL 94V-0, Low-Halogen, Black</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Molex</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="designation">430251000</elementInformation>
+        <elementInformation show="1" name="comment">Alternative Parts  430251008 / 430251010</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" y1="-55" length1="1.5" y2="55" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" antialias="false"/>
+        <line end1="none" end2="none" y1="55" length1="1.5" y2="165" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3" x2="3" antialias="false"/>
+        <line end1="none" end2="none" y1="55" length1="1.5" y2="165" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" antialias="false"/>
+        <line end1="none" end2="none" y1="-55" length1="1.5" y2="55" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3" x2="3" antialias="false"/>
+    </description>
+</definition>

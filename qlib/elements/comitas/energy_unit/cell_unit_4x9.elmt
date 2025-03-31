@@ -1,0 +1,46 @@
+<definition link_type="master" hotspot_x="25" hotspot_y="33" width="50" type="element" height="50" version="0.100.0">
+    <uuid uuid="{2b2a90a6-a8e6-490d-bb28-15e461c1698a}"/>
+    <names>
+        <name lang="en">Cell Unit 4x9</name>
+        <name lang="ru">Cell Unit 4x9</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="description">LTO battery Cell Unit 4x9 </elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Comitas</elementInformation>
+        <elementInformation show="1" name="designation">Cell Unir 4x9</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="6" length1="1.5" y2="6" length2="1.5" x1="-13" x2="14"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="9" length2="1.5" x1="-13" x2="14"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="14" length1="1.5" y2="10" length2="1.5" x1="-14" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="10" length1="1.5" y2="14" length2="1.5" x1="-10" x2="-6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="14" length1="1.5" y2="10" length2="1.5" x1="6" x2="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="10" length1="1.5" y2="14" length2="1.5" x1="10" x2="14"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="4" length1="1.5" y2="10" length2="1.5" x1="-10" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="4" length1="1.5" y2="10" length2="1.5" x1="10" x2="10"/>
+        <rect rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-20" y="-30" width="40" height="34"/>
+        <dynamic_text Valignment="AlignTop" x="30" keep_visual_rotation="false" y="5" z="10" Halignment="AlignLeft" frame="false" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{34972e36-d778-420f-a0b3-1d2b8e4ad2c1}">
+            <text>Cell Unir 4x9</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" x="30" keep_visual_rotation="false" y="-15" z="11" Halignment="AlignLeft" frame="false" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{17b34dc6-74b8-4d00-8034-1b8f031b904f}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:red" antialias="false" end1="none" end2="none" y1="-2" length1="1.5" y2="-2" length2="1.5" x1="-12" x2="-8"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:red" antialias="false" end1="none" end2="none" y1="-4" length1="1.5" y2="0" length2="1.5" x1="-10" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:blue" antialias="false" end1="none" end2="none" y1="-2" length1="1.5" y2="-2" length2="1.5" x1="8" x2="12"/>
+    </description>
+</definition>

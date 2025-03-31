@@ -1,0 +1,33 @@
+<definition type="element" width="110" link_type="simple" version="0.100.0" hotspot_x="54" height="10" hotspot_y="1">
+    <uuid uuid="{81d24ecb-6e14-4a85-81ad-acc8683e17be}"/>
+    <names>
+        <name lang="en">Receptacle Housing 1x5</name>
+        <name lang="ru">Receptacle Housing 1x5</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Receptacle Housing, Single Row, 5 Circuits, UL 94V-0, Black</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">436450500</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="5.5" x1="-48.5391" x2="51.4609" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" y1="5.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" rotation="0" uuid="{bca47a47-aa23-4de6-bf1a-b22a88ab15d5}" x="46.4609" Valignment="AlignTop" y="-4.5" z="2" keep_visual_rotation="false" text_from="ElementInfo" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="0.5" x1="-48.5391" x2="51.4609" end1="none" end2="none" length1="1.5" length2="1.5" antialias="false" y1="0.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" frame="false" rotation="0" uuid="{d7fa1305-dc04-46f4-b6b1-dad398df9d34}" x="46.4609" Valignment="AlignTop" y="15.5" z="3" keep_visual_rotation="false" text_from="ElementInfo" Halignment="AlignLeft">
+            <text>436450500</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

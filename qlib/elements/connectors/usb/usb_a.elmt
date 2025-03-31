@@ -1,0 +1,45 @@
+<definition link_type="thumbnail" hotspot_x="68" hotspot_y="15" width="130" type="element" height="50" version="0.100.0">
+    <uuid uuid="{96e155dc-3b39-4eab-ac21-2647263c2f71}"/>
+    <names>
+        <name lang="en">USB Type A</name>
+    </names>
+    <kindInformations/>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="-8" y2="28" x1="54.75" x2="54.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="28" y2="28" x1="24.75" x2="54.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="-8" y2="-8" x1="24.75" x2="54.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="-8" y2="28" x1="23.75" x2="23.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <rect antialias="false" x="39.75" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" width="5" height="10"/>
+        <rect antialias="false" x="39.75" y="15" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" width="5" height="10"/>
+        <line y1="-8" y2="-10" x1="23.75" x2="23.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="28" y2="30" x1="23.75" x2="23.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="30" y2="30" x1="23.75" x2="1.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="-10" y2="-10" x1="23.75" x2="1.75" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <arc antialias="true" x="-10.25" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="24" angle="90" height="20"/>
+        <arc antialias="true" x="-10.25" y="10" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" width="24" angle="90" height="20"/>
+        <line y1="0" y2="0" x1="-10.25" x2="-20.25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="20" y2="20" x1="-10.25" x2="-20.25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="20" y2="0" x1="-20.25" x2="-20.25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="10" y2="10" x1="-10.25" x2="17.75" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="4" y2="4" x1="4.75" x2="12.75" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="circle"/>
+        <line y1="15" y2="15" x1="8.75" x2="14.75" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="diamond"/>
+        <arc antialias="true" x="-2.25" y="4" style="line-style:normal;line-weight:hight;filling:none;color:black" start="90" width="12" angle="90" height="10"/>
+        <arc antialias="true" x="2.75" y="7" style="line-style:normal;line-weight:hight;filling:none;color:black" start="180" width="10" angle="90" height="8"/>
+        <line y1="10" y2="10" x1="-22.75" x2="-60.75" antialias="false" style="line-style:normal;line-weight:eleve;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <terminal name="" uuid="{e7ce0dda-9725-4e52-9366-19071228f87d}" x="-60" y="10" type="Generic" orientation="w"/>
+    </description>
+</definition>

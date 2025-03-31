@@ -1,0 +1,45 @@
+<definition type="element" height="30" link_type="simple" hotspot_x="20" hotspot_y="9" width="40" version="0.100.0">
+    <uuid uuid="{de5c87fd-7303-40a4-a416-a8b0fca2f812}"/>
+    <names>
+        <name lang="ru">XT60U-F</name>
+        <name lang="en">XT60U-F</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation">XT60U-F</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Amass</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">Силовой разъем Amass </elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line x2="14" end1="none" end2="none" antialias="false" length1="1.5" y1="6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="6" x1="-13"/>
+        <line x2="14" end1="none" end2="none" antialias="false" length1="1.5" y1="9" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="9" x1="-13"/>
+        <dynamic_text frame="false" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" x="20" y="38" rotation="0" text_from="CompositeText" Valignment="AlignTop" z="43" Halignment="AlignLeft">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" y1="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" x1="-14"/>
+        <line x2="-6" end1="none" end2="none" antialias="false" length1="1.5" y1="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="14" x1="-10"/>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" y1="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" x1="6"/>
+        <line x2="14" end1="none" end2="none" antialias="false" length1="1.5" y1="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="14" x1="10"/>
+        <line x2="-10" end1="none" end2="none" antialias="false" length1="1.5" y1="4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" x1="-10"/>
+        <line x2="10" end1="none" end2="none" antialias="false" length1="1.5" y1="4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" x1="10"/>
+        <dynamic_text frame="false" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" uuid="{8f4e173d-a11a-4fd9-b5ec-6024990ef251}" x="24" y="0" rotation="0" text_from="ElementInfo" Valignment="AlignTop" z="50" Halignment="AlignLeft">
+            <text>XT60U-F</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" uuid="{ef81b34e-c1cd-43e2-92cd-a9fa0f2e6ba0}" x="22" y="-28" rotation="0" text_from="ElementInfo" Valignment="AlignTop" z="51" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal type="Generic" name="" uuid="{fa86d7b4-16e5-47e0-9f69-80ad04421e31}" orientation="n" x="-10" y="0"/>
+        <terminal type="Generic" name="" uuid="{ce010c5e-ebfd-4ee8-95b5-000676374490}" orientation="n" x="10" y="0"/>
+    </description>
+</definition>

@@ -1,0 +1,17 @@
+<definition height="10" version="0.100.0" hotspot_x="95" hotspot_y="2" link_type="simple" width="340" type="element">
+    <uuid uuid="{d19d0f89-7e67-494a-81a3-a814dcb18f80}"/>
+    <names>
+        <name lang="en">Receptable Housing 2x8</name>
+        <name lang="ru">Receptable Housing 2x8</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="description">Micro-Fit 3.0 Receptacle Housing, Dual Row, 16 Circuits, UL 94V-0, Black</elementInformation>
+        <elementInformation show="1" name="designation">430251600</elementInformation>
+        <elementInformation show="1" name="manufacturer">Molex</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" antialias="false" length2="1.5" end1="none" y2="5" end2="none" y1="5" x1="-90" x2="240" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" length2="1.5" end1="none" y2="0" end2="none" y1="0" x1="-90" x2="240" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+    </description>
+</definition>

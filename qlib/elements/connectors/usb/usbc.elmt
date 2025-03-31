@@ -1,0 +1,62 @@
+<definition link_type="thumbnail" hotspot_x="39" hotspot_y="69" width="80" type="element" height="150" version="0.100.0">
+    <uuid uuid="{33d3104c-ac5f-4f2a-95b6-f1743befa4eb}"/>
+    <names>
+        <name lang="en">USB type C</name>
+        <name lang="ru">USB type C</name>
+    </names>
+    <kindInformations/>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y1="40" y2="-5" x1="36" x2="36" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="71" y2="39" x1="29" x2="29" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <dynamic_text rotation="0" uuid="{6212a4b9-bdd2-49df-b90d-f8609ecb5a4b}" x="-36" keep_visual_rotation="false" y="57" Valignment="AlignTop" z="2" Halignment="AlignLeft" text_from="ElementInfo" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <arc antialias="true" x="-22" y="68" style="line-style:normal;line-weight:hight;filling:none;color:black" start="180" width="6" angle="90" height="6"/>
+        <arc antialias="true" x="-22" y="68" style="line-style:normal;line-weight:hight;filling:none;color:black" start="90" width="6" angle="90" height="6"/>
+        <arc antialias="true" x="-26" y="64" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="14" angle="90" height="14"/>
+        <arc antialias="true" x="-26" y="64" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" width="14" angle="90" height="14"/>
+        <line y1="74" y2="74" x1="-18" x2="21" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="68" y2="68" x1="-18" x2="21" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <arc antialias="true" x="17" y="68" style="line-style:normal;line-weight:hight;filling:none;color:black" start="0" width="8" angle="90" height="6"/>
+        <arc antialias="true" x="19" y="68" style="line-style:normal;line-weight:hight;filling:none;color:black" start="270" width="6" angle="90" height="6"/>
+        <line y1="71" y2="71" x1="-19" x2="22" antialias="false" style="line-style:normal;line-weight:eleve;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <arc antialias="true" x="15" y="64" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="14" angle="90" height="14"/>
+        <arc antialias="true" x="15" y="64" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" width="14" angle="90" height="14"/>
+        <line y1="64" y2="64" x1="-18" x2="22" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="78" y2="78" x1="-19" x2="23" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <line y1="71" y2="39" x1="-26" x2="-26" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <arc antialias="true" x="-26" y="31" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="24" angle="90" height="16"/>
+        <arc antialias="true" x="7" y="31" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="22" angle="90" height="16"/>
+        <arc antialias="true" x="-49" y="31" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="68" angle="90" height="0"/>
+        <arc antialias="true" x="-34" y="30" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" width="16" angle="90" height="20"/>
+        <arc antialias="true" x="-34" y="25" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="30" angle="90" height="30"/>
+        <arc antialias="true" x="-19" y="25" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="80" angle="90" height="0"/>
+        <arc antialias="true" x="6" y="25" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="30" angle="90" height="30"/>
+        <arc antialias="true" x="22" y="30" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" width="14" angle="90" height="20"/>
+        <line y1="40" y2="-5" x1="-34" x2="-34" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <arc antialias="true" x="-34" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="20" angle="90" height="20"/>
+        <arc antialias="true" x="-24" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="100" angle="90" height="0"/>
+        <arc antialias="true" x="16" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="20" angle="90" height="20"/>
+        <arc antialias="true" x="-7" y="-55" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" width="0" angle="90" height="40"/>
+        <arc antialias="true" x="-7" y="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="10" angle="90" height="10"/>
+        <arc antialias="true" x="-3" y="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="10" angle="90" height="10"/>
+        <arc antialias="true" x="7" y="-55" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" width="0" angle="90" height="40"/>
+        <line y1="-42" y2="-66" x1="0" x2="0" antialias="false" style="line-style:normal;line-weight:eleve;filling:none;color:black" length1="1.5" length2="1.5" end1="none" end2="none"/>
+        <terminal name="" uuid="{abaec7fe-b27c-4c2e-8f9d-a4be8acfb11a}" x="0" y="-60" type="Generic" orientation="n"/>
+    </description>
+</definition>

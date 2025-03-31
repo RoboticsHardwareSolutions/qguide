@@ -1,0 +1,50 @@
+<definition link_type="slave" hotspot_x="65" hotspot_y="103" width="130" type="element" height="120" version="0.100.0">
+    <uuid uuid="{2eae84f9-6867-42d9-8c40-ab142986bc33}"/>
+    <names>
+        <name lang="en">Cell Unit 4x9 Temp Connector</name>
+        <name lang="ru">Cell Unit 4x9 Temp Connector</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text x="-27.9" color="#000000" y="-13" text="2 - DT3_N" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="49" color="#000000" y="-13" text="6 - DT1_N" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="12.1" color="#000000" y="-13" text="4 - DT2_N" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-8" color="#000000" y="-13" text="3 - DT2_P" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="6" x2="10"/>
+        <text x="32.9" color="#000000" y="-13" text="5 - DT1_P" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <dynamic_text Valignment="AlignTop" x="69" keep_visual_rotation="false" y="-58" z="6" Halignment="AlignLeft" frame="false" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{660ed822-9a39-4b05-a321-9a724639b1e8}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="-34" x2="-30"/>
+        <dynamic_text Valignment="AlignTop" x="69" keep_visual_rotation="false" y="-28" z="7" Halignment="AlignLeft" frame="false" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" rotation="0" uuid="{a526731d-e4d4-428f-a273-3addf5b16851}">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="-54" x2="-50"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="26" x2="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="-14" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="9" length1="1.5" y2="13" length2="1.5" x1="46" x2="50"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="-30" x2="-26"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="10" x2="14"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="-50" x2="-46"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="30" x2="34"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="-10" x2="-6"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="13" length1="1.5" y2="9" length2="1.5" x1="50" x2="54"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="10" x2="10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="-50" x2="-50"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="-30" x2="-30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="30" x2="30"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="-10" x2="-10"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="12" length1="1.5" y2="-5" length2="1.5" x1="50" x2="50"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="0" length1="1.5" y2="0" length2="1.5" x1="-55" x2="55"/>
+        <rect rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-60" y="-100" width="120" height="95"/>
+        <text x="-47" color="#000000" y="-82" text="Temperature Sensor&#xa;Connector" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text x="-44" color="#000000" y="-13" text="1 - DT3_P" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+    </description>
+</definition>

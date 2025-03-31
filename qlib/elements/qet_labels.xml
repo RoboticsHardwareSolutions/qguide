@@ -47,6 +47,15 @@
         <category name="plug">
             <prefix>XP</prefix>
         </category>
+        <category name="other">
+            <prefix>XP</prefix>
+        </category>
+
+        <category name="molex">
+               <category name="micro_fit_3"></category>
+                     <category name="crimp_terminal"></category>
+                     <prefix>CT</prefix>
+        </category>
     </category>
 
     <category name="electromecanicals">

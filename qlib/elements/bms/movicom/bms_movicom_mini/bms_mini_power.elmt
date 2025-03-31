@@ -1,0 +1,49 @@
+<definition height="80" hotspot_x="29" hotspot_y="36" link_type="master" type="element" version="0.100.0" width="60">
+    <uuid uuid="{46e783d5-135a-4297-a1af-adf46c837161}"/>
+    <names>
+        <name lang="en">BMS mini Power Connector</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="description" show="1">BMS mini Movicom 18 cell</elementInformation>
+        <elementInformation name="designation" show="1">BMS mini</elementInformation>
+        <elementInformation name="manufacturer" show="1">Movicom</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="36" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-13" end1="none" x2="-10" y1="39" antialias="false"/>
+        <text rotation="270" color="#000000" x="-8" y="22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="1 - VBAT+"/>
+        <text rotation="270" color="#000000" x="12" y="22" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="2 - VBAT-"/>
+        <line y2="36" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="7" end1="none" x2="10" y1="39" antialias="false"/>
+        <line y2="39" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="9.75" end1="none" x2="12.75" y1="36" antialias="false"/>
+        <line y2="39" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-10.25" end1="none" x2="-7.25" y1="36" antialias="false"/>
+        <line y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="10" end1="none" x2="10" y1="36" antialias="false"/>
+        <line y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-10" end1="none" x2="-10" y1="36" antialias="false"/>
+        <line y2="29" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-16" end1="none" x2="20" y1="29" antialias="false"/>
+        <line y2="32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-16" end1="none" x2="20" y1="32" antialias="false"/>
+        <line y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-24" end1="none" x2="-24" y1="-27" antialias="false"/>
+        <line y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-24" end1="none" x2="26" y1="25" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-24" end1="none" x2="-19" y1="-27" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-19" end1="none" x2="-14" y1="-32" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-14" end1="none" x2="-14" y1="-27" antialias="false"/>
+        <line y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-14" end1="none" x2="-4" y1="-27" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="-4" end1="none" x2="1" y1="-27" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="1" end1="none" x2="6" y1="-32" antialias="false"/>
+        <line y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="6" end1="none" x2="6" y1="-32" antialias="false"/>
+        <line y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="6" end1="none" x2="16" y1="-27" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="16" end1="none" x2="21" y1="-27" antialias="false"/>
+        <line y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="26" end1="none" x2="21" y1="-32" antialias="false"/>
+        <line y2="24" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" length2="1.5" x1="26" end1="none" x2="26" y1="-32" antialias="false"/>
+        <text rotation="0" color="#000000" x="-4" y="-12" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="X9"/>
+        <dynamic_text Valignment="AlignTop" frame="false" uuid="{07002baa-da91-43e7-807b-243e5098e7ea}" rotation="0" x="35" text_width="-1" y="-16" text_from="ElementInfo" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" z="42" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" frame="false" uuid="{c0bd6300-9a2f-40f7-b547-64fc5b718bd7}" rotation="0" x="40" text_width="-1" y="0" text_from="ElementInfo" Halignment="AlignLeft" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" z="43" keep_visual_rotation="false">
+            <text>BMS mini </text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

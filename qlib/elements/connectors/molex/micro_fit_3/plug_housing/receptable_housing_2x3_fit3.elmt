@@ -1,0 +1,27 @@
+<definition type="element" width="10" link_type="simple" hotspot_x="2" height="140" hotspot_y="35" version="0.100.0">
+    <uuid uuid="{7302a73e-48bb-4468-9266-01ec3734b729}"/>
+    <names>
+        <name lang="en">Plug Housing 2x3 (wire to wire)</name>
+        <name lang="ru">Plug Housing 2x3 (wire to wire)</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Micro-Fit 3.0 Plug Housing, Dual Row, 6 Circuits, UL 94V-0, Low-Halogen, Black</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Molex</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">430200601</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line y2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x1="5" end2="none" x2="5" length1="1.5" length2="1.5" antialias="false" y1="35"/>
+        <line y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" antialias="false" y1="-30"/>
+        <line y2="100" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x1="0" end2="none" x2="0" length1="1.5" length2="1.5" antialias="false" y1="35"/>
+        <line y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x1="5" end2="none" x2="5" length1="1.5" length2="1.5" antialias="false" y1="-30"/>
+    </description>
+</definition>

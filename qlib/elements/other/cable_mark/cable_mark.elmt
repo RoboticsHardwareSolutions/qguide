@@ -1,5 +1,5 @@
-<definition type="element" width="30" height="10" link_type="simple" hotspot_x="15" hotspot_y="5" version="0.100.0">
-    <uuid uuid="{4cdf8f3a-d922-47d4-bef0-05ce8986fda9}"/>
+<definition height="20" version="0.100.0" width="30" link_type="simple" hotspot_x="15" type="element" hotspot_y="10">
+    <uuid uuid="{aaa9b1a0-e60b-4e69-9cca-66a3ad7703aa}"/>
     <names>
         <name lang="en">Cable Mark</name>
         <name lang="ru">Кабель с артикулом</name>
@@ -8,16 +8,16 @@
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <line y1="0" y2="0" end1="none" end2="none" x1="-10.8483" x2="9.91885" length1="1.5" length2="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line y1="-2" y2="2" end1="none" end2="none" x1="-2" x2="2" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text font="Sans Serif,8,-1,5,25,0,0,0,0,0" keep_visual_rotation="false" frame="false" Valignment="AlignTop" Halignment="AlignLeft" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" x="-28" y="9.5" text_width="-1" z="3" rotation="0" text_from="ElementInfo">
-            <text></text>
-            <info_name>label</info_name>
-        </dynamic_text>
-        <dynamic_text font="Sans Serif,6,-1,5,25,0,0,0,0,0" keep_visual_rotation="false" frame="false" Valignment="AlignTop" Halignment="AlignLeft" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" x="-43" y="-3.5" text_width="-1" z="3" rotation="0" text_from="ElementInfo">
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" y2="0" antialias="false" x1="-10.8483" end1="none" x2="9.91885" end2="none"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-4" y2="4" antialias="true" x1="-5" end1="none" x2="4" end2="none"/>
+        <dynamic_text z="3" rotation="0" Valignment="AlignTop" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" Halignment="AlignLeft" text_width="-1" frame="false" font="Sans Serif,6,-1,5,25,0,0,0,0,0" keep_visual_rotation="false" x="-43" text_from="ElementInfo" y="-3.5">
             <text></text>
             <info_name>designation</info_name>
             <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text z="3" rotation="0" Valignment="AlignTop" uuid="{5a768451-4454-4fa1-8044-2e07fa6a8d1e}" Halignment="AlignLeft" text_width="-1" frame="false" font="Sans Serif,8,-1,5,25,0,0,0,0,0" keep_visual_rotation="false" x="-28" text_from="ElementInfo" y="9.5">
+            <text></text>
+            <info_name>label</info_name>
         </dynamic_text>
     </description>
 </definition>
