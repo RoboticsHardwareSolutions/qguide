@@ -1,0 +1,59 @@
+<definition width="90" link_type="simple" type="element" hotspot_x="36" height="90" version="0.90" hotspot_y="82">
+    <uuid uuid="{aefcbc49-1e33-496a-82b5-b915266b2fa2}"/>
+    <names>
+        <name lang="ru">UTP-5e</name>
+        <name lang="en">UTP-5e</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">ParLan</elementInformation>
+        <elementInformation show="1" name="designation">121718</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">ParLan U/UTP Cat5e PVC 4х2х0,52</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="EIA/TIA-568B" y="-30" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-5"/>
+        <text text="6" y="-20.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="3" y="-50.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="2" y="-60.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="5" y="-30.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="8" y="-0.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="7" y="-10.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="4" y="-40.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="1" y="-70.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <line y1="-70" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-60" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-50" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-40" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-30" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-20" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="-10" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <line y1="0" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-35.55" length2="1.5" length1="1.5" x1="-26"/>
+        <text text="UTP-5e" y="-39" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="2"/>
+        <line y1="-35" x2="44" end1="none" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" y2="-35" length2="1.5" length1="1.5" x1="-11"/>
+        <dynamic_text Halignment="AlignLeft" y="-66" uuid="{98db8670-7731-46d5-9f12-e1a9a438a19b}" Valignment="AlignTop" z="25" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-12" frame="false">
+            <text>121718</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text Halignment="AlignLeft" y="-82" uuid="{5e461e1c-b872-41b8-ab20-f24d852e0ad6}" Valignment="AlignTop" z="43" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-8" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="-20" uuid="{975a60df-08fb-43b1-9039-93ff80611aeb}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="0" uuid="{48c55e4f-302f-4d6b-821b-1caaf60eaec6}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-60" uuid="{db6c9484-b9b8-46c5-957f-2ca94f1a3c3a}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-35" uuid="{dc210324-ea9a-40bb-875f-cdd604b1fa51}" type="Generic" name="" x="46" orientation="e"/>
+        <terminal y="-70" uuid="{04453a8e-51d7-4c70-9750-24a12eace482}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-40" uuid="{dc6be3ee-64a1-48da-9e9f-f6d4078226ab}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-30" uuid="{8cce6b82-bde7-4766-ab52-be5883d99a71}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-10" uuid="{afa92dbe-d96a-4639-a4eb-96707fa4420c}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-50" uuid="{709cbea8-463f-43a4-be6b-621000269ef9}" type="Generic" name="" x="-30" orientation="w"/>
+    </description>
+</definition>

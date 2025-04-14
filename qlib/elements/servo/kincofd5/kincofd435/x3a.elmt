@@ -1,0 +1,48 @@
+<definition width="80" link_type="slave" hotspot_x="47" height="90" hotspot_y="45" version="0.90" type="element">
+    <uuid uuid="{876399b0-bbfc-401c-bdc8-455931173b7e}"/>
+    <names>
+        <name lang="ru">X3A</name>
+        <name lang="en">X3A</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,11,-1,5,50,0,0,0,0,0" rotation="270" y="15" x="20" text="X3A" color="#6a6a6a"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="34" x="-20" text="PE" color="#000000"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-7" x="-20" text="V" color="#000000"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="14" x="-20" text="W" color="#000000"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-27" x="-20" text="U" color="#000000"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="34" x="-33" text="4" color="#000000"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-7" x="-33" text="2" color="#000000"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" y="-13" x="-43"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="14" x="-33" text="3" color="#000000"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" y="-33" x="-43"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" y="7" x="-43"/>
+        <circle antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6" y="27" x="-43"/>
+        <text font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-27" x="-33" text="1" color="#000000"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-40" length1="1.5" y1="-27" length2="1.5" y2="-13" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-40" length1="1.5" y1="-7" length2="1.5" y2="7" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-40" length1="1.5" y1="13" length2="1.5" y2="27" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="30" length1="1.5" y1="-40" length2="1.5" y2="-40" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-40" length1="1.5" y1="-33" length2="1.5" y2="-40" end2="none"/>
+        <line x1="30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="30" length1="1.5" y1="-40" length2="1.5" y2="40" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="30" length1="1.5" y1="40" length2="1.5" y2="40" end2="none"/>
+        <line x1="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" x2="-40" length1="1.5" y1="40" length2="1.5" y2="33" end2="none"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" y="-66.5" Halignment="AlignLeft" x="-39" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" z="42" text_from="CompositeText" frame="false" keep_visual_rotation="false" text_width="-1" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" rotation="0" y="-86.5" Halignment="AlignLeft" x="-39" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" z="43" text_from="CompositeText" frame="false" keep_visual_rotation="false" text_width="-1" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal y="10" x="-42" uuid="{3516891c-25aa-421a-9b9c-d0e0504491b3}" orientation="w" type="Generic" name=""/>
+        <terminal y="-30" x="-42" uuid="{5dd85ffa-5859-464d-be4d-6b6d9f913765}" orientation="w" type="Generic" name=""/>
+        <terminal y="-10" x="-42" uuid="{4d117715-4569-4c84-bffd-e200a67ab018}" orientation="w" type="Generic" name=""/>
+        <terminal y="30" x="-42" uuid="{966c4621-ef92-4e8e-af6b-ab0d22965d7d}" orientation="w" type="Generic" name=""/>
+    </description>
+</definition>
