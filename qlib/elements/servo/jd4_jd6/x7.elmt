@@ -1,5 +1,5 @@
-<definition version="0.90" width="50" type="element" height="180" link_type="slave" hotspot_x="15" hotspot_y="84">
-    <uuid uuid="{26fbaa99-8f7c-463e-b6cd-5e5c9fee13ea}"/>
+<definition hotspot_y="72" height="170" type="element" hotspot_x="15" link_type="slave" width="50" version="0.90">
+    <uuid uuid="{a60e4947-9922-4fa6-ae04-05f751d2bc6c}"/>
     <names>
         <name lang="ru">X7A</name>
         <name lang="en">X7A</name>
@@ -11,49 +11,60 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-2" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="48" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-12" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="78" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-52" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-42" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="18" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="38" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="28" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="68" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="58" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="8" antialias="false"/>
-        <circle x="-10" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-32" antialias="false"/>
-        <text x="0" text="COMI1" y="-27" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN1" y="-17" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="OUT7-" y="82" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN4" y="13" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="GNDS" y="-37" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN2" y="-7" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN3" y="3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="OUT7+" y="72" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN7" y="53" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN5" y="33" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN6" y="43" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="DIN8" y="62" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="0" text="COMI2" y="23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="-1" text="24VS" y="-47" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <rect ry="0" x="-8" width="40" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-67" rx="0" height="160" antialias="false"/>
-        <text x="5" text="X7A" y="-70" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <terminal x="-10" y="-30" uuid="{a5193326-56fb-4f51-9191-8af6ac2ea972}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="60" uuid="{f2d90bef-ed9c-41dd-816a-043c0faad127}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="0" uuid="{a2bf7a5f-8a82-4ad9-b0c8-bc0f68cfc4d5}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="50" uuid="{91510fee-4cb9-4246-b82a-6a402b67d838}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="-40" uuid="{bb836dd7-7ee7-4e30-8d05-9c7e28b48fa2}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="-50" uuid="{9822bcfe-2cda-449f-97b6-6dba3417fe85}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="20" uuid="{b3363c17-51a1-4683-8e83-6e47e6b2ce5f}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="-20" uuid="{2fbb77c7-7adb-4716-b2bc-46536c520606}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="30" uuid="{d3f44cfa-d076-484c-958c-dd4f3409de04}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="-10" uuid="{58800c3e-2049-4db7-b5d7-8c0c77982af3}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="10" uuid="{16a93bd8-41ae-46fb-87f1-bf275f0761f1}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="70" uuid="{4f5fd7f4-9317-45ed-aefe-879bb1c38615}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="80" uuid="{484fd3b3-dc4f-4736-918b-b6080398646e}" type="Generic" name="" orientation="w"/>
-        <terminal x="-10" y="40" uuid="{93da68ea-a672-4ee9-be1a-9b9dcdb28d52}" type="Generic" name="" orientation="w"/>
+        <circle diameter="4" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="48" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="78" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="-52" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="-42" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="18" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="38" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="68" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="-22" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="58" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <circle diameter="4" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false"/>
+        <text y="-27" text="COMI1" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-17" text="DIN1" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="82" text="OUT7-" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="13" text="DIN4" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-37" text="GNDS" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-7" text="DIN2" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="3" text="DIN3" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="72" text="OUT7+" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="53" text="DIN7" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="33" text="DIN5" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="43" text="DIN6" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="62" text="DIN8" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="23" text="COMI2" color="#000000" rotation="0" x="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text y="-47" text="24VS" color="#000000" rotation="0" x="-1" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <rect y="-67" height="160" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-8" width="40" antialias="false" rx="0"/>
+        <dynamic_text y="8.5" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" z="42" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="36" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-11.5" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" z="43" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="36" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-71.2128" uuid="{bd976182-0d14-4824-9b93-c383e0c69467}" z="44" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="-0.0248452" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_from="UserText">
+            <text>X7A</text>
+            <color>#6a6a6a</color>
+        </dynamic_text>
+        <terminal y="50" uuid="{91510fee-4cb9-4246-b82a-6a402b67d838}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="10" uuid="{16a93bd8-41ae-46fb-87f1-bf275f0761f1}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="40" uuid="{93da68ea-a672-4ee9-be1a-9b9dcdb28d52}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="80" uuid="{484fd3b3-dc4f-4736-918b-b6080398646e}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="60" uuid="{f2d90bef-ed9c-41dd-816a-043c0faad127}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="-10" uuid="{58800c3e-2049-4db7-b5d7-8c0c77982af3}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="-20" uuid="{2fbb77c7-7adb-4716-b2bc-46536c520606}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="-50" uuid="{9822bcfe-2cda-449f-97b6-6dba3417fe85}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="20" uuid="{b3363c17-51a1-4683-8e83-6e47e6b2ce5f}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="-40" uuid="{bb836dd7-7ee7-4e30-8d05-9c7e28b48fa2}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="-30" uuid="{a5193326-56fb-4f51-9191-8af6ac2ea972}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="0" uuid="{a2bf7a5f-8a82-4ad9-b0c8-bc0f68cfc4d5}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="30" uuid="{d3f44cfa-d076-484c-958c-dd4f3409de04}" type="Generic" orientation="w" name="" x="-10"/>
+        <terminal y="70" uuid="{4f5fd7f4-9317-45ed-aefe-879bb1c38615}" type="Generic" orientation="w" name="" x="-10"/>
     </description>
 </definition>

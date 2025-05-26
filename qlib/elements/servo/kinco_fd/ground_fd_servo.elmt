@@ -1,8 +1,8 @@
-<definition link_type="slave" hotspot_x="20" hotspot_y="7" height="50" type="element" version="0.100.0" width="40">
-    <uuid uuid="{1637cd0b-8dcc-4545-a13f-2248af1b8da2}"/>
+<definition hotspot_y="7" height="50" type="element" hotspot_x="20" link_type="slave" width="40" version="0.90">
+    <uuid uuid="{a6c27f82-854a-44f6-a1fb-0a7ff95725dc}"/>
     <names>
-        <name lang="en">GND</name>
         <name lang="ru">GND</name>
+        <name lang="en">GND</name>
     </names>
     <kindInformations>
         <kindInformation name="type">simple</kindInformation>
@@ -11,12 +11,22 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <line antialias="false" y1="15" y2="15" x1="-10" x2="10" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
-        <line antialias="false" y1="1.5" y2="14.5" x1="0" x2="0" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
-        <line antialias="false" y1="18" y2="18" x1="-7" x2="7" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
-        <line antialias="false" y1="21" y2="21" x1="-4" x2="4" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
-        <line antialias="false" y1="24" y2="24" x1="0.5" x2="-0.5" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none"/>
-        <arc antialias="true" height="30" x="-16" y="7" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="32" angle="360"/>
-        <terminal uuid="{0f5de08a-c75e-44cd-82a6-c6be4060f87a}" x="0" y="0" type="Generic" orientation="n" name=""/>
+        <line x2="10" end1="none" x1="-10" length1="1.5" length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="15" y2="15" antialias="false"/>
+        <line x2="0" end1="none" x1="0" length1="1.5" length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="1.5" y2="14.5" antialias="false"/>
+        <line x2="7" end1="none" x1="-7" length1="1.5" length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="18" y2="18" antialias="false"/>
+        <line x2="4" end1="none" x1="-4" length1="1.5" length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" y2="21" antialias="false"/>
+        <line x2="-0.5" end1="none" x1="0.5" length1="1.5" length2="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="24" y2="24" antialias="false"/>
+        <arc y="7" angle="360" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-16" width="32" start="0" antialias="true"/>
+        <dynamic_text y="15.25" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" z="42" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="19" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo">
+            <text></text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-4.25" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" z="43" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="19" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal y="0" uuid="{0f5de08a-c75e-44cd-82a6-c6be4060f87a}" type="Generic" orientation="n" name="" x="0"/>
     </description>
 </definition>
