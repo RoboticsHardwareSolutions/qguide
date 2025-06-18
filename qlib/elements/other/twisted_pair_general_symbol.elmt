@@ -1,0 +1,25 @@
+<definition version="0.100.0" height="30" type="element" link_type="simple" hotspot_x="54" width="80" hotspot_y="14">
+    <uuid uuid="{a2a527f5-e59b-464a-99d9-b27dcad93710}"/>
+    <names>
+        <name lang="en">Twisted Pair Symbol</name>
+        <name lang="ru">Twisted Pair Symbol</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="-10" y2="10" x1="-40" x2="-20" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="10" y2="10" x1="-45" x2="-40" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="10" y2="-10" x1="-40" x2="-20" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="-10" y2="-10" x1="-20" x2="-10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="-10" y2="10" x1="-10" x2="10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="10" y2="10" x1="-20" x2="-10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="10" y2="-10" x1="-10" x2="10" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="-10" y2="-10" x1="-45" x2="-40" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="-10" y2="-10" x1="10" x2="16" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <line y1="10" y2="10" x1="10" x2="16" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" length2="1.5" end2="none" antialias="false"/>
+        <terminal name="" uuid="{c6c85039-ce06-4363-83c4-2d430114e912}" x="20" orientation="e" y="-10" type="Generic"/>
+        <terminal name="" uuid="{9e82f415-3470-4084-96cb-f430fca01c6e}" x="-50" orientation="w" y="-10" type="Generic"/>
+        <terminal name="" uuid="{8438a8aa-7b3c-41d0-a658-731d80184c06}" x="20" orientation="e" y="10" type="Generic"/>
+        <terminal name="" uuid="{133a3da8-751d-4ec7-a02b-b2607baeb113}" x="-50" orientation="w" y="10" type="Generic"/>
+    </description>
+</definition>

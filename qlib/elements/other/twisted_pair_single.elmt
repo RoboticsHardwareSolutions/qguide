@@ -1,0 +1,47 @@
+<definition height="40" width="90" link_type="simple" hotspot_x="44" version="0.100.0" hotspot_y="31" type="element">
+    <uuid uuid="{a7d0949c-80ff-430e-838a-4c42029e89b5}"/>
+    <names>
+        <name lang="en">Twisted Pair Single</name>
+        <name lang="ru">Twisted Pair Single</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">3120001899</elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">FLEXICORE</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Кабель FLEXICORE BUS CAN 1x2x0,22 3120001899</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <ellipse height="23" y="-25" width="10" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" x="20"/>
+        <line end2="none" length1="1.5" y1="-20" length2="1.5" y2="-20" antialias="false" x1="-35" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-20" length2="1.5" y2="-10" antialias="false" x1="-30" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-10" length2="1.5" y2="-10" antialias="false" x1="-10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-10" length2="1.5" y2="-20" antialias="false" x1="10" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-10" length2="1.5" y2="-20" antialias="false" x1="-30" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-20" length2="1.5" y2="-20" antialias="false" x1="-10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-20" length2="1.5" y2="-10" antialias="false" x1="10" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-10" length2="1.5" y2="-10" antialias="false" x1="-35" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-10" length2="1.5" y2="-10" antialias="false" x1="30" x2="35" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-20" length2="1.5" y2="-20" antialias="false" x1="30" x2="35" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <ellipse height="23" y="-25" width="10" antialias="false" style="line-style:dashed;line-weight:thin;filling:none;color:black" x="-30"/>
+        <line end2="none" length1="1.5" y1="-25" length2="1.5" y2="-25" antialias="false" x1="-25" x2="25" style="line-style:dotted;line-weight:thin;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-2" length2="1.5" y2="-2" antialias="false" x1="-25" x2="25" style="line-style:dotted;line-weight:thin;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-2" length2="1.5" y2="0" antialias="false" x1="-25" x2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-2" length2="1.5" y2="0" antialias="false" x1="25" x2="36" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <circle y="-3" diameter="2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-26"/>
+        <circle y="-3" diameter="2" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="24"/>
+        <terminal y="-10" name="" uuid="{fa7318d9-c22b-4866-852a-2383b85cbb41}" orientation="w" type="Generic" x="-40"/>
+        <terminal y="-20" name="" uuid="{3e069381-f821-4c14-8239-d8c6497154f8}" orientation="w" type="Generic" x="-40"/>
+        <terminal y="0" name="" uuid="{3cbdf0f9-2d61-48b5-97f9-f57007c15fb7}" orientation="e" type="Generic" x="40"/>
+        <terminal y="-10" name="" uuid="{429fc69f-032b-4a38-9d1e-25ead1f85965}" orientation="e" type="Generic" x="40"/>
+        <terminal y="-20" name="" uuid="{a6324e13-12e0-4414-83f5-28a34d778a78}" orientation="e" type="Generic" x="40"/>
+        <terminal y="0" name="" uuid="{7dc81595-834c-4829-8ddc-2855d48303bb}" orientation="w" type="Generic" x="-40"/>
+    </description>
+</definition>

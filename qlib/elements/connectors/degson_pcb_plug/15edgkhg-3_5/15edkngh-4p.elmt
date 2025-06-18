@@ -1,0 +1,51 @@
+<definition height="30" width="70" link_type="simple" hotspot_x="54" version="0.100.0" hotspot_y="8" type="element">
+    <uuid uuid="{e867cabd-e957-4e43-bd92-02600515bfe8}"/>
+    <names>
+        <name lang="en">15EDGKNHG-3.5-04P</name>
+        <name lang="ru">15EDGKNHG-3.5-04P</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1">15EDGKNHG-3.5-04P</elementInformation>
+        <elementInformation name="manufacturer" show="1">Degson</elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="description" show="1">Pluggable Terminal Blocksnominal current9.5A.Rated voltage(Ⅱ/2)：320V,pitch:3.5mm,Color:green,Contact surface:Tin</elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line end2="none" length1="1.5" y1="2.25" length2="1.5" y2="-0.75" antialias="false" x1="7.4922" x2="10.4922" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="2.25" length2="1.5" y2="-0.75" antialias="false" x1="-32.5" x2="-29.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-0.75" length2="1.5" y2="2.25" antialias="false" x1="10.4922" x2="13.4922" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="2.25" length2="1.5" y2="-0.75" antialias="false" x1="-12.5" x2="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="2.25" length2="1.5" y2="-0.75" antialias="false" x1="-52.5" x2="-49.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="13.25" length2="1.5" y2="0.25" antialias="false" x1="10.4922" x2="10.4922" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="4.25" length2="1.5" y2="4.25" antialias="false" x1="-49.5078" x2="10.4922" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-0.75" length2="1.5" y2="2.25" antialias="false" x1="-9.5" x2="-6.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="6.25" length2="1.5" y2="6.25" antialias="false" x1="-49.5078" x2="10.4922" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="13.25" length2="1.5" y2="0.25" antialias="false" x1="-9.5" x2="-9.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-0.75" length2="1.5" y2="2.25" antialias="false" x1="-49.5" x2="-46.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="-0.75" length2="1.5" y2="2.25" antialias="false" x1="-29.5" x2="-26.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="13.25" length2="1.5" y2="0.25" antialias="false" x1="-29.5" x2="-29.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line end2="none" length1="1.5" y1="13.25" length2="1.5" y2="0.25" antialias="false" x1="-49.5" x2="-49.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text y="0" z="25" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" Halignment="AlignLeft" uuid="{54146f8c-a958-4788-95da-50831844a381}" keep_visual_rotation="false" text_width="-1" rotation="0" text_from="ElementInfo" x="20">
+            <text>15EDGKNHG-3.5-04P</text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-20" z="26" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" frame="false" Halignment="AlignLeft" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" keep_visual_rotation="false" text_width="-1" rotation="0" text_from="ElementInfo" x="25">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal y="13.25" name="" uuid="{f4650e8b-03e4-4981-983d-49b43c52b48a}" orientation="s" type="Generic" x="10.4922"/>
+        <terminal y="13.25" name="" uuid="{f0b1815d-2afe-435f-84d1-c9e419273fea}" orientation="s" type="Generic" x="-29.5"/>
+        <terminal y="13.25" name="" uuid="{c12e2219-67ac-4795-9b55-42c5c39c8e37}" orientation="s" type="Generic" x="-49.5"/>
+        <terminal y="13.25" name="" uuid="{c7c1f88c-e0a7-41c5-aeb5-d77f24aa11cd}" orientation="s" type="Generic" x="-9.5"/>
+    </description>
+</definition>

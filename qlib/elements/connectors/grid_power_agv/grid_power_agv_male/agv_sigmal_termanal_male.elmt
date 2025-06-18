@@ -1,0 +1,36 @@
+<definition type="element" version="0.100.0" width="10" link_type="simple" hotspot_x="5" hotspot_y="21" height="30">
+    <uuid uuid="{a6da433d-6454-4e99-9e95-7c81c628dd80}"/>
+    <names>
+        <name lang="en">Z20YAUM Signal Terminal</name>
+        <name lang="ru">Z20YAUM Signal Terminal</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Grid Power</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Z20YAUM Signal Terminal</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation">Z20YAUM</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" y1="-11" y2="-14" x1="-3" end1="none" x2="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-14" y2="-11" x1="0" end1="none" x2="3" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="0" y2="-13" x1="0" end1="none" x2="0" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" x="10" y="-20" uuid="{1640ef0e-7d5c-4342-a5c8-90b708c32e4c}" z="19" frame="false" keep_visual_rotation="true" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" x="10" y="0" uuid="{86e781c0-16bd-4a4b-a30f-9a10f10e022d}" z="21" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text>Z20YAUM</text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <terminal type="Generic" orientation="s" name="" x="0" y="0" uuid="{b91c52f8-ba6c-44dc-88fd-353022dfc6a8}"/>
+    </description>
+</definition>

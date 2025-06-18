@@ -1,0 +1,33 @@
+<definition type="element" version="0.100.0" width="130" link_type="simple" hotspot_x="65" hotspot_y="4" height="10">
+    <uuid uuid="{dd728b8a-50d8-4ff4-b1ff-cce1ddad54ad}"/>
+    <names>
+        <name lang="en">92401-01 Connector Case</name>
+        <name lang="ru">92401-01 Connector Case</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Grid Power</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">92401-01 Connector Case</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation">92401-01</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" y1="0" y2="0" x1="-60" end1="none" x2="60" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="2" y2="2" x1="-60" end1="none" x2="60" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" rotation="0" x="76" y="-30" uuid="{5fb07122-ffd6-412b-9eb5-4ac54d75a65e}" z="3" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" x="76" y="-8" uuid="{c09d95ed-8a22-4870-9b13-564d09658922}" z="4" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text>92402-11</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>
