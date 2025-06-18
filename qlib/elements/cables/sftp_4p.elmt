@@ -1,0 +1,65 @@
+<definition width="80" link_type="simple" type="element" hotspot_x="36" height="100" version="0.90" hotspot_y="52">
+    <uuid uuid="{d713561b-9a77-40fb-87e8-9ea61d204d67}"/>
+    <names>
+        <name lang="ru">SFTP 4P</name>
+        <name lang="en">SFTP 4P</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">ParLan</elementInformation>
+        <elementInformation show="1" name="designation">100013</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Кабель ParLan F/UTP Cat5e PVC 4х2х0,52</elementInformation>
+        <elementInformation show="1" name="unity">m</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <ellipse y="-33" width="5" style="line-style:dashed;line-weight:normal;filling:none;color:HTMLGraySilver" antialias="false" height="54" x="-21"/>
+        <text text="EIA/TIA-568B" y="0" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-4"/>
+        <line y1="-32.7891" x2="-10.8318" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:HTMLGraySilver;color:HTMLGraySilver" antialias="false" y2="-6.4508" length2="1.5" length1="1.5" x1="-18.3401"/>
+        <line y1="21" x2="-11.3333" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:HTMLGraySilver;color:HTMLGraySilver" antialias="false" y2="-5.56379" length2="1.5" length1="1.5" x1="-18"/>
+        <text text="6" y="9" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="3" y="-21" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="2" y="-31" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="5" y="-1" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="8" y="29" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="7" y="19" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="4" y="-11" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="1" y="-41" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <line y1="-40" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="-30" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="-20" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="-10" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="0" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="10" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="20" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <line y1="30" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-25"/>
+        <text text="SFTP" y="-8" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="6"/>
+        <line y1="22.7564" x2="-26.1146" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGraySilver" antialias="false" y2="39.7564" length2="1.5" length1="1.5" x1="-19.1146"/>
+        <line y1="-6" x2="34" end1="none" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" y2="-6" length2="1.5" length1="1.5" x1="-11"/>
+        <text text="Screen" y="38" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-30"/>
+        <dynamic_text Halignment="AlignLeft" y="-32" uuid="{98db8670-7731-46d5-9f12-e1a9a438a19b}" Valignment="AlignTop" z="25" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-7" frame="false">
+            <text>100013</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text Halignment="AlignLeft" y="-49" uuid="{5e461e1c-b872-41b8-ab20-f24d852e0ad6}" Valignment="AlignTop" z="43" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-5" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="-20" uuid="{f0334d59-737d-4553-a1f1-6b248a4a2d59}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="20" uuid="{18cb5b89-d3fe-482a-afe0-362510fe9e91}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-6" uuid="{6af1863c-0f28-4861-8562-25fe503768b0}" type="Generic" name="" x="36" orientation="e"/>
+        <terminal y="30" uuid="{84230706-1f86-4b76-a807-cedbd3090879}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="40" uuid="{d22a107a-0ff0-477e-bcc3-5b2d30901730}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-30" uuid="{7808e531-9280-402e-a2e2-7ba9c145984b}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="10" uuid="{bc64bb7b-26cb-47b6-9f4f-aeab68339e4d}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="0" uuid="{600ccb36-7c1e-4e66-85bc-48fc390b731d}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-40" uuid="{1c4707f4-fd2b-4785-80c2-adf67f61a424}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-10" uuid="{36a5d9b3-c57c-4eae-8660-3a6cffe13744}" type="Generic" name="" x="-30" orientation="w"/>
+    </description>
+</definition>

@@ -1,8 +1,8 @@
-<definition link_type="slave" hotspot_x="6" hotspot_y="45" height="90" type="element" version="0.100.0" width="40">
-    <uuid uuid="{6aa9491d-172e-4e8d-b77c-e8892d5c855f}"/>
+<definition hotspot_y="45" height="90" type="element" hotspot_x="6" link_type="slave" width="40" version="0.90">
+    <uuid uuid="{353d3f5c-cb48-441c-83c6-caac729926dc}"/>
     <names>
-        <name lang="en">X2A</name>
         <name lang="ru">X2A</name>
+        <name lang="en">X2A</name>
     </names>
     <kindInformations>
         <kindInformation name="type">simple</kindInformation>
@@ -11,19 +11,32 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <circle diameter="4" antialias="false" x="0" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text x="9" text="PE" y="32" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
-        <text x="8" text="W" y="13" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
-        <text x="8" text="V" y="-8" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
-        <circle diameter="4" antialias="false" x="0" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <circle diameter="4" antialias="false" x="0" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <circle diameter="4" antialias="false" x="0" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect antialias="false" height="80" x="2" y="-40" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="28"/>
-        <text x="8" text="U" y="-24" rotation="0" color="#000000" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
-        <text x="20" text="X2A" y="-5" rotation="90" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
-        <terminal uuid="{affd318d-3797-4065-b7ef-b41fc3c33184}" x="0" y="10" type="Generic" orientation="w" name=""/>
-        <terminal uuid="{30ba2a8f-9e27-42b6-9b3e-fca017b0763e}" x="0" y="30" type="Generic" orientation="w" name=""/>
-        <terminal uuid="{37b146b5-69e1-4d60-9cb2-6f3ce69ce372}" x="0" y="-30" type="Generic" orientation="w" name=""/>
-        <terminal uuid="{8545030a-b407-4d78-9057-52c14805fb8d}" x="0" y="-10" type="Generic" orientation="w" name=""/>
+        <circle diameter="4" y="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false"/>
+        <text y="32" text="PE" color="#000000" rotation="0" x="9" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text y="13" text="W" color="#000000" rotation="0" x="8" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <text y="-8" text="V" color="#000000" rotation="0" x="8" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <circle diameter="4" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false"/>
+        <circle diameter="4" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false"/>
+        <circle diameter="4" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false"/>
+        <rect y="-40" height="80" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="2" width="28" antialias="false" rx="0"/>
+        <text y="-24" text="U" color="#000000" rotation="0" x="8" font="Sans Serif,5,-1,5,50,0,0,0,0,0"/>
+        <dynamic_text y="-1.75" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" z="42" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="32" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo">
+            <text></text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-21.25" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" z="43" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="32" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="10" uuid="{bd976182-0d14-4824-9b93-c383e0c69467}" z="44" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="270" x="14" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_from="UserText">
+            <text>X2A</text>
+            <color>#6a6a6a</color>
+        </dynamic_text>
+        <terminal y="-30" uuid="{37b146b5-69e1-4d60-9cb2-6f3ce69ce372}" type="Generic" orientation="w" name="" x="0"/>
+        <terminal y="30" uuid="{30ba2a8f-9e27-42b6-9b3e-fca017b0763e}" type="Generic" orientation="w" name="" x="0"/>
+        <terminal y="-10" uuid="{8545030a-b407-4d78-9057-52c14805fb8d}" type="Generic" orientation="w" name="" x="0"/>
+        <terminal y="10" uuid="{affd318d-3797-4065-b7ef-b41fc3c33184}" type="Generic" orientation="w" name="" x="0"/>
     </description>
 </definition>

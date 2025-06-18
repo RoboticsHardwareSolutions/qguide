@@ -1,0 +1,33 @@
+<definition type="element" hotspot_x="19" hotspot_y="1" height="20" link_type="simple" width="40" version="0.90">
+    <uuid uuid="{7c32e09d-130e-4127-93cb-f2b0b1fd32dc}"/>
+    <names>
+        <name lang="ru">PCAN-miniPCIe Single Channel</name>
+        <name lang="en">PCAN-miniPCIe Single Channel</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">PEAK</elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="description" show="1">PCAN-miniPCIe Single Channel</elementInformation>
+        <elementInformation name="designation" show="1">IPEH-003048</elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect x="-17" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" y="4" height="10" antialias="false" width="35"/>
+        <text x="-16" text="CAN ADAPTER" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="11" rotation="0" color="#000000"/>
+        <dynamic_text frame="false" x="-16" text_from="CompositeText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" Valignment="AlignTop" z="42" Halignment="AlignLeft" y="-19.5" rotation="0" text_width="-1" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text frame="false" x="-16" text_from="CompositeText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" Valignment="AlignTop" z="43" Halignment="AlignLeft" y="-39.5" rotation="0" text_width="-1" keep_visual_rotation="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>
