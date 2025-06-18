@@ -1,0 +1,65 @@
+<definition width="80" link_type="simple" type="element" hotspot_x="46" height="100" version="0.90" hotspot_y="52">
+    <uuid uuid="{bdc9028c-948d-48ca-ad1a-1ed6a7fa4722}"/>
+    <names>
+        <name lang="ru">SFTP 4P mirror</name>
+        <name lang="en">SFTP 4P mirror</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">ParLan</elementInformation>
+        <elementInformation show="1" name="designation">100013</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">Кабель ParLan F/UTP Cat5e PVC 4х2х0,52</elementInformation>
+        <elementInformation show="1" name="unity">m</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <ellipse y="-32.7" width="5" style="line-style:dashed;line-weight:normal;filling:none;color:HTMLGraySilver" antialias="false" height="54" x="-31"/>
+        <text text="EIA/TIA-568B" y="0.3" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-14"/>
+        <line y1="-32.4891" x2="-20.8318" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:HTMLGraySilver;color:HTMLGraySilver" antialias="false" y2="-6.1508" length2="1.5" length1="1.5" x1="-28.3401"/>
+        <line y1="21.3" x2="-21.3333" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:HTMLGraySilver;color:HTMLGraySilver" antialias="false" y2="-5.26379" length2="1.5" length1="1.5" x1="-28"/>
+        <text text="3" y="9.3" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="6" y="-20.7" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="7" y="-30.7" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="4" y="-0.7" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="1" y="29.3" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="2" y="19.3" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="5" y="-10.7" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <text text="8" y="-40.7" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-39"/>
+        <line y1="-40" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="-30" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="-20" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="-10" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="0" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="10" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="20" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <line y1="30" x2="-21" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-36"/>
+        <text text="SFTP" y="-7.7" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-4"/>
+        <line y1="23.0564" x2="-36.1146" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGraySilver" antialias="false" y2="40.0564" length2="1.5" length1="1.5" x1="-29.1146"/>
+        <line y1="-5.7" x2="24" end1="none" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" y2="-5.7" length2="1.5" length1="1.5" x1="-21"/>
+        <text text="Screen" y="38.3" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-40"/>
+        <dynamic_text Halignment="AlignLeft" y="-35" uuid="{98db8670-7731-46d5-9f12-e1a9a438a19b}" Valignment="AlignTop" z="25" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-16" frame="false">
+            <text>100013</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text Halignment="AlignLeft" y="-52" uuid="{5e461e1c-b872-41b8-ab20-f24d852e0ad6}" Valignment="AlignTop" z="43" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-12" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="-20" uuid="{b7decb7b-f026-403c-a72a-718fcf3d58fe}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="20" uuid="{04148924-d10a-4a1c-9250-dd817ddb04f5}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="40" uuid="{d4754f87-2d8c-4fbf-8629-0f9c51409dd8}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="10" uuid="{b825a849-f806-40a9-8b89-ae41f2db7844}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="30" uuid="{91ff3a84-c5b9-4fb2-9ab1-5a9ffc49b081}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="-40" uuid="{2f2ee08b-c713-4f4e-831c-e1a6f2b04e1f}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="-10" uuid="{7abb22bf-82c7-47ef-aeec-395ae720c706}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="-5.7" uuid="{a8a32ef4-da07-4add-9074-c6bbbe63e4cc}" type="Generic" name="" x="26" orientation="e"/>
+        <terminal y="-30" uuid="{a0f4dc39-be5a-4a07-b07a-27283f5b77f0}" type="Generic" name="" x="-40" orientation="w"/>
+        <terminal y="0" uuid="{86097514-05ab-4422-b99b-72cdbce1f277}" type="Generic" name="" x="-40" orientation="w"/>
+    </description>
+</definition>

@@ -1,0 +1,53 @@
+<definition width="90" link_type="master" type="element" hotspot_x="45" height="90" version="0.90" hotspot_y="45">
+    <uuid uuid="{62c8b519-a1b2-4fe9-b734-ccee55f87950}"/>
+    <names>
+        <name lang="ru">Power</name>
+        <name lang="en">Power</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">IRZ</elementInformation>
+        <elementInformation show="1" name="designation">RL21W</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">4G Modem</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="1" y="-20" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-20"/>
+        <text text="3" y="23.2552" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-17.1354"/>
+        <text text="2" y="-19" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="12"/>
+        <text text="4" y="23.2917" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="12.7031"/>
+        <text text="O-" y="-5.28125" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-21.5625"/>
+        <text text="GND" y="11.5469" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-27.0469"/>
+        <text text="O+" y="-4.4375" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="7.8125"/>
+        <text text="U+" y="11.5469" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="7.95313"/>
+        <rect rx="0" y="-30" width="60" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" height="60" ry="0" x="-30"/>
+        <line y1="-30" x2="0" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="30" length2="1.5" length1="1.5" x1="0"/>
+        <line y1="0" x2="30" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="0" length2="1.5" length1="1.5" x1="-30"/>
+        <line y1="30" x2="-10" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="40" length2="1.5" length1="1.5" x1="-10"/>
+        <line y1="40" x2="10" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="40" length2="1.5" length1="1.5" x1="-10"/>
+        <line y1="30" x2="10" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="40" length2="1.5" length1="1.5" x1="10"/>
+        <rect rx="0" y="-40" width="80" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" height="80" ry="0" x="-40"/>
+        <dynamic_text Halignment="AlignLeft" y="3.5" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" Valignment="AlignTop" z="42" rotation="0" text_width="-1" text_from="CompositeText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="41" frame="false">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text Halignment="AlignLeft" y="-16.5" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" Valignment="AlignTop" z="43" rotation="0" text_width="-1" text_from="CompositeText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="41" frame="false">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <terminal y="-35" uuid="{0627a8c0-f4d5-4dde-948a-c1895c7f0cbb}" type="Generic" name="" x="20" orientation="n"/>
+        <terminal y="35" uuid="{751863b5-3054-43a6-a5e8-881c5c8c9cbb}" type="Generic" name="" x="-20" orientation="s"/>
+        <terminal y="-35" uuid="{5ac5af95-807c-4a18-97fd-b74fcc5e84c0}" type="Generic" name="" x="-20" orientation="n"/>
+        <terminal y="35" uuid="{59437b6a-c3c3-4a55-82cf-70ebad052f5c}" type="Generic" name="" x="20" orientation="s"/>
+    </description>
+</definition>

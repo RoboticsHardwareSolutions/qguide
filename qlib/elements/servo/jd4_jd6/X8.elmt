@@ -1,7 +1,8 @@
-<definition version="0.90" width="50" type="element" height="100" link_type="slave" hotspot_x="37" hotspot_y="37">
-    <uuid uuid="{caa78c31-7182-4680-b435-1332544b8c9f}"/>
+<definition hotspot_y="27" height="90" type="element" hotspot_x="37" link_type="slave" width="50" version="0.90">
+    <uuid uuid="{41fecb4a-8a51-406e-ac39-6366755294c5}"/>
     <names>
         <name lang="ru">X10</name>
+        <name lang="en">X10</name>
     </names>
     <kindInformations>
         <kindInformation name="type">simple</kindInformation>
@@ -10,19 +11,30 @@
     </kindInformations>
     <informations></informations>
     <description>
-        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="48" antialias="false"/>
-        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-12" antialias="false"/>
-        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="28" antialias="false"/>
-        <circle x="-30" diameter="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y="8" antialias="false"/>
-        <text x="-15" text="X8" y="-25" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="720" color="#000000"/>
-        <text x="-21" text="PE" y="53" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="-21" text="W" y="33" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="-20" text="U" y="-6" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <text x="-20" text="V" y="13" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000"/>
-        <rect ry="0" x="-28" width="35" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-22" rx="0" height="80" antialias="false"/>
-        <terminal x="-30" y="50" uuid="{5cdc8cef-d559-478f-ab72-fa923f20aef2}" type="Generic" name="" orientation="w"/>
-        <terminal x="-30" y="10" uuid="{838d05ab-98be-4c00-8a1d-eb4c62cafc1d}" type="Generic" name="" orientation="w"/>
-        <terminal x="-30" y="-10" uuid="{eb58611e-c0a1-4e89-882c-c8ad2abed30a}" type="Generic" name="" orientation="w"/>
-        <terminal x="-30" y="30" uuid="{1f15810d-2075-461d-a490-9ce7a985342e}" type="Generic" name="" orientation="w"/>
+        <circle diameter="4" y="48" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false"/>
+        <circle diameter="4" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false"/>
+        <circle diameter="4" y="28" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false"/>
+        <circle diameter="4" y="8" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-30" antialias="false"/>
+        <text y="53" text="PE" color="#000000" rotation="0" x="-21" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text y="33" text="W" color="#000000" rotation="0" x="-21" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text y="-6" text="U" color="#000000" rotation="0" x="-20" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <text y="13" text="V" color="#000000" rotation="0" x="-20" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect y="-22" height="80" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-28" width="35" antialias="false" rx="0"/>
+        <dynamic_text y="18.5" uuid="{f77fc55e-9cd8-4514-80b7-acfd46a4c5d3}" z="42" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="16" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="-1.5" uuid="{79444aa0-25b4-43d9-af37-1baa74aea2a7}" z="43" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="0" x="16" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="CompositeText">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text y="27" uuid="{bd976182-0d14-4824-9b93-c383e0c69467}" z="44" frame="false" Halignment="AlignLeft" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" rotation="270" x="-7" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" text_from="UserText">
+            <text>X8</text>
+            <color>#6a6a6a</color>
+        </dynamic_text>
+        <terminal y="50" uuid="{5cdc8cef-d559-478f-ab72-fa923f20aef2}" type="Generic" orientation="w" name="" x="-30"/>
+        <terminal y="-10" uuid="{eb58611e-c0a1-4e89-882c-c8ad2abed30a}" type="Generic" orientation="w" name="" x="-30"/>
+        <terminal y="30" uuid="{1f15810d-2075-461d-a490-9ce7a985342e}" type="Generic" orientation="w" name="" x="-30"/>
+        <terminal y="10" uuid="{838d05ab-98be-4c00-8a1d-eb4c62cafc1d}" type="Generic" orientation="w" name="" x="-30"/>
     </description>
 </definition>

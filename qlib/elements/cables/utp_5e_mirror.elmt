@@ -1,0 +1,59 @@
+<definition width="90" link_type="simple" type="element" hotspot_x="37" height="90" version="0.90" hotspot_y="42">
+    <uuid uuid="{aba40308-ea85-4f86-b5cc-04b972a5dc78}"/>
+    <names>
+        <name lang="ru">UTP-5e mirror</name>
+        <name lang="en">UTP-5e mirror</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer">ParLan</elementInformation>
+        <elementInformation show="1" name="designation">121718</elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="description">ParLan U/UTP Cat5e PVC 4х2х0,52</elementInformation>
+        <elementInformation show="1" name="unity">m</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <text text="EIA/TIA-568B" y="10" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="-5"/>
+        <text text="3" y="19.45" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="6" y="-10.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="7" y="-20.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="4" y="9.45" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="1" y="39.45" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="2" y="29.45" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="5" y="-0.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <text text="8" y="-30.55" rotation="0" font="Sans Serif,3,-1,5,50,0,0,0,0,0" color="#000000" x="-29"/>
+        <line y1="-29.9078" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.7144"/>
+        <line y1="-19.927" x2="-11.25" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.3" length2="1.5" length1="1.5" x1="-25.6798"/>
+        <line y1="-9.87684" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.7144"/>
+        <line y1="0.103967" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.6798"/>
+        <line y1="9.94615" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.8531"/>
+        <line y1="19.9616" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.7144"/>
+        <line y1="29.9771" x2="-11.25" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.3" length2="1.5" length1="1.5" x1="-25.8531"/>
+        <line y1="39.9925" x2="-11" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y2="4.45" length2="1.5" length1="1.5" x1="-25.6798"/>
+        <text text="UTP-5e" y="1" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" color="#000000" x="2"/>
+        <line y1="4" x2="44" end1="none" end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" y2="4" length2="1.5" length1="1.5" x1="-11"/>
+        <dynamic_text Halignment="AlignLeft" y="-25" uuid="{98db8670-7731-46d5-9f12-e1a9a438a19b}" Valignment="AlignTop" z="25" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-10" frame="false">
+            <text>121718</text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <dynamic_text Halignment="AlignLeft" y="-45" uuid="{5e461e1c-b872-41b8-ab20-f24d852e0ad6}" Valignment="AlignTop" z="43" rotation="0" text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false" x="-5" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal y="40" uuid="{1c2e3d6d-30d2-4acf-a6bf-331bd32a453c}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="30" uuid="{140d7a08-60d0-45d8-8dbb-4013c1c58359}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="20" uuid="{f114a8b2-8826-4b9a-92a6-5e2092ccd62e}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="4" uuid="{d8ec19c8-f883-4c34-93bc-cbdd4a8f2bab}" type="Generic" name="" x="45" orientation="e"/>
+        <terminal y="-30" uuid="{0f12e2e5-09c1-46b2-bf0e-663ad06e7539}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-20" uuid="{d4730a98-528c-48c3-922d-21e229775aec}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="0" uuid="{7b14ec7e-ee72-4d1d-8555-03264d9d9e2e}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="10" uuid="{3f0c9aff-9f6a-4fa4-8854-8aedbd4dcd1e}" type="Generic" name="" x="-30" orientation="w"/>
+        <terminal y="-10" uuid="{81e9dddd-b027-4d3c-87ec-4525e39feaa3}" type="Generic" name="" x="-30" orientation="w"/>
+    </description>
+</definition>
