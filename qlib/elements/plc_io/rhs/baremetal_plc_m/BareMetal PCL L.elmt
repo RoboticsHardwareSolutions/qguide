@@ -1,0 +1,99 @@
+<definition height="210" link_type="slave" hotspot_x="35" width="310" hotspot_y="144" version="0.100.0" type="element">
+    <uuid uuid="{31591d69-3659-4018-bc4b-91984de643e2}"/>
+    <names>
+        <name lang="en">BareMetal PLC M  - X2</name>
+        <name lang="ru">BareMetal PLC M  - X2</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text color="#000000" text="9 GND" x="77" y="29" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="CAN" x="18" y="12" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <dynamic_text Valignment="AlignTop" Halignment="AlignLeft" x="243" y="-163" frame="false" z="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" text_width="-1" rotation="0" uuid="{6212a4b9-bdd2-49df-b90d-f8609ecb5a4b}" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text Valignment="AlignTop" Halignment="AlignLeft" x="83" y="-163" frame="false" z="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" text_width="-1" rotation="0" uuid="{6212a4b9-bdd2-49df-b90d-f8609ecb5a4b}" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text color="#000000" text="RS422" x="12" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text color="#000000" text="RS485" x="178" y="-80" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text color="#000000" text=" 4  RS422 TX+ Y" x="18" y="-130" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="RS232" x="174" y="10" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text color="#000000" text="13  RS422 TX- Z" x="-2" y="-130" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="X2" x="108" y="-20" font="Sans Serif,15,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text color="#000000" text="14  RS422 RX+ B" x="59" y="-131" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="BareMetal PLC M" x="79.5297" y="-39.95" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <text color="#000000" text=" 3  RS422 RX- A" x="38" y="-131" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="58" y="-140"/>
+        <text color="#000000" text="Robotics Hardware Solutions" x="57.5297" y="-52.95" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="38" y="-140"/>
+        <text color="#000000" text="1 CAN H" x="-3" y="23" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="58" x2="43" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="42" x2="58" end1="none" end2="none"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="62" x2="158" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="-2" y="56"/>
+        <text color="#000000" text="15 CAN L" x="58" y="21" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="22" x2="38" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="18" y="-140"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="78" y="56"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="-2" y="-140"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="18" x2="3" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="38" y="56"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="62" x2="78" end1="none" end2="none"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="22" x2="38" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="2" x2="18" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="18" y="56"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="58" y="56"/>
+        <text color="#000000" text="8 GND" x="200" y="30" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="12 RS485 B" x="219" y="-131" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="16 CAN H" x="37" y="20" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="2 CAN L" x="17" y="23" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="11 RS485 A" x="198" y="-132" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="10 RS232 RX" x="178.2" y="15" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="7 RS232 TX" x="157" y="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="218" y="-140"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="182" x2="198" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="198" y="-140"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="178" y="56"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="218" x2="203" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="158" y="56"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="222" x2="270" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="162" x2="178" end1="none" end2="none"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="198" y="56"/>
+        <text color="#000000" text="5 RS485 B" x="178" y="-130" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <text color="#000000" text="6 RS485 A" x="157" y="-131" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="90"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="178" y="-140"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="4" x="158" y="-140"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="178" x2="163" end1="none" end2="none"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="182" x2="198" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="82" x2="130" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="270" x2="270" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-2" x2="-30" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-30" x2="-30" end1="none" end2="none"/>
+        <line y1="-138" length1="1.5" y2="-138" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="-2" x2="-30" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="158" x2="62" end1="none" end2="none"/>
+        <line y1="58" length1="1.5" y2="58" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x1="202" x2="270" end1="none" end2="none"/>
+        <terminal orientation="n" type="Generic" x="40" y="-140" name="" uuid="{8e8dd843-a192-4178-9958-d677de31ab91}"/>
+        <terminal orientation="n" type="Generic" x="0" y="-140" name="" uuid="{355a894c-a163-4742-a610-8db7a3a1b829}"/>
+        <terminal orientation="n" type="Generic" x="20" y="-140" name="" uuid="{2ca6a246-8a00-48b7-82e6-297e60899218}"/>
+        <terminal orientation="n" type="Generic" x="60" y="-140" name="" uuid="{d8bf1b23-f006-4169-874e-1befe649faa7}"/>
+        <terminal orientation="s" type="Generic" x="60" y="60" name="" uuid="{efe243d7-ff9f-4390-9e02-047e88096f58}"/>
+        <terminal orientation="s" type="Generic" x="80" y="60" name="" uuid="{67e72f30-6c25-4482-8ff1-8beb4525e8b2}"/>
+        <terminal orientation="s" type="Generic" x="200" y="60" name="" uuid="{a653c62a-12da-4d1f-b811-5618cc666084}"/>
+        <terminal orientation="s" type="Generic" x="180" y="60" name="" uuid="{9f79f811-fe9f-40b0-8fd5-eb3d9d13778b}"/>
+        <terminal orientation="s" type="Generic" x="160" y="60" name="" uuid="{43648b6f-4259-42f0-87ab-c8c321b14b86}"/>
+        <terminal orientation="n" type="Generic" x="180" y="-140" name="" uuid="{647bd995-5188-4205-af4a-c73b1b7ba334}"/>
+        <terminal orientation="n" type="Generic" x="220" y="-140" name="" uuid="{23f5cc9b-705d-4e58-a4e9-ce2409866490}"/>
+        <terminal orientation="s" type="Generic" x="40" y="60" name="" uuid="{3e0f3956-89b2-4495-b3c0-648ba41949d1}"/>
+        <terminal orientation="n" type="Generic" x="200" y="-140" name="" uuid="{32fa7dbf-b377-4598-be2b-c47c52d584f9}"/>
+        <terminal orientation="s" type="Generic" x="20" y="60" name="" uuid="{f08090f0-aa6f-408b-8456-2331a1df9163}"/>
+        <terminal orientation="n" type="Generic" x="160" y="-140" name="" uuid="{93b1d83a-4666-4fd8-a55c-b473c2b6fd6c}"/>
+        <terminal orientation="s" type="Generic" x="0" y="60" name="" uuid="{26fe7391-cf63-445c-bd4c-43bd1f91315f}"/>
+    </description>
+</definition>
