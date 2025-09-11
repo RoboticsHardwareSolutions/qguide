@@ -1,0 +1,62 @@
+<definition hotspot_x="55" hotspot_y="37" type="element" version="0.100.0" width="90" height="80" link_type="slave">
+    <uuid uuid="{c2a7478b-a940-4943-b4ea-aabcba95baa0}"/>
+    <names>
+        <name lang="en">C12  Payload IO Connector</name>
+        <name lang="ru">C12  Payload IO Connector</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <text text="2 GND REG3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="-17.465" y="20.5" rotation="270"/>
+        <text text="4 24V REG3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="21.535" y="19.5" rotation="270"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="37.5" y2="34.5" x1="-42.465" x2="-39.465"/>
+        <text text="1 GND REG3" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="-37.465" y="19.5" rotation="270"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="37.5" y2="34.5" x1="-2.715" x2="0.285"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-28.5" x1="16.535" x2="26.535"/>
+        <text text="3 QST" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="2.535" y="19.5" rotation="270"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-28.5" x1="-3.465" x2="6.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="37.5" y2="34.5" x1="18.035" x2="21.035"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="37.5" y2="34.5" x1="-22.465" x2="-19.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="37.5" x1="0.035" x2="3.035"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="26.535" x2="31.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="6.535" x2="11.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="37.5" x1="20.785" x2="23.785"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="37.5" x1="-19.715" x2="-16.715"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="23.5" x1="0.285" x2="0.285"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-33.5" x1="16.535" x2="11.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="23.5" x1="21.035" x2="21.035"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-28.5" x1="16.535" x2="16.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="37.5" x1="-39.715" x2="-36.715"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="23.5" x1="-19.465" x2="-19.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="34.5" y2="23.5" x1="-39.465" x2="-39.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="26.5" y2="26.5" x1="-45.465" x2="25.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="28.5" y2="28.5" x1="-45.465" x2="25.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="-53.465" x2="-48.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-33.5" x1="-48.465" x2="-43.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="-43.465" x2="-43.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-28.5" x1="-43.465" x2="-33.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="-33.465" x2="-28.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-33.5" x1="-28.465" x2="-23.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-28.5" x1="-23.465" x2="-23.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-28.5" x1="-23.465" x2="-13.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="-33.5" x1="-13.465" x2="-8.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-33.5" x1="-3.465" x2="-8.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="-28.5" x1="-3.465" x2="-3.465"/>
+        <text text="C12&#xa;" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="-15.465" y="-21.5" rotation="0"/>
+        <dynamic_text text_width="-1" text_from="ElementInfo" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="57.965" y="-2" Halignment="AlignLeft" z="37" uuid="{d8878de8-11f4-4bf9-82f4-5b64ba3bc3ec}" frame="false" rotation="0" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" text_from="ElementInfo" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" x="54.355" y="18.75" Halignment="AlignLeft" z="38" uuid="{8861d7cc-0044-4d06-9318-f4f37718387e}" frame="false" rotation="0" keep_visual_rotation="false">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="23.5" y2="23.5" x1="31.535" x2="-52.465"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-33.5" y2="23.5" x1="31.535" x2="31.535"/>
+        <line antialias="false" length1="1.5" length2="1.5" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-28.5" y2="23.5" x1="-53.465" x2="-53.465"/>
+    </description>
+</definition>

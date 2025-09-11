@@ -1,0 +1,64 @@
+<definition height="90" version="0.100.0" link_type="simple" type="element" hotspot_x="107" hotspot_y="38" width="140">
+    <uuid uuid="{fd36ccd5-33ce-42a9-813e-fa1002109d54}"/>
+    <names>
+        <name lang="en">RFIDA02 RS485/RS232</name>
+        <name lang="ru">RFIDA02 RS485/RS232</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="manufacturer">China</elementInformation>
+        <elementInformation show="1" name="description">RFIDA02 RS485/RS232(TTL) UART 13,56 МГц RFID UID IC кардридер печатная плата</elementInformation>
+        <elementInformation show="1" name="supplier">https://aliexpress.ru/item/1005004969835515.html?spm=a2g2w.favourites.mywishlist.2.494d4aa6FSlBj0&amp;sku_id=12000031193853274</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="designation">RFIDA02 RS485</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="37" y2="37" x1="-99.3" x2="18"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="-30" x2="-28"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="10" x2="12"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="-50" x2="-48"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="-70" x2="-68"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="-10" x2="-8"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="8" x2="10"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="-52" x2="-50"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="-72" x2="-70"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="-32" x2="-30"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="-12" x2="-10"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="-70" x2="-70"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="-30" x2="-30"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="10" x2="10"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="-50" x2="-50"/>
+        <text x="11.7" text="5V" y="31" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="-10" x2="-10"/>
+        <dynamic_text uuid="{6c328b10-ed15-47fb-a52c-65c31e5c1a16}" keep_visual_rotation="false" x="45" y="5" Valignment="AlignTop" z="41" Halignment="AlignLeft" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" frame="false" text_from="ElementInfo" rotation="0" text_width="-1">
+            <text>RFIDA02 RS485</text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" keep_visual_rotation="false" x="40" y="-20" Valignment="AlignTop" z="42" Halignment="AlignLeft" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" frame="false" text_from="ElementInfo" rotation="0" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <text x="-8.3" text="GND" y="31" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-28.3" text="A" y="31" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="46" x1="-90" x2="-88"/>
+        <text x="-87" text="TXD" y="30" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-47.3" text="B" y="31" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <text x="-68.3" text="RXD" y="31" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="46" y2="49" x1="-92" x2="-90"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="41" y2="41" x1="-99.3" x2="18"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="-35" y2="34" x1="-105.3" x2="-105"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="34" y2="34" x1="-104.3" x2="30"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="-35" y2="-35" x1="-105" x2="30"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="49" y2="34" x1="-90" x2="-90"/>
+        <line length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end1="none" end2="none" y1="-35" y2="34" x1="30" x2="30"/>
+        <text x="-50" text="RFID" y="-11" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0"/>
+    </description>
+</definition>

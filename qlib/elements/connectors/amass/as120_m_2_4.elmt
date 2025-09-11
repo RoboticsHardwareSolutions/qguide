@@ -1,0 +1,63 @@
+<definition type="element" version="0.100.0" width="110" link_type="simple" hotspot_x="55" hotspot_y="11" height="30">
+    <uuid uuid="{3202759a-5626-4c6a-b9bc-d1414e1c2683}"/>
+    <names>
+        <name lang="en">AS120-M (2+4)</name>
+        <name lang="ru">AS120-M (2+4)</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="manufacturer">Amass</elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="description">Разъем Amass AS120-M (2+4) (вилка, 120А, желтый)</elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="designation">AS120-M (2+4)</elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="46.9922" end1="none" x2="49.9922" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="7" end1="none" x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="49.9922" end1="none" x2="52.9922" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="27" end1="none" x2="30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="-13" end1="none" x2="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="49.9922" end1="none" x2="49.9922" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="1" y2="1" x1="-10.0078" end1="none" x2="49.9922" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="30" end1="none" x2="33" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" rotation="0" x="60" y="0" uuid="{54146f8c-a958-4788-95da-50831844a381}" z="25" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text>AS120-M (2+4)</text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text text_from="ElementInfo" Halignment="AlignLeft" text_width="-1" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" rotation="0" x="65" y="-20" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" z="26" frame="false" keep_visual_rotation="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="-33" end1="none" x2="-30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="3" y2="3" x1="-10.0078" end1="none" x2="49.9922" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="30" end1="none" x2="30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="-10" end1="none" x2="-7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="1" y2="1" x1="-30" end1="none" x2="30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="-30" end1="none" x2="-27" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="3" y2="3" x1="-30" end1="none" x2="30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="10" end1="none" x2="13" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="10" end1="none" x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="-30" end1="none" x2="-30" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="-10" end1="none" x2="-10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-1" y2="-4" x1="-53" end1="none" x2="-50" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="-4" y2="-1" x1="-50" end1="none" x2="-47" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="10" y2="-3" x1="-50" end1="none" x2="-50" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="1" y2="1" x1="-50" end1="none" x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line length1="1.5" length2="1.5" y1="3" y2="3" x1="-50" end1="none" x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <terminal type="Generic" orientation="s" name="" x="10" y="10" uuid="{05ebf6b9-e9aa-404f-9609-68f683e5b53d}"/>
+        <terminal type="Generic" orientation="s" name="" x="30" y="10" uuid="{f4f1354c-3b1a-4ea6-8c66-128bed9020dc}"/>
+        <terminal type="Generic" orientation="s" name="" x="49.9922" y="10" uuid="{09aedb71-1a80-4767-9eef-2f23e6baa7a6}"/>
+        <terminal type="Generic" orientation="s" name="" x="-10" y="10" uuid="{791a45b2-47b4-490a-9dde-ff4757122af9}"/>
+        <terminal type="Generic" orientation="s" name="" x="-50" y="10" uuid="{7772dca4-8edb-41c4-b2b7-a4f8a285a53d}"/>
+        <terminal type="Generic" orientation="s" name="" x="-30" y="10" uuid="{9871d9a9-1157-4335-9de1-51ce26f7dcfc}"/>
+    </description>
+</definition>
