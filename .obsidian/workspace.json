@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "0766120022418249",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для index"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "qguide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из qguide"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,52 +142,57 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "qguide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура qguide"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "e4517bf74335655a",
   "lastOpenFiles": [
-    "qlib/elements/nonsort/fweuiyr.elmt",
-    "qlib/elements/ipc/MZ-77E25 copy.elmt",
-    "qlib/elements/ipc/MZ-77E25.elmt",
-    "qlib/elements/ipc/MZ-77E250B_KR.elmt",
-    "qlib/elements/bms/self_design/comitas_cell_measure.elmt",
-    "qlib/elements/bms/self_design/comitas_cell_measure.xml",
-    "qguide.md",
-    "el_specgen/~$output.docx",
-    "el_specgen/output.docx",
-    "el_specgen/subsequent.docx",
-    "el_specgen/schematics.docx",
-    "el_specgen/resized6_gorn_2.png",
-    "el_specgen/resized3_main_supply.png",
-    "el_specgen/resized2_connectors_list.png",
-    "el_specgen/resized7_ipc.png",
-    "el_specgen/resized4_digital_io.png",
-    "el_specgen/resized10_terminal_blocks.png",
-    "el_specgen/resized5_gorn_1.png",
-    "el_specgen/resized9_terminal_blocks.png",
-    "el_specgen/resized8_terminal_blocks.png",
-    "el_specgen/spec.docx",
-    "el_specgen/resized13_diagram.png",
+    "docs/site-lib/styles/obsidian.css",
+    "docs/site-lib/styles/main-styles.css",
+    "docs/site-lib/styles/global-variable-styles.css",
+    "docs/site-lib/scripts/webpage.js",
+    "docs/site-lib/media/favicon.png",
+    "docs/site-lib/media/6155340132a851f6089e.svg",
+    "docs/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/site-lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/site-lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/site-lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/site-lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/site-lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/attach/ресурс-1.bmp",
+    "docs/attach/win_qet_terminal_block_generator_v131.png",
+    "docs/attach/tb_real_example.jpeg",
+    "docs/attach/tb_real2_example.jpg",
+    "docs/attach/tb_example3.png",
+    "docs/attach/tb_example2.png",
+    "docs/attach/tb_example.png",
+    "docs/attach/tb4_example.png",
+    "index.md",
     "README.md",
     "attach/qguide 2024-05-10 17.25.29.excalidraw.md",
     "attach/qguide 2024-05-07 20.28.47.excalidraw.md",
