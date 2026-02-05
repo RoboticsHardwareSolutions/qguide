@@ -1,137 +1,123 @@
 import os
+from pathlib import Path
 
 
-def files_list_checker_doc(root_list):
+def _die(message: str) -> None:
+    # Единая точка выхода с сообщением об ошибке
+    print(message)
+    raise SystemExit(1)
+
+
+def _list_names(dir_path: Path) -> set[str]:
+    # Возвращает множество имён (файлы/папки) внутри директории
     try:
-        root_list.index("doc")
-    except ValueError:
-        print("Папка /doc отсутствует в корне репозитория")
+        return {p.name for p in dir_path.iterdir()}
+    except FileNotFoundError:
+        _die(f"Папка не найдена: {dir_path}")
+
+
+def _assert_required(names: set[str], required: set[str], message: str) -> None:
+    # Проверяем, что все обязательные элементы присутствуют
+    if not required.issubset(names):
+        _die(message)
+
+
+def _expect_exactly_one(names: set[str], predicate, message: str) -> str:
+    # Ищем ровно один файл по условию (например, один .qet / один .pdf / один .csv)
+    matches = [n for n in names if predicate(n)]
+    if len(matches) != 1:
+        _die(message)
+    return matches[0]
+
+
+def _expect_at_least(names: set[str], predicate, count: int, message: str) -> None:
+    # Проверяем, что файлов по условию не меньше заданного количества (например, минимум 3 превью .png)
+    matches = [n for n in names if predicate(n)]
+    if len(matches) < count:
+        _die(message)
+
+
+def _check_no_trash(where: str, names: set[str], allowed: set[str]) -> None:
+    # “Мусор” — всё, что не входит в белый список allowed
+    trash = sorted(names - allowed)
+    if trash:
+        print(f"В {where} репозитория содержится 'мусор' :")
+        print(trash)
         raise SystemExit(1)
 
 
-def files_list_checker_schematics_previews(root_list):
-    try:
-        root_list.index("schematic_previews")
-    except ValueError:
-        print("Папка /doc/schematic_previews отсутствует в корне репозитория")
-        raise SystemExit(1)
+def check_list(vault: str) -> None:
+    # vault — путь к корню репозитория (папка проекта)
+    vault_path = Path(vault)
+    doc_path = vault_path / "doc"
+    previews_path = doc_path / "schematic_previews"
 
+    # Проверка базовой структуры папок
+    root_names = _list_names(vault_path)
+    _assert_required(root_names, {"doc"}, "Папка /doc отсутствует в корне репозитория")
 
-def delete_if_found(root_list, name):
-    try:
-        index = root_list.index(name)
-    except ValueError:
-        index = None
-    if index is not None:
-        root_list.remove(name)
+    doc_names = _list_names(doc_path)
+    _assert_required(
+        doc_names,
+        {"schematic_previews"},
+        "Папка /doc/schematic_previews отсутствует в корне репозитория",
+    )
 
+    # В корне должен быть ровно один файл проекта .qet
+    project_file = _expect_exactly_one(
+        root_names,
+        lambda n: n.lower().endswith(".qet"),
+        "В корневой директории отсутствует файл проекта или содержится несколько проектов",
+    )
 
-def get_project_name(root_dir):
-    name = ""
-    found = 0
-    for i in root_dir:
-        if i.find(".QET") != -1 or i.find(".qet") != -1:
-            found += 1
-            name = i
-    if found == 1:
-        return name
-    else:
-        print("В корневой директории  отсутствует файл проекта или содержится несколько проектов")
-        raise SystemExit(1)
+    # В /doc должны быть ровно одна спецификация .csv и ровно один pdf схемы
+    spec_file = _expect_exactly_one(
+        doc_names,
+        lambda n: n.lower().endswith(".csv"),
+        "В директории /doc отсутствует файл спецификации или содержится несколько файлов",
+    )
 
+    pdf_file = _expect_exactly_one(
+        doc_names,
+        lambda n: n.lower().endswith(".pdf"),
+        "В директории /doc отсутствует файл схемы или содержится несколько файлов",
+    )
 
-def get_spec(spec_dir):
-    name = ""
-    found = 0
-    for i in spec_dir:
-        if i.find(".csv") != -1 or i.find(".CSV") != -1:
-            found += 1
-            name = i
-    if found == 1:
-        return name
-    else:
-        print("В  директории  /doc  остустствует файл спецификации или содержится несколько файлов")
-        raise SystemExit(1)
+    # В /doc/schematic_previews должно быть минимум 3 png
+    previews_names = _list_names(previews_path)
+    _expect_at_least(
+        previews_names,
+        lambda n: n.lower().endswith(".png"),
+        3,
+        "В директории /doc/schematic_previews отсутствуют превью листов схемы в формате .png",
+    )
 
+    # Белый список допустимых файлов/папок в корне
+    allowed_root = {
+        "doc",
+        project_file,
+        "README.md",
+        "Readme.md",
+        ".git",
+        ".gitlab-ci.yml",
+        ".gitignore",
+        ".DS_Store",
+        "simulation",
+        ".gitmodules",
+        "software",
+        "firmware",
+    }
+    _check_no_trash("корне", root_names, allowed_root)
 
-def check_previews(preview_dir):
-    name = ""
-    found = 0
-    for i in preview_dir:
-        if i.find(".png") != -1 or i.find(".PNG") != -1:
-            found += 1
-            name = i
-    if found >= 3:
-        return name
-    else:
-        print("В  директории  /doc/schematic_previews  остустствют превью листов схемы в формате .png")
-        raise SystemExit(1)
-
-
-def get_sch_pdf(doc_dir):
-    name = ""
-    found = 0
-    for i in doc_dir:
-        if i.find(".pdf") != -1 or i.find(".PDF") != -1:
-            found += 1
-            name = i
-    if found == 1:
-        return name
-    else:
-        print("В  директории  /doc  остустствует файл схемы или содержится несколько файлов")
-        raise SystemExit(1)
-
-
-def checker_trash_root(root_list):
-    root_list.remove("doc")
-    root_list.remove(get_project_name(root_list))
-    delete_if_found(root_list, 'README.md')
-    delete_if_found(root_list, 'Readme.md')
-    delete_if_found(root_list, '.git')
-    delete_if_found(root_list, '.gitlab-ci.yml')
-    delete_if_found(root_list, ".gitignore")
-    delete_if_found(root_list, '.DS_Store')
-    delete_if_found(root_list, 'simulation')
-    delete_if_found(root_list, '.gitmodules')
-    delete_if_found(root_list, 'software')
-    delete_if_found(root_list, "firmware")
-    if len(root_list) != 0:
-        print("В корне репозитория содержится 'мусор' :")
-        print(root_list)
-        raise SystemExit(1)
-
-
-def checker_trash_doc(doc_list):
-    delete_if_found(doc_list, get_spec(doc_list))
-    delete_if_found(doc_list, get_sch_pdf(doc_list))
-    delete_if_found(doc_list, 'schematic_previews')
-    delete_if_found(doc_list, '.DS_Store')
-    if len(doc_list) != 0:
-        print("В папке /doc репозитория содержится 'мусор' :")
-        print(doc_list)
-        raise SystemExit(1)
-
-
-def check_list(vault):
-    list = os.listdir(vault)
-    files_list_checker_doc(list)
-    list = os.listdir(vault + "doc")
-    files_list_checker_schematics_previews(list)
-    list = os.listdir(vault)
-    checker_trash_root(list)
-    list = os.listdir(vault + "doc")
-    get_spec(list)
-    list = os.listdir(vault + "doc")
-    get_sch_pdf(list)
-    list = os.listdir(vault + "doc")
-    checker_trash_doc(list)
-    list = os.listdir(vault + "doc/schematic_previews/")
-    check_previews(list)
+    # Белый список допустимых файлов/папок в /doc
+    allowed_doc = {spec_file, pdf_file, "schematic_previews", ".DS_Store"}
+    _check_no_trash("папке /doc", doc_names, allowed_doc)
 
 
 def get_vault_test():
     return "/Users/doc/projects/dm/server-cabinet/"
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
+    # Локальный ручной запуск проверки
     check_list(get_vault_test())
