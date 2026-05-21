@@ -1,0 +1,59 @@
+<definition link_type="master" hotspot_x="36" hotspot_y="10" type="element" height="30" width="90" version="0.100.0">
+    <uuid uuid="{8fd63283-b286-4b26-ae25-acb1dbf0e090}"/>
+    <names>
+        <name lang="en">Panel Side Female</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="supplier">https://aliexpress.ru/item/1005009260066931.html?spm=a2g2w.detail.rcmdprod.19.6dae1b79aRVTqZ&amp;mixer_rcmd_bucket_id=controlRu3&amp;pdp_trigger_item_id=0_1005009855852028&amp;ru_algo_pv_id=791423-61b690-d91318-fbcd90-1774274400&amp;scenario=aerSimilarItemPdpRcmd&amp;sku_id=12000048515388545&amp;traffic_source=recommendation&amp;type_rcmd=core</elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="description">15EDGWC-15EDGKDPM-KDM-3,81 мм, 5 pin настенных пружинных разъемов, полный комплект</elementInformation>
+        <elementInformation show="1" name="manufacturer">China</elementInformation>
+        <elementInformation show="1" name="designation">Unknown43958072984983</elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="0.25" end1="none" y2="-2.75" end2="none" length1="1.5" x1="25.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="28.5"/>
+        <line antialias="false" y1="0.25" end1="none" y2="-2.75" end2="none" length1="1.5" x1="45.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="48.5"/>
+        <line antialias="false" y1="0.25" end1="none" y2="-2.75" end2="none" length1="1.5" x1="5.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="8.5"/>
+        <line antialias="false" y1="-2.75" end1="none" y2="0.25" end2="none" length1="1.5" x1="48.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="51.5"/>
+        <line antialias="false" y1="0.25" end1="none" y2="-2.75" end2="none" length1="1.5" x1="-14.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-11.5"/>
+        <line antialias="false" y1="11.25" end1="none" y2="-1.75" end2="none" length1="1.5" x1="48.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="48.5"/>
+        <line antialias="false" y1="-2.75" end1="none" y2="0.25" end2="none" length1="1.5" x1="8.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="11.5"/>
+        <line antialias="false" y1="2.25" end1="none" y2="2.25" end2="none" length1="1.5" x1="-11.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="48.5"/>
+        <line antialias="false" y1="-2.75" end1="none" y2="0.25" end2="none" length1="1.5" x1="-11.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-8.5"/>
+        <line antialias="false" y1="4.25" end1="none" y2="4.25" end2="none" length1="1.5" x1="-11.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="48.5"/>
+        <line antialias="false" y1="-2.75" end1="none" y2="0.25" end2="none" length1="1.5" x1="28.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="31.5"/>
+        <line antialias="false" y1="11.25" end1="none" y2="-1.75" end2="none" length1="1.5" x1="28.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="28.5"/>
+        <line antialias="false" y1="11.25" end1="none" y2="-1.75" end2="none" length1="1.5" x1="-11.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-11.5"/>
+        <line antialias="false" y1="11.25" end1="none" y2="-1.75" end2="none" length1="1.5" x1="8.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="8.5"/>
+        <line antialias="false" y1="0.25" end1="none" y2="-2.75" end2="none" length1="1.5" x1="-34.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-31.5"/>
+        <line antialias="false" y1="-2.75" end1="none" y2="0.25" end2="none" length1="1.5" x1="-31.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-28.5"/>
+        <line antialias="false" y1="11.25" end1="none" y2="-1.75" end2="none" length1="1.5" x1="-31.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-31.5"/>
+        <line antialias="false" y1="2.25" end1="none" y2="2.25" end2="none" length1="1.5" x1="-31.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="28.5"/>
+        <dynamic_text z="25" uuid="{54146f8c-a958-4788-95da-50831844a381}" frame="false" keep_visual_rotation="false" Valignment="AlignTop" Halignment="AlignLeft" text_width="-1" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" x="60" y="-5">
+            <text>Unknown43958072984983</text>
+            <info_name>designation</info_name>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text z="26" uuid="{15e8e295-9cbf-43bd-9e6f-4fef60b707bd}" frame="false" keep_visual_rotation="false" Valignment="AlignTop" Halignment="AlignLeft" text_width="-1" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" x="83.5" y="-23.75">
+            <text></text>
+            <info_name>label</info_name>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <line antialias="false" y1="4.25" end1="none" y2="4.25" end2="none" length1="1.5" x1="-31.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="28.5"/>
+        <terminal uuid="{594fa50f-960f-4a11-8a54-768f8001c2f6}" orientation="s" type="Generic" x="-11.5" name="" y="11.25"/>
+        <terminal uuid="{4cf7707c-eb27-4e1c-9a33-3cca3a6238d7}" orientation="s" type="Generic" x="8.5" name="" y="11.25"/>
+        <terminal uuid="{a3f3efd6-78c5-4713-9527-fc97665a1534}" orientation="s" type="Generic" x="48.5" name="" y="11.25"/>
+        <terminal uuid="{b4a294cc-0b0a-430e-9a95-ae271100bcc0}" orientation="s" type="Generic" x="-31.5" name="" y="11.25"/>
+        <terminal uuid="{01866ac4-1f05-4f82-a269-27f4da657bab}" orientation="s" type="Generic" x="28.5" name="" y="11.25"/>
+    </description>
+</definition>

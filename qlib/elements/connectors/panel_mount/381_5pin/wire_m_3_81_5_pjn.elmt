@@ -1,0 +1,37 @@
+<definition link_type="slave" hotspot_x="40" hotspot_y="6" type="element" height="30" width="100" version="0.100.0">
+    <uuid uuid="{308f2efe-43cc-45a6-8acf-d4c9ca10dafd}"/>
+    <names>
+        <name lang="en">Wire Side Male</name>
+        <name lang="ru">Wire Side Male</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="18.2864" end1="none" y2="15.2864" end2="none" length1="1.5" x1="46.7526" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="49.7526"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="18.2864" end2="none" length1="1.5" x1="49.5026" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="52.5026"/>
+        <line antialias="false" y1="18.2864" end1="none" y2="15.2864" end2="none" length1="1.5" x1="-33.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30.4974"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="4.2864" end2="none" length1="1.5" x1="49.7526" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="49.7526"/>
+        <line antialias="false" y1="18.2864" end1="none" y2="15.2864" end2="none" length1="1.5" x1="7.2526" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10.2526"/>
+        <line antialias="false" y1="18.2864" end1="none" y2="15.2864" end2="none" length1="1.5" x1="27.0026" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="30.0026"/>
+        <line antialias="false" y1="18.2864" end1="none" y2="15.2864" end2="none" length1="1.5" x1="-12.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-9.4974"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="18.2864" end2="none" length1="1.5" x1="10.0026" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="13.0026"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="18.2864" end2="none" length1="1.5" x1="29.7526" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="32.7526"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="18.2864" end2="none" length1="1.5" x1="-9.7474" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-6.7474"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="4.2864" end2="none" length1="1.5" x1="10.2526" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10.2526"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="4.2864" end2="none" length1="1.5" x1="30.0026" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="30.0026"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="18.2864" end2="none" length1="1.5" x1="-30.7474" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-27.7474"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="4.2864" end2="none" length1="1.5" x1="-9.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-9.4974"/>
+        <line antialias="false" y1="15.2864" end1="none" y2="4.2864" end2="none" length1="1.5" x1="-30.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-30.4974"/>
+        <line antialias="false" y1="7.2864" end1="none" y2="8" end2="none" length1="1.5" x1="-36.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="55"/>
+        <line antialias="false" y1="9.2864" end1="none" y2="10" end2="none" length1="1.5" x1="-36.4974" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="55"/>
+        <terminal uuid="{8ae34ae2-420a-4f78-8837-4c4ea6115557}" orientation="n" type="Generic" x="-30" name="" y="0"/>
+        <terminal uuid="{82bb28bb-3b8d-4653-90bb-d656204c3e30}" orientation="n" type="Generic" x="50" name="" y="0"/>
+        <terminal uuid="{9cc5bf43-637e-4a5a-b61e-dab12ad1d8b7}" orientation="n" type="Generic" x="10" name="" y="0"/>
+        <terminal uuid="{f6e8003d-56f9-4050-ac53-58f95d3b5254}" orientation="n" type="Generic" x="-10" name="" y="0"/>
+        <terminal uuid="{3625c566-0611-4cb7-b551-369ccb9c2187}" orientation="n" type="Generic" x="30" name="" y="0"/>
+    </description>
+</definition>

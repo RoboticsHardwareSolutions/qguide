@@ -1,0 +1,33 @@
+<definition link_type="slave" hotspot_x="41" hotspot_y="6" type="element" width="80" height="30" version="0.100.0">
+    <uuid uuid="{a939596e-4cc4-4983-958f-9644f44e5afc}"/>
+    <names>
+        <name lang="en">Wire Side Male</name>
+        <name lang="ru">Wire Side Male</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line y1="18.2864" antialias="false" y2="15.2864" x1="-33.4974" x2="-30.4974" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="18.2864" antialias="false" y2="15.2864" x1="7.2526" x2="10.2526" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="18.2864" antialias="false" y2="15.2864" x1="27.0026" x2="30.0026" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="18.2864" antialias="false" y2="15.2864" x1="-12.4974" x2="-9.4974" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="18.2864" x1="10.0026" x2="13.0026" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="18.2864" x1="29.7526" x2="32.7526" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="18.2864" x1="-9.7474" x2="-6.7474" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="4.2864" x1="10.2526" x2="10.2526" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="4.2864" x1="30.0026" x2="30.0026" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="18.2864" x1="-30.7474" x2="-27.7474" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="4.2864" x1="-9.4974" x2="-9.4974" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="15.2864" antialias="false" y2="4.2864" x1="-30.4974" x2="-30.4974" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="7.2864" antialias="false" y2="8" x1="-36.4974" x2="34" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <line y1="9.2864" antialias="false" y2="10" x1="-36.4974" x2="34" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" length1="1.5" length2="1.5"/>
+        <terminal orientation="n" type="Generic" x="30" y="0" name="" uuid="{3625c566-0611-4cb7-b551-369ccb9c2187}"/>
+        <terminal orientation="n" type="Generic" x="-10" y="0" name="" uuid="{f6e8003d-56f9-4050-ac53-58f95d3b5254}"/>
+        <terminal orientation="n" type="Generic" x="-30" y="0" name="" uuid="{8ae34ae2-420a-4f78-8837-4c4ea6115557}"/>
+        <terminal orientation="n" type="Generic" x="10" y="0" name="" uuid="{9cc5bf43-637e-4a5a-b61e-dab12ad1d8b7}"/>
+    </description>
+</definition>
