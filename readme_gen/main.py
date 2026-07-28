@@ -1,96 +1,66 @@
 import os
-import sys
+from pathlib import Path
 
 
-def delete_if_found(file_list, name):
-    try:
-        index = file_list.index(name)
-    except ValueError:
-        index = None
-    if index is not None:
-        file_list.remove(name)
+def get_schematic_previews(vault: str) -> list[str]:
+    """Получить список изображений схем."""
+    previews_dir = Path(vault) / "doc" / "schematic_previews"
+    if not previews_dir.exists():
+        return []
+
+    pictures = [p for p in os.listdir(previews_dir) if not p.startswith('.')]
+    return sorted(pictures)
 
 
-def get_schematic_previews_list(vault):
-    str = vault + "doc/schematic_previews/"
-    pictures = os.listdir(str)
-    delete_if_found(pictures, '.DS_Store')  # fucking NTFS / APFS
-    return pictures
+def create_title(vault: str) -> str:
+    """Создать заголовок из имени папки."""
+    path = Path(vault).resolve()
+    name = path.name.replace("_", " ").replace("-", " ").upper()
+    return f"## {name}"
 
 
-def create_name(vault):
-    index = None
-    for i in range(2, len(vault)):
-        if vault[i * -1] == "/" and i != 0:
-            index = len(vault) + (i * -1)
-            break
-    if index is not None:
-        last_index = (len(vault) - 1, len(vault) - 2)[vault[len(vault) - 1] != "/"]
-        name = vault[index + 1: last_index]
-        name = name.replace("_", " ")
-        name = name.replace("-", " ")
-        name = name.upper()
-        name = "## " + name
-        return name
-    return None
+def sort_by_numeric_prefix(pictures: list[str]) -> tuple[list[str], list[str]]:
+    """Разделить изображения на X_ и XX_ по префиксу."""
+    pic_x = [p for p in pictures if p[0].isdigit() and not p[1].isdigit()]
+    pic_xx = [p for p in pictures if p[0].isdigit() and p[1].isdigit()]
+    return sorted(pic_x), sorted(pic_xx)
 
 
-def cmplt_readme(vault):
-    readme = open(vault + 'README.md', 'w')
-    name = create_name(vault)
-    readme.write(name + "\n")
-    pic = get_schematic_previews_list(vault)
-    pic_xx_ = []
-    pic_x_ = []
-    for name in pic:
-        if name[0].isnumeric() and name[1].isnumeric():
-            pic_xx_.append(name)
-        if name[0].isnumeric() and not name[1].isnumeric():
-            pic_x_.append(name)
-    if len(pic_x_) != 0:
-        pic_x_.sort()
-        for i in pic_x_:
-            readme.write("![pic](doc/schematic_previews/" + i + ")    \n")
-    if len(pic_xx_) != 0:
-        pic_xx_.sort()
-        for i in pic_xx_:
-            readme.write("![pic](doc/schematic_previews/" + i + ")    \n")
+def write_readme(vault: str) -> None:
+    """Сгенерировать README.md с превью схем."""
+    vault_path = Path(vault)
+
+    # Удаляем старый README
+    for readme_name in ["Readme.md", "README.md"]:
+        (vault_path / readme_name).unlink(missing_ok=True)
+
+    # Генерируем новый
+    readme_path = vault_path / "README.md"
+    title = create_title(vault)
+    pictures = get_schematic_previews(vault)
+    pic_x, pic_xx = sort_by_numeric_prefix(pictures)
+
+    lines = [title, ""]
+    for p in pic_x + pic_xx:
+        lines.append(f"![pic](doc/schematic_previews/{p})    ")
+
+    readme_path.write_text("\n".join(lines) + "\n")
 
 
-def get_readme_name(vault):
-    dir_list = os.listdir(vault)
-    try:
-        index = dir_list.index("Readme.md")
-    except ValueError:
-        index = None
-    try:
-        index = dir_list.index("README.md")
-    except ValueError:
-        index = None
+def get_vault_arg() -> str:
+    """Получить путь к vault из аргументов командной строки."""
+    if len(sys.argv) < 2:
+        print("Ошибка: не указан путь к vault")
+        sys.exit(1)
 
-    if index is None:
-        return None
-    else:
-        return dir_list[index]
-
-
-def delete_current_readme(vault):
-    if get_readme_name(vault) is not None:
-        os.remove(vault + "/" + get_readme_name(vault))
-
-
-def gen_readme(vault):
-    delete_current_readme(vault)
-    cmplt_readme(vault)
-
-
-def get_vault():
-    arg = sys.argv[1]
-    vault = (arg, arg + "/")[arg[len(arg) - 1] != "/"]
-    return vault
+    path = sys.argv[1]
+    return str(Path(path).resolve()) + "/"
 
 
 if __name__ == '__main__':
+    import sys
+
     print("Electrical Readme generator")
-    gen_readme(get_vault())
-    print("Файл Readme готов")
+    vault = get_vault_arg()
+    write_readme(vault)
+    print("Файл README.md готов")

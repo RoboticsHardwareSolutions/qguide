@@ -1,0 +1,27 @@
+<definition type="element" link_type="master" hotspot_x="30" hotspot_y="24" width="60" height="50" version="0.100.0">
+    <uuid uuid="{54298d8c-8465-4ead-bddc-892194514d04}"/>
+    <names>
+        <name lang="en">РКН-3-15-15 AC230В/AC400B УХЛ4</name>
+        <name lang="ru">РКН-3-15-15 AC230В/AC400B УХЛ4</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="description" show="1">Реле контроля трехфазного напряжения в четырехпроводной сети РКН-3-15-15</elementInformation>
+        <elementInformation name="designation" show="1">РКН-3-15-15 AC230В/AC400B УХЛ4</elementInformation>
+        <elementInformation name="manufacturer" show="1">Меандр</elementInformation>
+        <elementInformation name="supplier" show="1">https://www.meandr.ru/rkn-3-15-15</elementInformation>
+    </elementInformations>
+    <description>
+        <rect ry="0" x="-25" y="-15" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="50" height="30" rx="0"/>
+        <text x="-3" y="-8" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L2"/>
+        <text x="17" y="-8" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L3"/>
+        <text x="-2" y="12" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="N"/>
+        <text x="-22" y="-5" font="Liberation Sans,6,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="L1"/>
+        <terminal type="Generic" x="0" y="20" name="" uuid="{19e4c287-eb49-4d6a-acc9-057164cd09ab}" orientation="s"/>
+        <terminal type="Generic" x="0" y="-20" name="" uuid="{6c58b62b-d48d-4ae2-a52f-1c6582d8f0c8}" orientation="n"/>
+        <terminal type="Generic" x="-20" y="-20" name="" uuid="{6965a3c9-8f62-44a2-bbd4-8d626f693a8a}" orientation="n"/>
+        <terminal type="Generic" x="20" y="-20" name="" uuid="{a15e83f0-98d9-479c-bae5-dd9c200e86bf}" orientation="n"/>
+    </description>
+</definition>
