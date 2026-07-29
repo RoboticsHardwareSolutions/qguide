@@ -1,0 +1,47 @@
+<definition type="element" link_type="master" hotspot_x="25" hotspot_y="41" width="50" height="70" version="0.100.0">
+    <uuid uuid="{1e615bd6-2dc6-40d5-bbb7-7e95cad81159}"/>
+    <names>
+        <name lang="en">Battery 2p18s 23860 C1</name>
+        <name lang="ru">Батарея 2p24s 23860 C1</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="description" show="1">Battery 2p18s 23860</elementInformation>
+        <elementInformation name="designation" show="1">Battery 2p18s 23860</elementInformation>
+        <elementInformation name="manufacturer" show="1">Comitas</elementInformation>
+    </elementInformations>
+    <description>
+        <line end1="none" end2="none" y1="24" antialias="true" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" length1="1.5" x2="-10" length2="1.5"/>
+        <text x="12" y="5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" color="#000000" text="2 V-"/>
+        <text x="-8" y="5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" color="#000000" text="1 V+"/>
+        <line end1="none" end2="none" y1="24" antialias="true" y2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="true" y2="24" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.75" length1="1.5" x2="12.75" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="true" y2="24" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10.25" length1="1.5" x2="-7.25" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="true" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="true" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="14" antialias="true" y2="14" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-16" length1="1.5" x2="15" length2="1.5"/>
+        <line end1="none" end2="none" y1="17" antialias="true" y2="17" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-16" length1="1.5" x2="15" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" length1="1.5" x2="-20" length2="1.5"/>
+        <line end1="none" end2="none" y1="10" antialias="true" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" length1="1.5" x2="20" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" length1="1.5" x2="-15" length2="1.5"/>
+        <line end1="none" end2="none" y1="-36" antialias="true" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-15" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="-31" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="5" length2="1.5"/>
+        <line end1="none" end2="none" y1="-36" antialias="true" y2="-36" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="5" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-36" antialias="true" y2="-31" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="true" y2="-31" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="20" length2="1.5"/>
+        <text x="-3" y="-23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="C1"/>
+        <line end1="none" end2="none" y1="-30" antialias="true" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="20" length1="1.5" x2="20" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="25" y="10" z="42" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{6c328b10-ed15-47fb-a52c-65c31e5c1a16}" keep_visual_rotation="false" text_from="CompositeText" Valignment="AlignTop">
+            <text>Battery 2p18s 23860</text>
+            <composite_text>%{designation}</composite_text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="40" y="40" z="43" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{3ef7d321-1017-4bda-8521-89da915f7a86}" keep_visual_rotation="false" text_from="CompositeText" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+    </description>
+</definition>
