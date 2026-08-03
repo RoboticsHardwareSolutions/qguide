@@ -1,0 +1,47 @@
+<definition type="element" hotspot_y="35" version="0.100.0" height="80" width="60" link_type="slave" hotspot_x="29">
+    <uuid uuid="{1b6615f3-12c3-4550-97cb-ebd8b6bdab82}"/>
+    <names>
+        <name lang="en">PMS Power BTN Connector</name>
+        <name lang="ru">PMS Power BTN Connector</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <line end1="none" end2="none" y1="40" length1="1.5" y2="37" length2="1.5" x1="-10" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="40" length1="1.5" y2="37" length2="1.5" x1="10" x2="13" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text x="-8" y="23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" text="1 - BTN"/>
+        <line end1="none" end2="none" y1="37" length1="1.5" y2="40" length2="1.5" x1="7" x2="9.75" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text x="12" y="23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="270" text="2 - GND"/>
+        <line end1="none" end2="none" y1="40" length1="1.5" y2="26" length2="1.5" x1="10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="37" length1="1.5" y2="40" length2="1.5" x1="-13" x2="-10.25" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="40" length1="1.5" y2="26" length2="1.5" x1="-10" x2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="30" length1="1.5" y2="30" length2="1.5" x1="-16" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="33" length1="1.5" y2="33" length2="1.5" x1="-16" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="26" length2="1.5" x1="-24" x2="-24" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="26" length1="1.5" y2="26" length2="1.5" x1="-24" x2="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-31" length2="1.5" x1="-24" x2="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-31" length1="1.5" y2="-31" length2="1.5" x1="-19" x2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-31" length2="1.5" x1="-14" x2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-26" length2="1.5" x1="-14" x2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-31" length2="1.5" x1="-4" x2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-31" length1="1.5" y2="-31" length2="1.5" x1="1" x2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-31" length1="1.5" y2="-26" length2="1.5" x1="6" x2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-26" length2="1.5" x1="6" x2="16" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-26" length1="1.5" y2="-31" length2="1.5" x1="16" x2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-31" length1="1.5" y2="-31" length2="1.5" x1="26" x2="21" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" end2="none" y1="-31" length1="1.5" y2="25" length2="1.5" x1="26" x2="26" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <text x="-4" y="-12" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" text="X5"/>
+        <dynamic_text x="35" y="-15" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" z="42" text_from="ElementInfo" uuid="{07002baa-da91-43e7-807b-243e5098e7ea}" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" rotation="0" frame="false" text_width="-1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text x="35" y="5" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" z="43" text_from="ElementInfo" uuid="{c0bd6300-9a2f-40f7-b547-64fc5b718bd7}" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft" rotation="0" frame="false" text_width="-1">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>
