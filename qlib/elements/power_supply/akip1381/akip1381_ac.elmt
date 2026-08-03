@@ -1,0 +1,25 @@
+<definition type="element" link_type="slave" hotspot_x="72" hotspot_y="57" width="140" height="110" version="0.100.0">
+    <uuid uuid="{0cb35219-3b1f-4ff2-aeb4-768ca9bf21dd}"/>
+    <names>
+        <name lang="en">AKIP1381 AC Input Terminal</name>
+        <name lang="ru">АКИП1381 Сетевой вход</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <description>
+        <rect ry="0" x="-70" y="-50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="135" height="100" rx="0"/>
+        <circle x="-5" y="-55" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <circle x="-35" y="-55" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <circle x="25" y="-55" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <text x="-40" y="-30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="&quot;PE&quot;"/>
+        <text x="-5" y="-30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="&quot;N&quot;"/>
+        <text x="25" y="-30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="&quot;L&quot;"/>
+        <text x="-35" y="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="AC Input Terminal"/>
+        <terminal type="Generic" x="30" y="-50" name="" uuid="{4d676867-66d9-4967-83c0-20ab6d5ca3c9}" orientation="n"/>
+        <terminal type="Generic" x="0" y="-50" name="" uuid="{9b2afcc1-6826-4978-ac33-9697619cfc51}" orientation="n"/>
+        <terminal type="Generic" x="-30" y="-50" name="" uuid="{3c9ef860-3af3-463c-ba4c-3dca9d8719c8}" orientation="n"/>
+    </description>
+</definition>

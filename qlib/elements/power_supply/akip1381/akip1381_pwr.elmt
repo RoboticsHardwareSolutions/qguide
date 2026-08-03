@@ -1,0 +1,37 @@
+<definition type="element" link_type="master" hotspot_x="55" hotspot_y="42" width="110" height="90" version="0.100.0">
+    <uuid uuid="{7f608c61-5371-4b33-bd58-11aedbfa2dab}"/>
+    <names>
+        <name lang="en">AKIP1381 Power Conn</name>
+        <name lang="ru">АКИП1381 Выход питания</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="comment" show="1">Prog. Load</elementInformation>
+        <elementInformation name="description" show="1">Programmable Load 500V 60A</elementInformation>
+        <elementInformation name="designation" show="1">AKIP1381</elementInformation>
+        <elementInformation name="manufacturer" show="1">AKIP</elementInformation>
+    </elementInformations>
+    <description>
+        <circle x="7" y="35" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6"/>
+        <circle x="-13" y="35" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="6"/>
+        <rect ry="0" x="-50" y="-38.01" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="100" height="76.23" rx="0"/>
+        <line end1="none" end2="none" y1="25" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="17" length2="1.5"/>
+        <line end1="none" end2="none" y1="25" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-8" length1="1.5" x2="-18" length2="1.5"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" length1="1.5" x2="-13" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="88" y="-32" z="15" rotation="90" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{a3d451d1-ee56-4fe6-9620-a24f270ba668}" keep_visual_rotation="false" text_from="CompositeText" Valignment="AlignTop">
+            <text></text>
+            <composite_text>%{label}</composite_text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="70" y="-30" z="16" rotation="90" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{7fe07a77-3281-40c8-81dc-c9e7ee701029}" keep_visual_rotation="false" text_from="CompositeText" Valignment="AlignTop">
+            <text>Prog. Load</text>
+            <composite_text>%{comment}</composite_text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-49" y="-19" z="17" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{1d9f3426-b3e7-4c64-882a-23197f345c8d}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>DC Output Terminal</text>
+        </dynamic_text>
+        <terminal type="Generic" x="10" y="40" name="" uuid="{a491d317-2e75-4f3b-85bd-b6909891ceca}" orientation="s"/>
+        <terminal type="Generic" x="-10" y="40" name="" uuid="{0f999e59-bfcc-4f82-9aba-419040d5b2f3}" orientation="s"/>
+    </description>
+</definition>
