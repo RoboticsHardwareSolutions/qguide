@@ -1,0 +1,45 @@
+<definition type="element" link_type="slave" hotspot_x="29" hotspot_y="36" width="60" height="80" version="0.100.0">
+    <uuid uuid="{b415d745-e125-46d0-851a-121e2296355b}"/>
+    <names>
+        <name lang="en">PMS Discharge Connector</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <description>
+        <line end1="none" end2="none" y1="40" antialias="false" y2="37" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-7" length2="1.5"/>
+        <line end1="none" end2="none" y1="40" antialias="false" y2="37" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="13" length2="1.5"/>
+        <text x="12" y="23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" color="#000000" text="1 - VBAT+"/>
+        <line end1="none" end2="none" y1="37" antialias="false" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="10" length2="1.5"/>
+        <text x="-8" y="23" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="270" color="#000000" text="2 - VBAT-"/>
+        <line end1="none" end2="none" y1="40" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="37" antialias="false" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-13" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="40" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" length1="1.5" x2="-10" length2="1.5"/>
+        <line end1="none" end2="none" y1="29" antialias="false" y2="29" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-16" length1="1.5" x2="20" length2="1.5"/>
+        <line end1="none" end2="none" y1="32" antialias="false" y2="32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-16" length1="1.5" x2="20" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" length1="1.5" x2="-24" length2="1.5"/>
+        <line end1="none" end2="none" y1="25" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" length1="1.5" x2="26" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-24" length1="1.5" x2="-19" length2="1.5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-19" length1="1.5" x2="-14" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-14" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-14" length1="1.5" x2="-4" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-4" length1="1.5" x2="1" length2="1.5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="1" length1="1.5" x2="6" length2="1.5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="6" length1="1.5" x2="6" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="6" length1="1.5" x2="16" length2="1.5"/>
+        <line end1="none" end2="none" y1="-27" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="16" length1="1.5" x2="21" length2="1.5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="26" length1="1.5" x2="21" length2="1.5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="24" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="26" length1="1.5" x2="26" length2="1.5"/>
+        <text x="-14" y="-15" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="Discharge"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="35" y="-16" z="42" rotation="0" font="Sans Serif,8,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{07002baa-da91-43e7-807b-243e5098e7ea}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="40" y="0" z="43" rotation="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_width="-1" uuid="{c0bd6300-9a2f-40f7-b547-64fc5b718bd7}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

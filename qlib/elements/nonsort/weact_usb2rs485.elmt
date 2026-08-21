@@ -1,0 +1,42 @@
+<definition type="element" link_type="simple" hotspot_x="72" hotspot_y="45" width="150" height="90" version="0.100.0">
+    <uuid uuid="{db317c47-ace4-4900-aa27-5056b3affceb}"/>
+    <names>
+        <name lang="en">WeAct USB to RS485 adapter</name>
+        <name lang="ru">WeAct USB в RS485 адаптер</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="15" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <text x="-33.75" y="8.75" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="270" color="#000000" text="USB-C"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <arc x="-62.75" y="9.75" antialias="true" style="line-style:normal;line-weight:hight;filling:none;color:black" start="270" width="20" height="20" angle="90"/>
+        <arc x="-62.75" y="9.75" antialias="true" style="line-style:normal;line-weight:hight;filling:none;color:black" start="180" width="20" height="20" angle="90"/>
+        <arc x="-62.75" y="-30.25" antialias="true" style="line-style:normal;line-weight:hight;filling:none;color:black" start="90" width="20" height="20" angle="90"/>
+        <arc x="-62.75" y="-30.25" antialias="true" style="line-style:normal;line-weight:hight;filling:none;color:black" start="0" width="20" height="20" angle="90"/>
+        <line end1="none" end2="none" y1="19.75" antialias="false" y2="-20.25" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-62.75" length1="1.5" x2="-62.75" length2="1.5"/>
+        <line end1="none" end2="none" y1="19.75" antialias="false" y2="-20.25" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-42.75" length1="1.5" x2="-42.75" length2="1.5"/>
+        <line end1="none" end2="none" y1="19.75" antialias="false" y2="-20.25" style="line-style:normal;line-weight:eleve;filling:none;color:black" x1="-52.75" length1="1.5" x2="-52.75" length2="1.5"/>
+        <line end1="none" end2="none" y1="-40" antialias="false" y2="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-70" length1="1.5" x2="60" length2="1.5"/>
+        <line end1="none" end2="none" y1="-40" antialias="false" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" length1="1.5" x2="60" length2="1.5"/>
+        <line end1="none" end2="none" y1="40" antialias="false" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" length1="1.5" x2="-70" length2="1.5"/>
+        <line end1="none" end2="none" y1="-40" antialias="false" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-70" length1="1.5" x2="-70" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" length1="1.5" x2="70" length2="1.5"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" length1="1.5" x2="70" length2="1.5"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="60" length1="1.5" x2="70" length2="1.5"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="70" length1="1.5" x2="75" length2="1.5"/>
+        <text x="30" y="-20" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="GND"/>
+        <text x="30" y="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="D-"/>
+        <text x="30" y="20" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="D+"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-70" y="-60" z="27" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{f3f118bd-8ad1-49e6-845c-831aaf62710d}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-70" y="-80" z="28" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{414ca76f-28cc-4a87-b7ce-a19392975ec0}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+    </description>
+</definition>

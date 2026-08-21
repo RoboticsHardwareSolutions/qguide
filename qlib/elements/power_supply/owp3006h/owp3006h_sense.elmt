@@ -1,0 +1,28 @@
+<definition type="element" link_type="slave" hotspot_x="65" hotspot_y="44" width="130" height="90" version="0.100.0">
+    <uuid uuid="{725d8222-112c-4a08-aeb6-d515be27f6b9}"/>
+    <names>
+        <name lang="en">OWP3006H Sense Terminals</name>
+        <name lang="ru">OWP3006H Компенсационный вход</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">NO</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <description>
+        <rect ry="0" x="-60" y="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="120" height="80" rx="0"/>
+        <circle x="27.5" y="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <circle x="7.5" y="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <circle x="-12.5" y="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <circle x="-32.5" y="37.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <text x="-30" y="30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="1"/>
+        <text x="-10" y="30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="2"/>
+        <text x="10" y="30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="3"/>
+        <text x="30" y="30" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="4"/>
+        <text x="-30" y="-15" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" color="#000000" text="Sens terminals"/>
+        <terminal type="Generic" x="30" y="40" name="" uuid="{05adb5f7-1015-4259-801e-8898bfcc1a60}" orientation="s"/>
+        <terminal type="Generic" x="-30" y="40" name="" uuid="{64c3ebd0-5feb-467d-97e7-42b8794fb073}" orientation="s"/>
+        <terminal type="Generic" x="-10" y="40" name="" uuid="{51408300-c580-42a8-bbcf-3e5af37b24ec}" orientation="s"/>
+        <terminal type="Generic" x="10" y="40" name="" uuid="{2a03b70f-0752-4244-a920-a855091ba68d}" orientation="s"/>
+    </description>
+</definition>
